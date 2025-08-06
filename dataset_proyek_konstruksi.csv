@@ -1,0 +1,1001 @@
+project_id,project_type,client_type,contract_type,is_design_and_build,nilai_kontrak_awal_miliar_rp,total_jam_kerja_estimasi,volume_pekerjaan_tanah_m3,volume_beton_m3,berat_baja_struktural_ton,panjang_instalasi_utama_km,jumlah_titik_akhir_instalasi,jumlah_item_pekerjaan_utama,tingkat_risiko_geoteknik,lokasi_provinsi,lokasi_urban_rural,musim_pelaksanaan,indeks_harga_komoditas_saat_mulai,jumlah_kompetitor_saat_tender,pengalaman_pm_tahun,jumlah_sdm_inti,persentase_subkontraktor,biaya_akhir_riil_miliar_rp,durasi_akhir_riil_hari,profit_margin_riil_persen,terjadi_pembengkakan_biaya_signifikan,terjadi_keterlambatan_signifikan
+PJ-100,Perumahan,BUMN,Lump Sum,1,67.0,268005,33500,16750,0,0.0,1675,39,2,Kalimantan Timur,Urban,Hujan,100.54,4,21,14,50,67.0,3263,0.0,1,0
+PJ-101,Jalan Tol,Swasta Asing,Lump Sum,0,2322.37,4644734,6967101,464473,23223,58.06,0,1157,2,Kalimantan Timur,Urban,Hujan,109.77,8,22,234,38,2364.39,3383,-1.81,1,0
+PJ-102,Jalan Tol,BUMN,Cost Plus,0,2089.79,4179571,6269356,417957,20897,52.24,0,1041,3,Kalimantan Timur,Sub-urban,Kemarau,104.01,9,4,211,40,1865.88,4611,10.71,0,1
+PJ-103,Jaringan IT,Swasta Asing,Cost Plus,0,38.56,192819,0,0,0,57.85,1928,1,3,Papua Selatan,Rural,Kemarau,110.14,6,11,12,62,40.83,2738,-5.87,1,0
+PJ-104,Perumahan,Swasta Nasional,Cost Plus,0,114.27,457083,57135,28567,0,0.0,2856,52,1,Lampung,Sub-urban,Hujan,101.13,5,18,26,38,102.03,2996,10.71,0,0
+PJ-105,Jalan Tol,Swasta Nasional,Lump Sum,0,2613.45,5226899,7840349,522689,26134,65.34,0,1308,5,Sumatera Utara,Rural,Kemarau,115.05,8,24,263,50,3077.11,4213,-17.74,1,1
+PJ-106,Perumahan,Pemda,Cost Plus,0,186.65,746589,93323,46661,0,0.0,4666,91,3,Kepulauan Riau,Rural,Kemarau,105.98,7,18,38,66,166.65,3348,10.71,0,0
+PJ-107,Gedung Perkantoran,Pemda,Cost Plus,0,216.38,649139,0,21637,4327,0.0,4327,110,2,Sumatera Utara,Urban,Kemarau,108.04,7,8,35,28,241.49,3161,-11.61,1,0
+PJ-108,Gedung Perkantoran,Pemda,Harga Satuan,0,190.81,572416,0,19080,3816,0.0,3816,95,1,Kalimantan Timur,Rural,Kemarau,107.36,4,10,29,25,170.36,3364,10.71,0,0
+PJ-109,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,164.81,494420,0,16480,3296,0.0,3296,101,2,Kalimantan Selatan,Urban,Kemarau,114.42,5,9,25,17,147.15,3371,10.71,0,0
+PJ-110,Jaringan IT,Swasta Asing,Lump Sum,0,26.63,133131,0,0,0,39.94,1331,-7,1,Sumatera Selatan,Rural,Kemarau,108.07,9,19,10,51,23.77,2269,10.71,0,0
+PJ-111,Perumahan,Swasta Nasional,Cost Plus,0,91.37,365478,45684,22842,0,0.0,2284,44,3,Riau,Rural,Hujan,114.03,9,24,19,45,92.34,3278,-1.06,1,0
+PJ-112,Gedung Perkantoran,BUMN,Cost Plus,0,57.58,172725,0,5757,1151,0.0,1151,28,2,Jawa Timur,Rural,Hujan,112.9,3,14,12,23,51.41,2453,10.71,0,0
+PJ-113,Jaringan IT,Swasta Nasional,Lump Sum,0,62.74,313684,0,0,0,94.11,3136,18,2,Sulawesi Selatan,Rural,Kemarau,109.72,3,10,18,19,56.02,2970,10.71,0,0
+PJ-114,Jaringan IT,Swasta Nasional,Harga Satuan,0,71.47,357352,0,0,0,107.21,3573,22,2,Banten,Urban,Hujan,101.85,9,13,18,29,63.81,3893,10.71,0,1
+PJ-115,Jaringan IT,Swasta Asing,Cost Plus,0,92.63,463134,0,0,0,138.94,4631,58,1,Papua Tengah,Urban,Hujan,100.17,6,16,24,63,111.19,3289,-20.04,1,0
+PJ-116,Jalan Tol,Swasta Nasional,Harga Satuan,0,2899.58,5799168,8698752,579916,28995,72.49,0,1429,2,Bali,Rural,Hujan,112.18,3,6,293,55,3479.22,3769,-19.99,1,1
+PJ-117,Jaringan IT,Swasta Asing,Cost Plus,0,64.04,320205,0,0,0,96.06,3202,39,1,Papua Pegunungan,Urban,Kemarau,104.55,4,13,18,55,57.18,3032,10.71,0,0
+PJ-118,Perumahan,BUMN,Lump Sum,1,121.03,484107,60513,30256,0,0.0,3025,70,3,Sulawesi Barat,Urban,Hujan,112.64,3,8,28,75,137.38,2947,-13.51,1,0
+PJ-119,Jalan Tol,Pemda,Harga Satuan,0,1078.56,2157115,3235672,215711,10785,26.96,0,538,3,Jawa Tengah,Rural,Hujan,117.25,2,10,109,40,963.0,3373,10.71,0,0
+PJ-120,Perumahan,Swasta Nasional,Cost Plus,0,100.33,401319,50164,25082,0,0.0,2508,64,2,Bali,Sub-urban,Kemarau,114.42,4,10,23,18,89.58,4044,10.71,0,1
+PJ-121,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,196.12,588372,0,19612,3922,0.0,3922,96,1,Kalimantan Selatan,Rural,Hujan,105.06,3,19,31,77,218.26,3588,-11.29,1,1
+PJ-122,Jaringan IT,Swasta Nasional,Harga Satuan,0,16.45,82266,0,0,0,24.68,822,-12,2,Kalimantan Timur,Urban,Hujan,111.97,7,3,6,14,17.96,2792,-9.18,1,1
+PJ-123,Gedung Perkantoran,BUMN,Cost Plus,0,204.01,612023,0,20400,4080,0.0,4080,87,1,DKI Jakarta,Sub-urban,Hujan,108.12,2,3,31,40,182.15,3365,10.71,0,0
+PJ-124,Perumahan,BUMN,Lump Sum,0,111.86,447433,55929,27964,0,0.0,2796,64,3,Sumatera Utara,Rural,Kemarau,118.74,6,9,26,33,99.87,2933,10.71,0,0
+PJ-125,Perumahan,BUMN,Lump Sum,0,107.09,428369,53546,26773,0,0.0,2677,52,2,Lampung,Sub-urban,Kemarau,104.58,4,19,24,21,95.62,3042,10.71,0,0
+PJ-126,Gedung Perkantoran,BUMN,Cost Plus,0,284.11,852337,0,28411,5682,0.0,5682,138,1,Papua Selatan,Rural,Kemarau,112.18,7,9,43,40,253.67,3378,10.71,0,0
+PJ-127,Jaringan IT,BUMN,Harga Satuan,0,46.94,234709,0,0,0,70.41,2347,38,1,Sulawesi Barat,Urban,Hujan,118.14,2,11,12,41,41.91,3742,10.71,0,1
+PJ-128,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,133.64,400908,0,13363,2672,0.0,2672,66,1,Jawa Barat,Rural,Kemarau,119.28,8,13,24,25,119.32,2847,10.71,0,0
+PJ-129,Perumahan,Swasta Asing,Cost Plus,0,83.02,332073,41509,20754,0,0.0,2075,24,2,Sulawesi Selatan,Sub-urban,Kemarau,115.14,7,4,17,47,74.12,3329,10.71,0,0
+PJ-130,Perumahan,Pemda,Harga Satuan,0,101.72,406874,50859,25429,0,0.0,2542,49,1,Jawa Tengah,Sub-urban,Kemarau,115.64,6,13,21,69,90.82,3302,10.71,0,0
+PJ-131,Gedung Perkantoran,BUMN,Harga Satuan,0,176.27,528819,0,17627,3525,0.0,3525,102,2,Papua Barat,Sub-urban,Kemarau,112.71,7,12,27,54,157.39,3338,10.71,0,0
+PJ-132,Jalan Tol,Swasta Asing,Harga Satuan,0,2551.82,5103633,7655449,510363,25518,63.8,0,1286,3,Sulawesi Utara,Rural,Kemarau,107.19,5,6,258,65,2721.53,4109,-6.65,1,1
+PJ-133,Gedung Perkantoran,Pemda,Cost Plus,0,283.54,850612,0,28353,5670,0.0,5670,136,2,Papua Selatan,Rural,Kemarau,112.07,3,17,45,28,253.16,3222,10.71,0,0
+PJ-134,Jembatan,BUMN,Lump Sum,1,571.94,1143883,1715824,114388,5719,14.3,0,286,5,DKI Jakarta,Sub-urban,Hujan,106.29,8,17,59,13,667.59,3304,-16.72,1,0
+PJ-135,Jaringan IT,BUMN,Harga Satuan,0,89.93,449658,0,0,0,134.9,4496,34,3,Riau,Sub-urban,Kemarau,113.9,2,14,26,23,80.3,2947,10.71,0,0
+PJ-136,Jaringan IT,BUMN,Lump Sum,0,10.21,51031,0,0,0,15.31,510,3,2,Papua Barat Daya,Rural,Hujan,106.79,2,24,4,47,11.46,2174,-12.26,1,0
+PJ-137,Perumahan,Swasta Asing,Cost Plus,0,201.73,806922,100865,50432,0,0.0,5043,95,1,Kalimantan Selatan,Rural,Kemarau,109.39,7,7,43,53,180.12,3198,10.71,0,0
+PJ-138,Perumahan,Swasta Nasional,Lump Sum,1,195.23,780937,97617,48808,0,0.0,4880,113,2,Nusa Tenggara Barat,Sub-urban,Hujan,112.27,3,9,42,12,174.32,3169,10.71,0,0
+PJ-139,Jaringan IT,BUMN,Harga Satuan,0,17.12,85586,0,0,0,25.68,855,-7,2,Riau,Rural,Hujan,117.57,8,7,6,70,15.28,2951,10.71,0,1
+PJ-140,Perumahan,Swasta Asing,Cost Plus,0,249.78,999117,124889,62444,0,0.0,6244,142,1,Lampung,Sub-urban,Kemarau,115.4,8,24,53,39,223.02,3213,10.71,0,0
+PJ-141,Jaringan IT,Pemda,Cost Plus,0,93.39,466971,0,0,0,140.09,4669,35,3,Lampung,Sub-urban,Kemarau,106.29,8,24,25,42,83.39,3183,10.71,0,0
+PJ-142,Gedung Perkantoran,BUMN,Cost Plus,0,109.16,327488,0,10916,2183,0.0,2183,66,3,Papua Barat Daya,Urban,Hujan,113.83,4,10,19,75,122.38,3908,-12.1,1,1
+PJ-143,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,298.3,894900,0,29830,5966,0.0,5966,129,2,Papua Barat,Urban,Kemarau,104.31,7,20,47,40,266.34,3245,10.71,0,0
+PJ-144,Jaringan IT,Pemda,Lump Sum,1,68.76,343801,0,0,0,103.14,3438,27,1,Kepulauan Riau,Sub-urban,Hujan,100.22,6,14,18,71,61.39,4290,10.71,0,1
+PJ-145,Perumahan,BUMN,Lump Sum,0,105.82,423266,52908,26454,0,0.0,2645,66,2,Sulawesi Tenggara,Rural,Kemarau,102.31,6,13,24,51,94.48,3006,10.71,0,0
+PJ-146,Gedung Perkantoran,BUMN,Harga Satuan,0,141.92,425749,0,14191,2838,0.0,2838,54,3,Sulawesi Selatan,Sub-urban,Hujan,113.69,2,18,24,10,126.71,3023,10.71,0,0
+PJ-147,Jalan Tol,Swasta Asing,Cost Plus,0,1492.88,2985755,4478632,298575,14928,37.32,0,731,4,Papua Selatan,Rural,Kemarau,115.65,9,18,153,35,1661.99,3326,-11.33,1,0
+PJ-148,Jaringan IT,Swasta Nasional,Cost Plus,0,76.44,382220,0,0,0,114.67,3822,36,3,Papua Barat Daya,Sub-urban,Hujan,100.66,6,5,21,42,68.25,4268,10.71,0,1
+PJ-149,Jaringan IT,Swasta Nasional,Lump Sum,1,68.46,342316,0,0,0,102.69,3423,32,3,Kalimantan Selatan,Rural,Hujan,100.49,6,5,21,39,61.13,3132,10.71,0,1
+PJ-150,Perumahan,BUMN,Lump Sum,1,68.55,274209,34276,17138,0,0.0,1713,26,1,Kalimantan Tengah,Rural,Hujan,112.57,9,11,15,77,61.21,3771,10.71,0,1
+PJ-151,Perumahan,BUMN,Lump Sum,1,199.16,796647,99580,49790,0,0.0,4979,92,1,Papua Selatan,Sub-urban,Hujan,113.82,7,10,41,41,215.55,4420,-8.23,1,1
+PJ-152,Jalan Tol,Swasta Nasional,Lump Sum,1,1485.89,2971780,4457670,297178,14858,37.15,0,741,1,Jawa Tengah,Rural,Hujan,100.61,2,17,151,72,1326.69,3354,10.71,0,0
+PJ-153,Jalan Tol,Swasta Asing,Cost Plus,0,1233.77,2467533,3701300,246753,12337,30.84,0,605,5,Nusa Tenggara Timur,Rural,Kemarau,118.5,6,8,126,42,1264.74,3338,-2.51,1,0
+PJ-154,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,126.81,380440,0,12681,2536,0.0,2536,68,2,DKI Jakarta,Urban,Kemarau,113.08,3,7,21,39,139.14,3087,-9.72,1,0
+PJ-155,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,101.05,303146,0,10104,2020,0.0,2020,46,2,Maluku,Rural,Kemarau,101.52,9,12,18,65,90.22,2870,10.71,0,0
+PJ-156,Jaringan IT,Swasta Nasional,Cost Plus,0,13.54,67693,0,0,0,20.31,676,-14,2,Sumatera Barat,Rural,Hujan,111.94,8,23,4,50,12.09,3648,10.71,0,1
+PJ-157,Gedung Perkantoran,Pemda,Cost Plus,0,88.79,266384,0,8879,1775,0.0,1775,43,3,Sulawesi Utara,Rural,Kemarau,110.18,2,19,15,54,79.28,3403,10.71,0,1
+PJ-158,Jaringan IT,Swasta Nasional,Lump Sum,0,46.38,231923,0,0,0,69.58,2319,24,2,Jawa Tengah,Sub-urban,Kemarau,114.41,3,9,13,29,41.41,3040,10.71,0,0
+PJ-159,Jaringan IT,Swasta Nasional,Cost Plus,0,30.09,150434,0,0,0,45.13,1504,21,1,Kepulauan Bangka Belitung,Sub-urban,Kemarau,100.41,4,15,9,48,26.86,2849,10.71,0,0
+PJ-160,Gedung Perkantoran,Pemda,Cost Plus,0,282.77,848302,0,28276,5655,0.0,5655,151,1,Jawa Barat,Urban,Kemarau,105.35,8,7,46,35,252.47,3143,10.71,0,0
+PJ-161,Jaringan IT,BUMN,Cost Plus,0,73.51,367535,0,0,0,110.26,3675,49,1,Sulawesi Selatan,Sub-urban,Kemarau,116.81,9,24,22,77,65.63,2847,10.71,0,0
+PJ-162,Jaringan IT,BUMN,Cost Plus,0,18.07,90337,0,0,0,27.1,903,28,2,Sumatera Utara,Rural,Kemarau,106.88,7,6,5,25,18.43,3079,-1.99,1,0
+PJ-163,Perumahan,Pemda,Cost Plus,0,76.39,305555,38194,19097,0,0.0,1909,52,2,Maluku Utara,Urban,Kemarau,114.51,6,24,17,49,68.2,3063,10.71,0,0
+PJ-164,Perumahan,Swasta Nasional,Cost Plus,0,82.1,328393,41049,20524,0,0.0,2052,23,3,Jawa Timur,Urban,Kemarau,119.13,5,22,18,75,85.85,3109,-4.57,1,0
+PJ-165,Gedung Perkantoran,Swasta Asing,Lump Sum,1,151.97,455917,0,15197,3039,0.0,3039,89,1,Sulawesi Utara,Rural,Hujan,114.4,3,22,23,50,135.69,3378,10.71,0,0
+PJ-166,Jalan Tol,Swasta Nasional,Cost Plus,0,2049.02,4098042,6147063,409804,20490,51.23,0,1016,1,Sulawesi Tengah,Rural,Kemarau,118.23,6,3,207,34,2053.59,3374,-0.22,1,0
+PJ-167,Perumahan,Pemda,Lump Sum,0,173.98,695905,86988,43494,0,0.0,4349,91,1,Gorontalo,Sub-urban,Hujan,106.57,8,16,36,36,155.34,3704,10.71,0,1
+PJ-168,Jaringan IT,Pemda,Lump Sum,1,68.61,343045,0,0,0,102.91,3430,43,1,Nusa Tenggara Timur,Sub-urban,Kemarau,100.32,6,19,18,32,61.26,3248,10.71,0,0
+PJ-169,Pabrik,Pemda,Harga Satuan,0,252.59,631464,0,37887,10103,0.0,0,121,1,Papua,Urban,Kemarau,103.02,8,4,32,52,225.52,3363,10.71,0,0
+PJ-170,Jaringan IT,BUMN,Harga Satuan,0,68.55,342770,0,0,0,102.83,3427,44,2,Kalimantan Timur,Sub-urban,Kemarau,111.15,4,7,21,44,61.21,3092,10.71,0,1
+PJ-171,Jalan Tol,BUMN,Harga Satuan,0,2250.63,4501267,6751900,450126,22506,56.27,0,1113,1,Papua Pegunungan,Urban,Kemarau,102.31,4,20,229,51,2009.49,3350,10.71,0,0
+PJ-172,Gedung Perkantoran,BUMN,Lump Sum,0,175.39,526163,0,17538,3507,0.0,3507,104,3,Riau,Rural,Hujan,112.56,5,16,29,61,156.6,3934,10.71,0,1
+PJ-173,Perumahan,Pemda,Lump Sum,1,55.61,222435,27804,13902,0,0.0,1390,17,3,Sulawesi Selatan,Sub-urban,Kemarau,111.12,6,7,13,59,49.65,2916,10.71,0,0
+PJ-174,Jaringan IT,Swasta Nasional,Lump Sum,1,21.18,105881,0,0,0,31.76,1058,21,3,Sulawesi Tenggara,Sub-urban,Hujan,111.42,4,3,6,27,18.91,3008,10.71,0,0
+PJ-175,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,103.05,309137,0,10304,2060,0.0,2060,33,3,Jambi,Rural,Hujan,105.87,3,18,19,11,92.01,2773,10.71,0,0
+PJ-176,Gedung Perkantoran,Pemda,Lump Sum,0,181.74,545209,0,18173,3634,0.0,3634,89,2,Nusa Tenggara Timur,Rural,Kemarau,106.52,8,9,31,56,162.26,2997,10.71,0,0
+PJ-177,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,268.47,805421,0,26847,5369,0.0,5369,145,3,Aceh,Sub-urban,Kemarau,106.84,9,4,42,73,290.81,3966,-8.32,1,1
+PJ-178,Jaringan IT,Pemda,Harga Satuan,0,27.32,136622,0,0,0,40.99,1366,20,2,Sumatera Selatan,Urban,Kemarau,100.13,5,7,9,53,24.4,2587,10.71,0,0
+PJ-179,Perumahan,Swasta Nasional,Lump Sum,0,55.09,220357,27544,13772,0,0.0,1377,34,2,Sulawesi Tengah,Sub-urban,Hujan,113.77,4,5,14,78,60.03,3512,-8.97,1,1
+PJ-180,Jembatan,Pemda,Lump Sum,1,1646.06,3292115,4938172,329211,16460,41.15,0,808,2,Jawa Tengah,Sub-urban,Hujan,105.47,7,19,165,20,1469.69,3400,10.71,0,0
+PJ-181,Perumahan,BUMN,Lump Sum,0,97.5,390006,48750,24375,0,0.0,2437,63,1,Riau,Sub-urban,Hujan,113.64,3,23,20,67,117.4,3323,-20.41,1,0
+PJ-182,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,162.73,488194,0,16273,3254,0.0,3254,99,3,Kepulauan Riau,Rural,Hujan,102.64,8,7,27,57,145.3,3524,10.71,0,1
+PJ-183,Jaringan IT,Swasta Nasional,Cost Plus,0,42.46,212275,0,0,0,63.68,2122,35,3,Nusa Tenggara Timur,Rural,Kemarau,110.62,5,6,13,28,41.89,3199,1.32,1,1
+PJ-184,Jembatan,BUMN,Lump Sum,0,2596.76,5193522,7790283,519352,25967,64.92,0,1282,4,Papua,Urban,Hujan,105.74,9,6,262,51,2318.54,3739,10.71,0,1
+PJ-185,Jaringan IT,BUMN,Cost Plus,0,90.74,453718,0,0,0,136.12,4537,53,3,Kalimantan Utara,Urban,Kemarau,118.56,5,6,23,61,103.6,4023,-14.16,1,1
+PJ-186,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,234.55,703651,0,23455,4691,0.0,4691,110,2,Kalimantan Tengah,Sub-urban,Hujan,119.2,5,19,36,34,209.42,3331,10.71,0,0
+PJ-187,Jaringan IT,Swasta Asing,Cost Plus,0,92.82,464117,0,0,0,139.24,4641,52,2,Papua Barat,Sub-urban,Hujan,118.08,5,13,27,28,82.88,3270,10.71,0,1
+PJ-188,Jembatan,Swasta Nasional,Lump Sum,0,1362.7,2725408,4088112,272540,13627,34.07,0,661,3,Lampung,Sub-urban,Hujan,100.97,3,12,137,78,1563.7,4017,-14.75,1,1
+PJ-189,Pabrik,BUMN,Lump Sum,1,562.45,1406127,0,84367,22498,0.0,0,274,2,Papua Barat Daya,Rural,Hujan,106.67,6,3,72,32,502.19,3725,10.71,0,1
+PJ-190,Jaringan IT,Swasta Asing,Cost Plus,0,49.26,246296,0,0,0,73.89,2462,39,1,Kepulauan Bangka Belitung,Rural,Kemarau,101.24,7,22,15,50,43.98,2798,10.71,0,0
+PJ-191,Gedung Perkantoran,Pemda,Lump Sum,1,279.88,839651,0,27988,5597,0.0,5597,148,3,Kalimantan Barat,Urban,Hujan,102.66,9,17,43,61,249.9,3328,10.71,0,0
+PJ-192,Perumahan,BUMN,Harga Satuan,0,210.49,841976,105247,52623,0,0.0,5262,114,3,Bengkulu,Rural,Hujan,108.14,4,21,43,78,214.74,3735,-2.02,1,1
+PJ-193,Jaringan IT,Swasta Nasional,Lump Sum,1,46.06,230318,0,0,0,69.1,2303,22,3,Maluku Utara,Rural,Kemarau,119.27,5,3,14,51,41.13,2804,10.71,0,0
+PJ-194,Jaringan IT,Pemda,Harga Satuan,0,82.76,413780,0,0,0,124.13,4137,29,3,Sulawesi Tenggara,Rural,Hujan,113.89,8,5,24,11,73.89,2938,10.71,0,0
+PJ-195,Jembatan,Pemda,Lump Sum,1,2437.14,4874279,7311418,487427,24371,60.93,0,1221,2,Nusa Tenggara Timur,Urban,Hujan,113.85,9,13,246,67,2176.02,3377,10.71,0,0
+PJ-196,Jaringan IT,BUMN,Cost Plus,0,41.31,206531,0,0,0,61.96,2065,26,2,Maluku Utara,Sub-urban,Hujan,102.46,6,14,14,26,36.88,2514,10.71,0,0
+PJ-197,Jalan Tol,Swasta Nasional,Cost Plus,0,1649.19,3298384,4947576,329838,16491,41.23,0,826,2,Papua Barat Daya,Rural,Hujan,116.8,2,20,166,64,1472.49,4311,10.71,0,1
+PJ-198,Jaringan IT,Swasta Nasional,Cost Plus,0,80.78,403913,0,0,0,121.17,4039,56,1,Sulawesi Utara,Sub-urban,Kemarau,104.04,2,16,23,24,72.13,2993,10.71,0,0
+PJ-199,Gedung Perkantoran,BUMN,Harga Satuan,0,176.71,530125,0,17670,3534,0.0,3534,100,3,Kalimantan Tengah,Sub-urban,Hujan,118.07,7,14,28,18,157.78,3763,10.71,0,1
+PJ-200,Jaringan IT,Swasta Nasional,Cost Plus,0,60.65,303255,0,0,0,90.98,3032,19,3,Jawa Timur,Rural,Hujan,111.31,3,3,16,16,54.15,3230,10.71,0,0
+PJ-201,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,92.75,278260,0,9275,1855,0.0,1855,46,1,Papua Barat Daya,Sub-urban,Hujan,118.08,5,5,15,42,82.82,3929,10.71,0,1
+PJ-202,Jaringan IT,Swasta Asing,Cost Plus,0,34.56,172813,0,0,0,51.84,1728,30,2,Nusa Tenggara Timur,Urban,Hujan,117.55,3,24,12,58,35.37,2454,-2.32,1,0
+PJ-203,Jalan Tol,Pemda,Lump Sum,0,831.06,1662126,2493190,166212,8310,20.78,0,412,5,Kalimantan Barat,Rural,Kemarau,115.18,5,17,85,58,988.67,4306,-18.96,1,1
+PJ-204,Gedung Perkantoran,Pemda,Cost Plus,0,111.22,333658,0,11121,2224,0.0,2224,40,3,Sulawesi Tengah,Sub-urban,Hujan,106.81,4,6,17,53,131.23,3345,-17.99,1,0
+PJ-205,Jalan Tol,Pemda,Lump Sum,1,1194.68,2389368,3584053,238936,11946,29.87,0,579,2,Kepulauan Bangka Belitung,Sub-urban,Hujan,107.37,6,19,121,71,1066.68,3365,10.71,0,0
+PJ-206,Jaringan IT,BUMN,Cost Plus,0,27.52,137624,0,0,0,41.29,1376,10,3,Bengkulu,Sub-urban,Hujan,104.76,2,3,9,67,29.03,2980,-5.47,1,1
+PJ-207,Gedung Perkantoran,Pemda,Harga Satuan,0,221.93,665777,0,22192,4438,0.0,4438,121,2,Jawa Barat,Sub-urban,Hujan,100.76,3,12,34,20,198.15,4110,10.71,0,1
+PJ-208,Jaringan IT,Pemda,Lump Sum,1,13.9,69475,0,0,0,20.84,694,2,3,Maluku Utara,Rural,Kemarau,107.68,8,10,5,72,16.72,2368,-20.3,1,0
+PJ-209,Jembatan,BUMN,Harga Satuan,0,1650.97,3301936,4952904,330193,16509,41.27,0,815,3,Sulawesi Tenggara,Urban,Hujan,104.47,6,13,166,52,1474.08,4182,10.71,0,1
+PJ-210,Jaringan IT,Swasta Asing,Cost Plus,0,97.39,486942,0,0,0,146.08,4869,52,1,Jawa Timur,Sub-urban,Hujan,115.5,8,7,25,68,116.64,3320,-19.76,1,0
+PJ-211,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,66.29,198864,0,6628,1325,0.0,1325,46,3,Papua Barat Daya,Urban,Kemarau,101.4,2,4,10,12,78.6,3389,-18.57,1,0
+PJ-212,Jaringan IT,Swasta Nasional,Lump Sum,0,55.6,278018,0,0,0,83.41,2780,15,3,Aceh,Rural,Kemarau,113.63,5,15,14,29,49.65,3384,10.71,0,0
+PJ-213,Perumahan,Pemda,Harga Satuan,0,143.1,572417,71552,35776,0,0.0,3577,76,1,Jawa Timur,Urban,Kemarau,110.0,6,8,32,14,127.77,3049,10.71,0,0
+PJ-214,Jalan Tol,Swasta Asing,Harga Satuan,0,1113.8,2227590,3341385,222759,11137,27.84,0,558,2,Kalimantan Selatan,Urban,Hujan,117.34,7,6,113,71,1288.88,4161,-15.72,1,1
+PJ-215,Gedung Perkantoran,Swasta Asing,Lump Sum,0,88.01,264019,0,8800,1760,0.0,1760,45,2,Maluku,Rural,Kemarau,102.37,9,7,15,67,78.58,3000,10.71,0,0
+PJ-216,Jaringan IT,Pemda,Harga Satuan,0,42.71,213526,0,0,0,64.06,2135,27,1,Jambi,Rural,Hujan,103.1,7,6,12,64,47.37,3494,-10.92,1,1
+PJ-217,Jalan Tol,BUMN,Lump Sum,1,1534.32,3068638,4602957,306863,15343,38.36,0,781,2,Sumatera Selatan,Sub-urban,Kemarau,110.87,6,13,157,50,1369.93,3331,10.71,0,0
+PJ-218,Jalan Tol,Pemda,Cost Plus,0,1282.73,2565468,3848202,256546,12827,32.07,0,630,4,Papua Tengah,Rural,Kemarau,100.24,6,15,131,49,1145.3,4572,10.71,0,1
+PJ-219,Perumahan,Swasta Nasional,Cost Plus,0,117.83,471323,58915,29457,0,0.0,2945,44,2,Kalimantan Utara,Rural,Kemarau,109.31,4,6,27,34,105.21,3610,10.71,0,1
+PJ-220,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,204.92,614754,0,20491,4098,0.0,4098,114,1,Lampung,Sub-urban,Kemarau,107.29,4,9,32,67,182.96,3274,10.71,0,0
+PJ-221,Jaringan IT,Swasta Asing,Lump Sum,0,81.73,408635,0,0,0,122.59,4086,38,2,Kalimantan Tengah,Rural,Hujan,119.62,3,7,21,67,83.6,4247,-2.29,1,1
+PJ-222,Jaringan IT,Swasta Asing,Lump Sum,1,71.66,358312,0,0,0,107.49,3583,44,2,Kalimantan Barat,Sub-urban,Kemarau,101.66,9,16,21,22,63.98,2908,10.71,0,0
+PJ-223,Jaringan IT,Swasta Nasional,Cost Plus,0,30.47,152336,0,0,0,45.7,1523,15,2,Aceh,Sub-urban,Hujan,105.32,5,8,10,59,27.2,2596,10.71,0,0
+PJ-224,Jembatan,Pemda,Cost Plus,0,749.03,1498063,2247095,149806,7490,18.73,0,365,1,Maluku,Sub-urban,Hujan,104.94,9,21,75,77,668.78,3404,10.71,0,0
+PJ-225,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,189.16,567485,0,18916,3783,0.0,3783,80,1,Kalimantan Timur,Sub-urban,Hujan,100.16,8,20,30,75,168.89,4507,10.71,0,1
+PJ-226,Perumahan,Pemda,Harga Satuan,0,45.11,180435,22554,11277,0,0.0,1127,10,2,Maluku,Sub-urban,Hujan,117.8,9,16,12,12,46.9,2563,-3.96,1,0
+PJ-227,Gedung Perkantoran,BUMN,Lump Sum,0,195.74,587224,0,19574,3914,0.0,3914,83,2,Kalimantan Utara,Sub-urban,Hujan,119.78,5,18,30,28,174.77,4631,10.71,0,1
+PJ-228,Gedung Perkantoran,Swasta Asing,Cost Plus,0,117.03,351090,0,11703,2340,0.0,2340,49,2,Sulawesi Tenggara,Sub-urban,Hujan,115.86,7,13,21,17,104.49,2849,10.71,0,0
+PJ-229,Gedung Perkantoran,Swasta Asing,Lump Sum,1,258.94,776807,0,25893,5178,0.0,5178,142,1,Banten,Rural,Hujan,111.84,7,10,42,19,273.16,3721,-5.49,1,1
+PJ-230,Perumahan,Swasta Asing,Lump Sum,0,69.83,279317,34914,17457,0,0.0,1745,25,1,Riau,Sub-urban,Kemarau,109.27,6,16,16,16,74.47,2975,-6.65,1,0
+PJ-231,Gedung Perkantoran,BUMN,Lump Sum,1,128.28,384829,0,12827,2565,0.0,2565,67,2,Gorontalo,Rural,Kemarau,101.09,9,12,21,17,114.53,3123,10.71,0,0
+PJ-232,Jalan Tol,Swasta Asing,Cost Plus,0,1521.02,3042049,4563074,304204,15210,38.03,0,768,2,Papua,Rural,Kemarau,112.57,9,4,154,38,1793.33,4440,-17.9,1,1
+PJ-233,Pabrik,Pemda,Harga Satuan,0,242.54,606359,0,36381,9701,0.0,0,131,2,Kepulauan Bangka Belitung,Rural,Hujan,105.85,3,8,33,51,216.56,3132,10.71,0,0
+PJ-234,Perumahan,BUMN,Cost Plus,0,191.71,766840,95855,47927,0,0.0,4792,77,3,Sumatera Selatan,Rural,Kemarau,111.49,4,23,41,30,171.17,3188,10.71,0,0
+PJ-235,Pabrik,BUMN,Lump Sum,0,542.47,1356182,0,81370,21698,0.0,0,281,1,Jawa Tengah,Rural,Kemarau,103.14,4,21,68,40,484.35,3399,10.71,0,0
+PJ-236,Gedung Perkantoran,Swasta Asing,Cost Plus,0,244.65,733947,0,24464,4892,0.0,4892,111,1,Lampung,Rural,Hujan,115.87,9,11,39,65,218.44,4396,10.71,0,1
+PJ-237,Jembatan,Swasta Nasional,Harga Satuan,0,2939.38,5878754,8818131,587875,29393,73.48,0,1461,1,Kepulauan Riau,Urban,Hujan,110.36,4,20,297,43,2624.44,3373,10.71,0,0
+PJ-238,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,262.46,787372,0,26245,5249,0.0,5249,143,2,Maluku Utara,Sub-urban,Kemarau,115.2,7,19,42,16,234.34,3195,10.71,0,0
+PJ-239,Perumahan,Swasta Nasional,Cost Plus,0,156.28,625108,78138,39069,0,0.0,3906,61,3,Nusa Tenggara Barat,Rural,Kemarau,105.43,2,8,34,14,139.53,3133,10.71,0,0
+PJ-240,Gedung Perkantoran,Swasta Asing,Cost Plus,0,169.83,509502,0,16983,3396,0.0,3396,67,1,Kalimantan Utara,Rural,Hujan,110.01,2,20,27,69,151.64,3216,10.71,0,0
+PJ-241,Jaringan IT,BUMN,Lump Sum,1,77.67,388341,0,0,0,116.5,3883,19,1,Kepulauan Riau,Urban,Kemarau,113.59,4,23,21,48,69.35,3152,10.71,0,0
+PJ-242,Jaringan IT,Swasta Nasional,Harga Satuan,0,66.59,332974,0,0,0,99.89,3329,18,1,Kalimantan Selatan,Urban,Kemarau,106.78,4,10,20,72,59.46,2837,10.71,0,0
+PJ-243,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,67.63,202878,0,6762,1352,0.0,1352,45,2,Kalimantan Timur,Rural,Kemarau,104.85,7,6,11,14,60.38,4071,10.71,0,1
+PJ-244,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,178.59,535761,0,17858,3571,0.0,3571,73,3,Jambi,Urban,Kemarau,100.93,2,6,27,51,192.27,3382,-7.66,1,0
+PJ-245,Jaringan IT,BUMN,Cost Plus,0,65.47,327345,0,0,0,98.2,3273,38,3,Jawa Tengah,Rural,Hujan,105.34,3,18,20,23,58.45,2789,10.71,0,0
+PJ-246,Perumahan,BUMN,Lump Sum,1,148.4,593580,74197,37098,0,0.0,3709,78,1,Jambi,Sub-urban,Kemarau,117.49,2,16,33,24,132.5,3066,10.71,0,0
+PJ-247,Jaringan IT,Pemda,Lump Sum,0,51.59,257942,0,0,0,77.38,2579,22,3,Sumatera Selatan,Rural,Kemarau,102.08,2,13,16,22,46.06,2747,10.71,0,0
+PJ-248,Jaringan IT,Swasta Nasional,Harga Satuan,0,58.61,293029,0,0,0,87.91,2930,20,2,Papua Selatan,Urban,Hujan,108.93,5,20,17,46,52.33,2938,10.71,0,0
+PJ-249,Jembatan,Swasta Asing,Lump Sum,1,1257.94,2515879,3773819,251587,12579,31.45,0,633,2,Kalimantan Timur,Rural,Hujan,102.64,8,8,126,69,1123.16,4397,10.71,0,1
+PJ-250,Perumahan,BUMN,Harga Satuan,0,223.76,895038,111879,55939,0,0.0,5593,111,2,Nusa Tenggara Barat,Sub-urban,Hujan,110.02,7,23,46,66,229.18,3316,-2.42,1,0
+PJ-251,Jaringan IT,BUMN,Harga Satuan,0,87.44,437208,0,0,0,131.16,4372,37,2,Sulawesi Selatan,Rural,Hujan,104.02,4,23,23,52,78.07,3240,10.71,0,0
+PJ-252,Jembatan,Swasta Nasional,Harga Satuan,0,1932.52,3865045,5797568,386504,19325,48.31,0,969,4,Aceh,Urban,Hujan,103.05,4,4,194,72,1725.47,4171,10.71,0,1
+PJ-253,Gedung Perkantoran,Pemda,Harga Satuan,0,243.34,730005,0,24333,4866,0.0,4866,135,2,Sumatera Utara,Rural,Kemarau,104.05,2,22,38,62,217.26,4337,10.71,0,1
+PJ-254,Perumahan,BUMN,Harga Satuan,0,134.75,538986,67373,33686,0,0.0,3368,51,1,Sulawesi Barat,Rural,Kemarau,101.9,4,22,27,24,120.31,3402,10.71,0,0
+PJ-255,Jaringan IT,Pemda,Cost Plus,0,40.21,201049,0,0,0,60.31,2010,30,1,Kepulauan Bangka Belitung,Sub-urban,Kemarau,117.77,3,10,11,49,35.9,3115,10.71,0,0
+PJ-256,Gedung Perkantoran,Swasta Asing,Cost Plus,0,157.75,473236,0,15774,3154,0.0,3154,63,1,Jawa Timur,Sub-urban,Kemarau,103.31,4,14,25,65,140.84,4291,10.71,0,1
+PJ-257,Jaringan IT,BUMN,Lump Sum,1,78.34,391694,0,0,0,117.51,3916,37,1,Kalimantan Timur,Rural,Hujan,101.34,9,17,23,10,69.95,2902,10.71,0,0
+PJ-258,Jembatan,BUMN,Lump Sum,1,1463.85,2927694,4391541,292769,14638,36.6,0,713,5,Nusa Tenggara Timur,Urban,Kemarau,116.07,2,18,149,32,1307.01,3349,10.71,0,0
+PJ-259,Perumahan,Pemda,Cost Plus,0,88.95,355807,44475,22237,0,0.0,2223,33,1,Gorontalo,Urban,Hujan,116.61,2,22,21,26,90.53,3298,-1.77,1,1
+PJ-260,Perumahan,BUMN,Lump Sum,1,43.27,173071,21633,10816,0,0.0,1081,5,1,Papua,Sub-urban,Hujan,100.71,5,13,11,60,38.63,2681,10.71,0,0
+PJ-261,Perumahan,Pemda,Cost Plus,0,120.73,482918,60364,30182,0,0.0,3018,46,2,Kalimantan Timur,Sub-urban,Kemarau,106.46,7,9,25,22,107.79,4423,10.71,0,1
+PJ-262,Gedung Perkantoran,BUMN,Lump Sum,1,55.16,165468,0,5515,1103,0.0,1103,42,2,DI Yogyakarta,Rural,Hujan,116.26,9,7,9,57,49.25,3133,10.71,0,0
+PJ-263,Jaringan IT,BUMN,Lump Sum,1,95.76,478812,0,0,0,143.64,4788,44,3,Sumatera Selatan,Rural,Kemarau,119.83,7,11,26,23,85.5,3139,10.71,0,0
+PJ-264,Gedung Perkantoran,Swasta Asing,Lump Sum,0,231.59,694778,0,23159,4631,0.0,4631,115,2,Maluku Utara,Rural,Hujan,103.15,3,15,35,69,206.78,3815,10.71,0,1
+PJ-265,Jaringan IT,BUMN,Lump Sum,1,67.18,335915,0,0,0,100.77,3359,42,1,Bali,Sub-urban,Kemarau,101.39,8,17,17,73,59.98,3368,10.71,0,0
+PJ-266,Gedung Perkantoran,BUMN,Cost Plus,0,299.94,899827,0,29994,5998,0.0,5998,143,1,Papua Tengah,Sub-urban,Kemarau,107.38,8,8,48,28,325.99,3195,-8.68,1,0
+PJ-267,Pabrik,BUMN,Cost Plus,0,376.52,941307,0,56478,15060,0.0,0,187,2,Sumatera Selatan,Sub-urban,Hujan,107.5,6,19,49,58,439.04,3274,-16.6,1,0
+PJ-268,Gedung Perkantoran,Swasta Asing,Cost Plus,0,118.02,354052,0,11801,2360,0.0,2360,48,3,Kalimantan Barat,Rural,Kemarau,104.52,3,5,18,29,105.37,3352,10.71,0,0
+PJ-269,Perumahan,Swasta Nasional,Lump Sum,1,161.83,647334,80916,40458,0,0.0,4045,79,3,Sulawesi Barat,Urban,Hujan,108.89,6,14,33,73,144.49,3343,10.71,0,0
+PJ-270,Perumahan,BUMN,Harga Satuan,0,117.29,469167,58645,29322,0,0.0,2932,49,1,Riau,Sub-urban,Hujan,105.3,2,4,24,28,104.72,4126,10.71,0,1
+PJ-271,Perumahan,Pemda,Harga Satuan,0,158.53,634104,79263,39631,0,0.0,3963,69,2,DKI Jakarta,Urban,Hujan,100.49,4,21,34,45,188.69,3178,-19.03,1,0
+PJ-272,Jaringan IT,Pemda,Harga Satuan,0,69.57,347841,0,0,0,104.35,3478,44,2,Sulawesi Barat,Urban,Hujan,116.7,4,9,21,10,77.77,2823,-11.79,1,0
+PJ-273,Gedung Perkantoran,BUMN,Cost Plus,0,189.3,567909,0,18930,3786,0.0,3786,111,1,Bali,Rural,Kemarau,111.49,5,16,32,11,217.59,3025,-14.94,1,0
+PJ-274,Pabrik,Pemda,Harga Satuan,0,373.0,932505,0,55950,14920,0.0,0,188,3,DKI Jakarta,Sub-urban,Hujan,100.29,7,8,50,79,387.27,4010,-3.82,1,1
+PJ-275,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,152.29,456874,0,15229,3045,0.0,3045,79,1,Bali,Sub-urban,Hujan,104.3,8,5,26,25,162.22,4047,-6.52,1,1
+PJ-276,Perumahan,Swasta Nasional,Cost Plus,0,168.8,675198,84399,42199,0,0.0,4219,86,1,Kalimantan Timur,Rural,Kemarau,102.11,5,24,37,65,150.71,4310,10.71,0,1
+PJ-277,Gedung Perkantoran,Pemda,Harga Satuan,0,298.56,895690,0,29856,5971,0.0,5971,133,2,Banten,Sub-urban,Hujan,109.24,6,7,45,50,316.12,3392,-5.88,1,0
+PJ-278,Gedung Perkantoran,Pemda,Lump Sum,1,208.55,625647,0,20854,4170,0.0,4170,91,2,Banten,Sub-urban,Hujan,107.55,4,15,33,21,223.55,3231,-7.19,1,0
+PJ-279,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,101.26,303774,0,10125,2025,0.0,2025,56,1,Papua Barat Daya,Urban,Hujan,108.72,4,17,16,25,90.41,3236,10.71,0,0
+PJ-280,Perumahan,Pemda,Lump Sum,0,213.18,852711,106588,53294,0,0.0,5329,91,1,Jawa Barat,Urban,Hujan,110.4,5,12,44,46,242.7,3303,-13.85,1,0
+PJ-281,Perumahan,Swasta Nasional,Lump Sum,0,230.35,921384,115173,57586,0,0.0,5758,95,2,Papua,Sub-urban,Hujan,100.94,4,24,49,32,205.67,3205,10.71,0,0
+PJ-282,Jaringan IT,Swasta Asing,Lump Sum,1,79.45,397269,0,0,0,119.18,3972,52,3,Sulawesi Utara,Sub-urban,Kemarau,109.66,3,8,23,53,70.94,2944,10.71,0,0
+PJ-283,Pabrik,Swasta Nasional,Cost Plus,0,309.58,773941,0,46436,12383,0.0,0,173,2,Jawa Tengah,Urban,Hujan,104.09,9,6,39,17,276.41,3382,10.71,0,0
+PJ-284,Jalan Tol,Pemda,Lump Sum,0,2977.96,5955925,8933887,595592,29779,74.45,0,1502,1,Sulawesi Tengah,Rural,Kemarau,116.53,3,8,300,32,2658.9,3384,10.71,0,0
+PJ-285,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,154.16,462476,0,15415,3083,0.0,3083,79,3,Sumatera Selatan,Urban,Kemarau,116.25,7,13,24,57,137.64,3284,10.71,0,0
+PJ-286,Jaringan IT,Pemda,Cost Plus,0,11.52,57582,0,0,0,17.27,575,-2,2,Sulawesi Tenggara,Urban,Hujan,116.39,4,22,4,62,10.28,2453,10.71,0,0
+PJ-287,Jalan Tol,BUMN,Lump Sum,1,2641.48,5282967,7924451,528296,26414,66.04,0,1326,3,Aceh,Sub-urban,Hujan,108.87,4,21,266,16,2358.47,3385,10.71,0,0
+PJ-288,Jaringan IT,Swasta Asing,Cost Plus,0,35.92,179618,0,0,0,53.89,1796,36,3,Gorontalo,Urban,Hujan,101.53,7,7,12,40,32.07,2551,10.71,0,0
+PJ-289,Gedung Perkantoran,Pemda,Cost Plus,0,104.96,314869,0,10495,2099,0.0,2099,54,3,Papua Pegunungan,Urban,Kemarau,110.92,8,18,19,29,93.71,2824,10.71,0,0
+PJ-290,Gedung Perkantoran,BUMN,Cost Plus,0,248.24,744712,0,24823,4964,0.0,4964,117,1,Gorontalo,Rural,Hujan,104.19,8,20,38,32,221.64,3340,10.71,0,0
+PJ-291,Gedung Perkantoran,BUMN,Harga Satuan,0,111.14,333410,0,11113,2222,0.0,2222,44,2,Papua Barat,Sub-urban,Kemarau,106.87,9,11,19,17,99.23,2991,10.71,0,0
+PJ-292,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,281.94,845832,0,28194,5638,0.0,5638,121,3,Jambi,Sub-urban,Hujan,118.4,9,5,44,71,303.19,4293,-7.54,1,1
+PJ-293,Jembatan,Pemda,Lump Sum,1,682.36,1364716,2047074,136471,6823,17.06,0,335,4,Papua Selatan,Rural,Kemarau,101.05,6,19,69,66,609.25,4540,10.71,0,1
+PJ-294,Jaringan IT,BUMN,Harga Satuan,0,45.65,228255,0,0,0,68.48,2282,12,3,Sulawesi Utara,Sub-urban,Kemarau,110.69,8,12,15,14,40.76,3528,10.71,0,1
+PJ-295,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,85.45,256339,0,8544,1708,0.0,1708,41,1,Jawa Barat,Sub-urban,Kemarau,111.57,5,7,15,17,76.29,2912,10.71,0,0
+PJ-296,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,82.63,247899,0,8263,1652,0.0,1652,40,3,Riau,Rural,Hujan,107.58,7,8,16,69,73.78,3256,10.71,0,1
+PJ-297,Gedung Perkantoran,Swasta Asing,Lump Sum,1,204.24,612710,0,20423,4084,0.0,4084,92,3,DI Yogyakarta,Urban,Hujan,102.36,9,23,34,12,182.35,3071,10.71,0,0
+PJ-298,Perumahan,BUMN,Harga Satuan,0,208.73,834934,104366,52183,0,0.0,5218,86,2,Papua Barat,Rural,Kemarau,106.21,3,23,45,57,186.37,3162,10.71,0,0
+PJ-299,Jaringan IT,Pemda,Harga Satuan,0,84.59,422944,0,0,0,126.88,4229,39,1,Sumatera Barat,Sub-urban,Hujan,118.28,3,17,25,74,75.53,2883,10.71,0,0
+PJ-300,Perumahan,Swasta Asing,Lump Sum,0,205.14,820549,102568,51284,0,0.0,5128,101,3,Jambi,Rural,Hujan,100.54,2,7,42,17,205.9,3768,-0.37,1,1
+PJ-301,Jembatan,Swasta Asing,Cost Plus,0,889.64,1779273,2668909,177927,8896,22.24,0,434,3,Aceh,Urban,Kemarau,111.82,3,20,92,19,794.32,3822,10.71,0,1
+PJ-302,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,69.4,208186,0,6939,1387,0.0,1387,41,2,Sulawesi Selatan,Urban,Hujan,109.04,6,16,12,41,61.96,4055,10.71,0,1
+PJ-303,Pabrik,Pemda,Harga Satuan,0,154.69,386716,0,23202,6187,0.0,0,65,2,DI Yogyakarta,Urban,Hujan,114.55,3,11,20,49,138.11,3295,10.71,0,0
+PJ-304,Jembatan,Swasta Asing,Lump Sum,0,866.57,1733133,2599699,173313,8665,21.66,0,432,2,Kalimantan Timur,Rural,Kemarau,103.17,7,7,90,15,773.72,3282,10.71,0,0
+PJ-305,Jaringan IT,BUMN,Harga Satuan,0,66.02,330113,0,0,0,99.03,3301,39,1,Sumatera Barat,Rural,Kemarau,117.96,6,10,19,29,58.95,2961,10.71,0,0
+PJ-306,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,73.54,220608,0,7353,1470,0.0,1470,27,1,Sulawesi Tenggara,Rural,Hujan,111.22,4,12,13,64,65.66,2892,10.71,0,0
+PJ-307,Jalan Tol,Pemda,Harga Satuan,0,2574.19,5148379,7722569,514837,25741,64.35,0,1296,5,Nusa Tenggara Timur,Sub-urban,Hujan,101.94,3,20,261,26,2562.68,4596,0.45,1,1
+PJ-308,Perumahan,Swasta Nasional,Lump Sum,0,200.47,801865,100233,50116,0,0.0,5011,115,3,Lampung,Urban,Hujan,102.35,5,7,41,24,178.99,3333,10.71,0,0
+PJ-309,Pabrik,BUMN,Lump Sum,0,278.5,696240,0,41774,11139,0.0,0,154,1,Kepulauan Bangka Belitung,Urban,Hujan,107.55,4,21,35,36,248.66,3390,10.71,0,0
+PJ-310,Gedung Perkantoran,Pemda,Cost Plus,0,109.57,328717,0,10957,2191,0.0,2191,58,3,Sulawesi Utara,Urban,Hujan,112.24,7,24,18,24,97.83,3112,10.71,0,0
+PJ-311,Gedung Perkantoran,Pemda,Cost Plus,0,243.72,731156,0,24371,4874,0.0,4874,106,1,Sulawesi Tenggara,Sub-urban,Kemarau,101.73,6,7,37,19,217.61,3368,10.71,0,0
+PJ-312,Gedung Perkantoran,Pemda,Cost Plus,0,147.46,442389,0,14746,2949,0.0,2949,60,3,DI Yogyakarta,Sub-urban,Kemarau,108.19,2,9,25,48,131.66,3016,10.71,0,0
+PJ-313,Gedung Perkantoran,Pemda,Lump Sum,0,108.96,326876,0,10895,2179,0.0,2179,52,3,Lampung,Urban,Kemarau,117.32,3,20,20,51,97.28,2785,10.71,0,0
+PJ-314,Jaringan IT,BUMN,Harga Satuan,0,33.43,167126,0,0,0,50.14,1671,5,2,Sulawesi Selatan,Urban,Kemarau,110.46,7,13,12,44,29.84,2711,10.71,0,1
+PJ-315,Jalan Tol,Swasta Asing,Cost Plus,0,578.15,1156306,1734459,115630,5781,14.45,0,306,1,Gorontalo,Rural,Hujan,114.33,7,20,60,35,516.21,3284,10.71,0,0
+PJ-316,Perumahan,Pemda,Harga Satuan,0,149.02,596094,74511,37255,0,0.0,3725,80,3,Jambi,Rural,Hujan,110.19,7,5,33,73,155.11,4056,-4.09,1,1
+PJ-317,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,219.55,658648,0,21954,4390,0.0,4390,105,2,DI Yogyakarta,Sub-urban,Hujan,107.45,6,17,34,42,196.03,4594,10.71,0,1
+PJ-318,Jembatan,Swasta Nasional,Harga Satuan,0,1760.27,3520543,5280815,352054,17602,44.01,0,869,1,Sulawesi Tengah,Sub-urban,Kemarau,112.48,8,3,178,63,1571.67,4366,10.71,0,1
+PJ-319,Gedung Perkantoran,Swasta Asing,Lump Sum,0,68.49,205470,0,6849,1369,0.0,1369,52,1,DKI Jakarta,Rural,Hujan,103.03,7,18,13,70,61.15,2694,10.71,0,0
+PJ-320,Jaringan IT,BUMN,Lump Sum,1,62.4,312007,0,0,0,93.6,3120,18,2,Sulawesi Tengah,Urban,Kemarau,110.57,2,22,18,74,55.72,3531,10.71,0,1
+PJ-321,Perumahan,Pemda,Harga Satuan,0,130.26,521033,65129,32564,0,0.0,3256,63,3,Aceh,Sub-urban,Kemarau,100.97,3,3,29,74,116.3,3786,10.71,0,1
+PJ-322,Pabrik,Swasta Nasional,Harga Satuan,0,487.45,1218636,0,73118,19498,0.0,0,248,3,Kalimantan Tengah,Sub-urban,Hujan,114.99,8,13,63,57,435.23,3297,10.71,0,0
+PJ-323,Jaringan IT,BUMN,Cost Plus,0,53.96,269805,0,0,0,80.94,2698,37,1,Sulawesi Tengah,Rural,Kemarau,107.78,8,19,15,59,58.01,3065,-7.5,1,0
+PJ-324,Gedung Perkantoran,Swasta Asing,Cost Plus,0,233.58,700751,0,23358,4671,0.0,4671,106,1,Papua Tengah,Rural,Kemarau,116.54,3,12,36,42,208.56,3317,10.71,0,0
+PJ-325,Perumahan,Pemda,Harga Satuan,0,224.37,897480,112185,56092,0,0.0,5609,97,2,Aceh,Urban,Kemarau,110.04,3,20,47,17,256.82,3254,-14.46,1,0
+PJ-326,Gedung Perkantoran,Swasta Asing,Cost Plus,0,285.21,855637,0,28521,5704,0.0,5704,132,3,Sumatera Selatan,Urban,Kemarau,112.58,8,19,44,38,293.89,3960,-3.04,1,1
+PJ-327,Perumahan,Pemda,Cost Plus,0,241.46,965842,120730,60365,0,0.0,6036,124,3,Jawa Tengah,Sub-urban,Hujan,119.89,5,24,50,38,215.59,3292,10.71,0,0
+PJ-328,Jembatan,BUMN,Cost Plus,0,2917.65,5835306,8752959,583530,29176,72.94,0,1460,4,Jawa Timur,Sub-urban,Hujan,117.66,6,12,292,58,2605.05,3406,10.71,0,0
+PJ-329,Jembatan,BUMN,Lump Sum,1,2504.32,5008638,7512957,500863,25043,62.61,0,1256,1,Papua Selatan,Rural,Hujan,117.32,7,18,252,52,2236.0,3387,10.71,0,0
+PJ-330,Jalan Tol,Swasta Asing,Lump Sum,1,2791.94,5583876,8375815,558387,27919,69.8,0,1389,1,Sulawesi Tengah,Urban,Hujan,118.14,5,24,282,70,2492.8,3375,10.71,0,0
+PJ-331,Gedung Perkantoran,Swasta Asing,Cost Plus,0,279.43,838281,0,27942,5588,0.0,5588,120,2,Bali,Sub-urban,Hujan,108.7,8,4,44,28,249.49,3247,10.71,0,0
+PJ-332,Pabrik,Swasta Asing,Harga Satuan,0,382.84,957104,0,57426,15313,0.0,0,195,2,Sumatera Barat,Rural,Hujan,114.97,7,8,49,72,341.82,4430,10.71,0,1
+PJ-333,Jalan Tol,Swasta Nasional,Cost Plus,0,2203.28,4406564,6609847,440656,22032,55.08,0,1120,1,Kalimantan Tengah,Urban,Hujan,106.73,3,5,221,46,1967.22,3398,10.71,0,0
+PJ-334,Jaringan IT,Swasta Nasional,Cost Plus,0,66.87,334360,0,0,0,100.31,3343,34,2,Aceh,Rural,Kemarau,115.46,5,7,18,34,59.71,3166,10.71,0,0
+PJ-335,Perumahan,Pemda,Lump Sum,0,199.52,798091,99761,49880,0,0.0,4988,107,1,Sulawesi Selatan,Rural,Kemarau,114.03,9,10,42,10,178.15,3239,10.71,0,0
+PJ-336,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,150.06,450189,0,15006,3001,0.0,3001,62,2,Nusa Tenggara Barat,Rural,Kemarau,117.92,8,11,25,19,133.98,3069,10.71,0,0
+PJ-337,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,294.5,883490,0,29449,5889,0.0,5889,138,1,Jawa Tengah,Sub-urban,Kemarau,112.55,6,20,46,35,262.94,4356,10.71,0,1
+PJ-338,Perumahan,BUMN,Cost Plus,0,148.25,593004,74125,37062,0,0.0,3706,75,1,Riau,Rural,Kemarau,105.72,2,6,30,76,132.37,3844,10.71,0,1
+PJ-339,Perumahan,Swasta Nasional,Lump Sum,0,92.13,368534,46066,23033,0,0.0,2303,44,3,Sulawesi Utara,Urban,Kemarau,108.91,8,16,19,28,82.26,3306,10.71,0,0
+PJ-340,Gedung Perkantoran,BUMN,Cost Plus,0,128.75,386259,0,12875,2575,0.0,2575,45,2,Maluku,Rural,Hujan,107.47,8,6,20,36,139.59,4005,-8.41,1,1
+PJ-341,Jalan Tol,Swasta Asing,Harga Satuan,0,757.39,1514785,2272177,151478,7573,18.93,0,394,1,Papua,Sub-urban,Kemarau,105.07,6,10,79,50,676.24,4533,10.71,0,1
+PJ-342,Gedung Perkantoran,Swasta Asing,Cost Plus,0,219.5,658497,0,21949,4389,0.0,4389,98,3,Nusa Tenggara Timur,Sub-urban,Hujan,107.98,2,21,36,78,195.98,3648,10.71,0,1
+PJ-343,Pabrik,BUMN,Cost Plus,0,293.8,734501,0,44070,11752,0.0,0,151,3,Nusa Tenggara Barat,Rural,Hujan,104.14,4,23,38,60,262.32,3294,10.71,0,0
+PJ-344,Jalan Tol,Swasta Nasional,Cost Plus,0,2764.1,5528208,8292313,552820,27641,69.1,0,1383,5,Jawa Timur,Rural,Hujan,101.12,4,17,280,54,3136.6,4134,-13.48,1,1
+PJ-345,Gedung Perkantoran,Pemda,Harga Satuan,0,164.97,494916,0,16497,3299,0.0,3299,71,3,Kalimantan Utara,Sub-urban,Kemarau,114.85,4,16,27,14,147.3,3124,10.71,0,0
+PJ-346,Jaringan IT,Swasta Asing,Harga Satuan,0,40.6,202997,0,0,0,60.9,2029,27,2,Sumatera Selatan,Sub-urban,Hujan,109.81,7,20,11,32,48.11,3145,-18.49,1,0
+PJ-347,Perumahan,Swasta Nasional,Harga Satuan,0,77.37,309497,38687,19343,0,0.0,1934,28,1,Jawa Timur,Sub-urban,Hujan,109.64,8,20,17,74,69.08,3103,10.71,0,0
+PJ-348,Jaringan IT,Swasta Asing,Harga Satuan,0,74.22,371097,0,0,0,111.33,3710,23,1,Jambi,Sub-urban,Hujan,110.42,8,16,22,24,66.27,2875,10.71,0,0
+PJ-349,Jalan Tol,Swasta Asing,Lump Sum,0,1356.3,2712592,4068889,271259,13562,33.91,0,677,2,Papua,Sub-urban,Kemarau,114.71,9,17,136,51,1210.98,3399,10.71,0,0
+PJ-350,Pabrik,Pemda,Harga Satuan,0,542.55,1356375,0,81382,21702,0.0,0,271,1,Gorontalo,Sub-urban,Kemarau,108.38,9,18,69,19,484.42,3350,10.71,0,0
+PJ-351,Perumahan,BUMN,Lump Sum,1,146.21,584823,73102,36551,0,0.0,3655,92,2,Jawa Timur,Sub-urban,Hujan,111.23,3,5,32,33,130.54,4348,10.71,0,1
+PJ-352,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,71.57,214724,0,7157,1431,0.0,1431,24,1,Kalimantan Tengah,Rural,Kemarau,100.54,6,6,12,75,63.91,3050,10.71,0,0
+PJ-353,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,278.15,834453,0,27815,5563,0.0,5563,135,2,Papua,Sub-urban,Kemarau,113.98,4,8,43,76,248.35,4173,10.71,0,1
+PJ-354,Jaringan IT,Pemda,Harga Satuan,0,65.12,325607,0,0,0,97.68,3256,48,3,Sulawesi Tengah,Urban,Hujan,107.36,5,24,18,66,58.14,3083,10.71,0,0
+PJ-355,Jaringan IT,Pemda,Lump Sum,1,74.46,372300,0,0,0,111.69,3723,56,3,Papua Pegunungan,Rural,Kemarau,113.09,9,21,22,51,66.48,2884,10.71,0,0
+PJ-356,Jaringan IT,BUMN,Harga Satuan,0,89.37,446840,0,0,0,134.05,4468,45,2,DKI Jakarta,Rural,Kemarau,103.02,4,3,24,23,79.79,3173,10.71,0,0
+PJ-357,Jalan Tol,Pemda,Lump Sum,1,973.66,1947318,2920977,194731,9736,24.34,0,496,3,Maluku,Sub-urban,Kemarau,104.36,6,23,99,35,869.34,3827,10.71,0,1
+PJ-358,Jembatan,Pemda,Harga Satuan,0,1449.23,2898461,4347691,289846,14492,36.23,0,737,1,Sulawesi Selatan,Sub-urban,Hujan,112.57,4,17,145,55,1293.96,4590,10.71,0,1
+PJ-359,Perumahan,BUMN,Harga Satuan,0,112.76,451052,56381,28190,0,0.0,2819,71,2,Jawa Tengah,Urban,Kemarau,118.68,3,10,23,15,100.68,4340,10.71,0,1
+PJ-360,Jalan Tol,BUMN,Lump Sum,1,1212.06,2424127,3636190,242412,12120,30.3,0,610,3,Jambi,Sub-urban,Kemarau,104.84,9,3,122,51,1082.2,3386,10.71,0,0
+PJ-361,Jalan Tol,Swasta Nasional,Lump Sum,0,1163.34,2326681,3490022,232668,11633,29.08,0,570,5,Nusa Tenggara Timur,Rural,Hujan,117.69,4,8,118,34,1038.7,3360,10.71,0,0
+PJ-362,Jaringan IT,Swasta Nasional,Harga Satuan,0,95.55,477731,0,0,0,143.32,4777,59,1,Maluku,Urban,Hujan,102.14,3,7,24,59,85.31,3392,10.71,0,0
+PJ-363,Gedung Perkantoran,Pemda,Cost Plus,0,207.15,621449,0,20714,4142,0.0,4142,116,3,Papua Barat Daya,Rural,Hujan,107.72,8,4,33,16,184.96,3576,10.71,0,1
+PJ-364,Jaringan IT,Swasta Asing,Lump Sum,1,65.78,328895,0,0,0,98.67,3288,31,3,Papua,Rural,Hujan,104.83,9,17,20,75,65.59,3786,0.29,1,1
+PJ-365,Gedung Perkantoran,BUMN,Lump Sum,1,71.9,215693,0,7189,1437,0.0,1437,19,3,Maluku Utara,Urban,Kemarau,114.3,7,16,14,33,73.61,2626,-2.38,1,0
+PJ-366,Jaringan IT,Swasta Nasional,Harga Satuan,0,85.63,428168,0,0,0,128.45,4281,37,3,Maluku,Urban,Hujan,118.19,2,24,24,66,76.46,3381,10.71,0,1
+PJ-367,Jalan Tol,Swasta Nasional,Harga Satuan,0,2624.46,5248919,7873379,524891,26244,65.61,0,1307,5,Sumatera Selatan,Rural,Kemarau,104.86,8,17,264,19,2343.27,4663,10.71,0,1
+PJ-368,Perumahan,BUMN,Lump Sum,0,242.94,971745,121468,60734,0,0.0,6073,114,2,Kepulauan Bangka Belitung,Sub-urban,Kemarau,108.45,6,4,49,65,216.91,3380,10.71,0,0
+PJ-369,Jalan Tol,Swasta Nasional,Harga Satuan,0,1712.29,3424586,5136880,342458,17122,42.81,0,861,5,Sulawesi Tengah,Sub-urban,Kemarau,103.35,6,17,173,40,1528.83,3374,10.71,0,0
+PJ-370,Gedung Perkantoran,Pemda,Lump Sum,1,146.55,439661,0,14655,2931,0.0,2931,69,3,Sulawesi Barat,Rural,Hujan,101.53,2,8,22,34,130.85,3406,10.71,0,0
+PJ-371,Jalan Tol,BUMN,Lump Sum,0,1432.87,2865744,4298616,286574,14328,35.82,0,729,1,Kalimantan Timur,Sub-urban,Hujan,106.08,6,19,144,55,1636.75,3847,-14.23,1,1
+PJ-372,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,188.16,564485,0,18816,3763,0.0,3763,100,1,Maluku Utara,Urban,Kemarau,101.83,3,5,32,35,214.56,3006,-14.03,1,0
+PJ-373,Jaringan IT,Swasta Nasional,Harga Satuan,0,62.67,313334,0,0,0,94.0,3133,45,3,Sulawesi Barat,Sub-urban,Kemarau,107.18,8,21,19,53,55.95,2811,10.71,0,0
+PJ-374,Perumahan,Swasta Nasional,Cost Plus,0,194.68,778706,97338,48669,0,0.0,4866,97,3,Jawa Timur,Rural,Kemarau,115.0,3,24,40,68,205.98,3318,-5.8,1,0
+PJ-375,Perumahan,Swasta Asing,Lump Sum,1,65.46,261823,32727,16363,0,0.0,1636,36,1,DI Yogyakarta,Sub-urban,Kemarau,106.27,3,18,14,43,58.44,4162,10.71,0,1
+PJ-376,Perumahan,Swasta Asing,Cost Plus,0,97.57,390291,48786,24393,0,0.0,2439,67,2,Jambi,Rural,Kemarau,101.5,9,17,23,10,87.12,3383,10.71,0,1
+PJ-377,Pabrik,Pemda,Lump Sum,0,285.98,714940,0,42896,11439,0.0,0,155,2,Sumatera Barat,Urban,Kemarau,114.95,6,24,36,38,255.34,3385,10.71,0,0
+PJ-378,Jalan Tol,Pemda,Cost Plus,0,665.69,1331382,1997074,133138,6656,16.64,0,344,1,Papua Pegunungan,Rural,Kemarau,117.28,9,4,67,11,695.69,3387,-4.51,1,0
+PJ-379,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,227.74,683211,0,22773,4554,0.0,4554,108,1,Nusa Tenggara Barat,Sub-urban,Hujan,111.43,8,6,36,21,203.34,4309,10.71,0,1
+PJ-380,Jalan Tol,Swasta Asing,Harga Satuan,0,2449.77,4899534,7349301,489953,24497,61.24,0,1234,2,Sulawesi Selatan,Sub-urban,Kemarau,101.37,7,15,247,37,2187.29,3381,10.71,0,0
+PJ-381,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,82.44,247312,0,8243,1648,0.0,1648,33,1,Papua Selatan,Sub-urban,Kemarau,104.83,8,12,16,27,73.6,2634,10.71,0,0
+PJ-382,Perumahan,Swasta Nasional,Lump Sum,0,214.44,857769,107221,53610,0,0.0,5361,117,3,Kalimantan Timur,Sub-urban,Hujan,113.12,5,7,44,52,231.17,3322,-7.8,1,0
+PJ-383,Perumahan,Pemda,Cost Plus,0,227.09,908369,113546,56773,0,0.0,5677,125,3,Sulawesi Tengah,Sub-urban,Kemarau,114.58,5,13,48,38,202.76,3225,10.71,0,0
+PJ-384,Gedung Perkantoran,Swasta Asing,Cost Plus,0,124.85,374545,0,12484,2496,0.0,2496,47,2,Jambi,Rural,Kemarau,113.27,6,4,22,16,131.92,2901,-5.66,1,0
+PJ-385,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,235.35,706043,0,23534,4706,0.0,4706,104,2,Papua Pegunungan,Sub-urban,Kemarau,104.97,6,23,38,21,210.13,3167,10.71,0,0
+PJ-386,Gedung Perkantoran,BUMN,Harga Satuan,0,167.15,501457,0,16715,3343,0.0,3343,69,3,Sulawesi Utara,Sub-urban,Hujan,109.31,2,16,28,64,149.24,3364,10.71,0,1
+PJ-387,Jaringan IT,BUMN,Lump Sum,1,46.45,232263,0,0,0,69.68,2322,30,3,Sulawesi Tenggara,Sub-urban,Kemarau,119.66,7,5,13,19,48.75,3733,-4.94,1,1
+PJ-388,Gedung Perkantoran,Pemda,Lump Sum,1,231.19,693569,0,23118,4623,0.0,4623,105,3,Kepulauan Riau,Sub-urban,Kemarau,108.47,9,15,35,55,206.42,4191,10.71,0,1
+PJ-389,Jembatan,Pemda,Cost Plus,0,2113.76,4227516,6341274,422751,21137,52.84,0,1046,5,Gorontalo,Rural,Hujan,117.16,7,24,212,44,2500.88,4165,-18.31,1,1
+PJ-390,Perumahan,BUMN,Cost Plus,0,177.63,710514,88814,44407,0,0.0,4440,97,2,Maluku,Urban,Kemarau,112.69,6,5,39,34,201.91,3105,-13.67,1,0
+PJ-391,Jaringan IT,BUMN,Lump Sum,1,74.07,370336,0,0,0,111.1,3703,30,3,DKI Jakarta,Sub-urban,Kemarau,108.4,7,7,22,31,66.13,2869,10.71,0,0
+PJ-392,Pabrik,Pemda,Harga Satuan,0,235.15,587862,0,35271,9405,0.0,0,99,2,Papua Tengah,Rural,Kemarau,106.6,8,9,30,20,209.95,3340,10.71,0,0
+PJ-393,Jalan Tol,Swasta Asing,Harga Satuan,0,1300.32,2600635,3900952,260063,13003,32.51,0,643,1,Kalimantan Timur,Rural,Hujan,114.45,5,8,134,41,1490.6,3903,-14.63,1,1
+PJ-394,Gedung Perkantoran,BUMN,Cost Plus,0,115.27,345816,0,11527,2305,0.0,2305,67,2,Gorontalo,Sub-urban,Kemarau,102.8,7,4,20,20,102.92,2947,10.71,0,0
+PJ-395,Perumahan,Swasta Nasional,Lump Sum,0,231.67,926691,115836,57918,0,0.0,5791,129,3,Maluku,Sub-urban,Hujan,100.01,3,7,50,63,239.0,3159,-3.16,1,0
+PJ-396,Jembatan,Swasta Nasional,Harga Satuan,0,1610.89,3221779,4832669,322177,16108,40.27,0,807,3,Sumatera Utara,Rural,Hujan,114.53,7,16,163,42,1438.29,3369,10.71,0,0
+PJ-397,Gedung Perkantoran,BUMN,Lump Sum,1,85.51,256539,0,8551,1710,0.0,1710,37,1,Papua,Urban,Kemarau,106.25,6,21,13,15,76.35,3363,10.71,0,0
+PJ-398,Jalan Tol,BUMN,Lump Sum,0,2786.48,5572951,8359427,557295,27864,69.66,0,1410,5,Kepulauan Riau,Rural,Hujan,102.19,3,3,281,22,2487.92,3975,10.71,0,1
+PJ-399,Gedung Perkantoran,BUMN,Lump Sum,1,266.72,800146,0,26671,5334,0.0,5334,130,1,Sumatera Utara,Urban,Kemarau,104.2,8,7,41,28,238.14,3705,10.71,0,1
+PJ-400,Jaringan IT,Swasta Nasional,Harga Satuan,0,37.97,189861,0,0,0,56.96,1898,17,2,Bali,Sub-urban,Hujan,104.07,6,20,12,77,38.14,2696,-0.43,1,0
+PJ-401,Jaringan IT,Swasta Nasional,Harga Satuan,0,76.56,382802,0,0,0,114.84,3828,44,2,Papua Barat,Rural,Kemarau,101.01,7,4,21,63,76.16,4076,0.52,1,1
+PJ-402,Perumahan,Pemda,Cost Plus,0,88.65,354619,44327,22163,0,0.0,2216,32,2,Nusa Tenggara Barat,Urban,Kemarau,118.83,5,6,20,28,79.16,3022,10.71,0,0
+PJ-403,Perumahan,Swasta Asing,Lump Sum,0,99.05,396193,49524,24762,0,0.0,2476,36,2,Jawa Tengah,Urban,Kemarau,117.32,9,16,23,78,88.44,3389,10.71,0,1
+PJ-404,Jaringan IT,BUMN,Lump Sum,1,63.1,315504,0,0,0,94.65,3155,42,2,Kalimantan Timur,Urban,Kemarau,109.03,2,19,18,72,56.34,2987,10.71,0,0
+PJ-405,Gedung Perkantoran,BUMN,Harga Satuan,0,53.01,159030,0,5301,1060,0.0,1060,14,3,Banten,Rural,Hujan,118.1,7,19,9,71,47.33,3011,10.71,0,0
+PJ-406,Jaringan IT,Swasta Nasional,Lump Sum,0,38.83,194128,0,0,0,58.24,1941,14,2,Kalimantan Timur,Rural,Hujan,104.57,9,21,11,28,38.14,3337,1.76,1,1
+PJ-407,Perumahan,BUMN,Cost Plus,0,161.48,645906,80738,40369,0,0.0,4036,80,3,Sulawesi Tenggara,Rural,Kemarau,113.31,5,11,34,12,144.18,3238,10.71,0,0
+PJ-408,Jalan Tol,Pemda,Harga Satuan,0,2979.98,5959963,8939945,595996,29799,74.5,0,1495,3,Sumatera Utara,Urban,Hujan,106.22,6,18,300,61,3058.21,4036,-2.62,1,1
+PJ-409,Perumahan,Swasta Nasional,Lump Sum,0,73.55,294214,36776,18388,0,0.0,1838,47,3,Jambi,Urban,Kemarau,116.77,9,9,16,42,87.42,3134,-18.86,1,0
+PJ-410,Jembatan,Pemda,Cost Plus,0,738.4,1476792,2215188,147679,7383,18.46,0,380,3,Kepulauan Riau,Sub-urban,Hujan,101.4,8,15,77,52,659.28,3269,10.71,0,0
+PJ-411,Jaringan IT,Pemda,Lump Sum,1,57.71,288562,0,0,0,86.57,2885,10,1,Papua Tengah,Rural,Hujan,102.3,8,21,18,62,51.53,3607,10.71,0,1
+PJ-412,Gedung Perkantoran,Pemda,Lump Sum,1,135.05,405143,0,13504,2700,0.0,2700,54,1,Jawa Barat,Rural,Hujan,119.2,3,5,23,75,157.17,3348,-16.38,1,1
+PJ-413,Gedung Perkantoran,BUMN,Harga Satuan,0,118.59,355774,0,11859,2371,0.0,2371,40,3,Bengkulu,Rural,Kemarau,111.1,7,8,18,62,105.89,4423,10.71,0,1
+PJ-414,Gedung Perkantoran,BUMN,Lump Sum,1,183.26,549776,0,18325,3665,0.0,3665,83,2,Maluku,Urban,Kemarau,109.57,9,21,31,51,163.62,3022,10.71,0,0
+PJ-415,Perumahan,Swasta Nasional,Cost Plus,0,109.37,437471,54683,27341,0,0.0,2734,40,3,Jambi,Urban,Hujan,113.78,3,4,24,43,125.46,3107,-14.72,1,0
+PJ-416,Perumahan,Swasta Asing,Lump Sum,1,195.36,781425,97678,48839,0,0.0,4883,101,1,Banten,Urban,Hujan,119.39,4,16,40,15,174.43,3329,10.71,0,0
+PJ-417,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,123.13,369385,0,12312,2462,0.0,2462,70,3,Jawa Timur,Urban,Kemarau,112.75,7,6,19,64,109.94,3313,10.71,0,0
+PJ-418,Jalan Tol,Swasta Nasional,Cost Plus,0,2159.73,4319462,6479194,431946,21597,53.99,0,1077,3,Nusa Tenggara Timur,Rural,Kemarau,106.48,5,3,218,39,2512.38,3977,-16.33,1,1
+PJ-419,Perumahan,BUMN,Cost Plus,0,120.62,482463,60307,30153,0,0.0,3015,42,1,DKI Jakarta,Urban,Kemarau,111.36,2,23,27,19,107.69,3721,10.71,0,1
+PJ-420,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,201.89,605665,0,20188,4037,0.0,4037,93,1,Aceh,Urban,Hujan,110.18,4,16,33,27,180.26,3128,10.71,0,0
+PJ-421,Jaringan IT,Swasta Nasional,Harga Satuan,0,24.57,122864,0,0,0,36.86,1228,21,3,Sumatera Selatan,Sub-urban,Hujan,113.22,6,17,7,66,29.26,3323,-19.06,1,1
+PJ-422,Jaringan IT,Swasta Asing,Harga Satuan,0,33.91,169574,0,0,0,50.87,1695,22,1,Sulawesi Tenggara,Rural,Kemarau,105.53,7,6,10,74,30.28,2890,10.71,0,0
+PJ-423,Perumahan,BUMN,Lump Sum,0,238.21,952846,119105,59552,0,0.0,5955,121,1,Jawa Barat,Sub-urban,Hujan,100.86,8,9,48,34,212.69,4163,10.71,0,1
+PJ-424,Jalan Tol,Swasta Asing,Harga Satuan,0,1258.91,2517824,3776736,251782,12589,31.47,0,634,5,Sulawesi Tenggara,Rural,Kemarau,110.29,5,24,127,37,1124.03,3379,10.71,0,0
+PJ-425,Jaringan IT,Swasta Asing,Cost Plus,0,43.63,218133,0,0,0,65.44,2181,24,3,Maluku,Sub-urban,Kemarau,112.17,6,3,11,79,38.95,4338,10.71,0,1
+PJ-426,Jalan Tol,Pemda,Harga Satuan,0,836.51,1673011,2509517,167301,8365,20.91,0,405,3,Sulawesi Tengah,Rural,Hujan,106.58,5,19,86,14,746.88,3315,10.71,0,0
+PJ-427,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,93.53,280599,0,9353,1870,0.0,1870,49,3,Kalimantan Barat,Urban,Kemarau,100.05,7,5,18,49,104.04,2657,-11.24,1,0
+PJ-428,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,86.25,258760,0,8625,1725,0.0,1725,44,2,Papua Barat Daya,Sub-urban,Hujan,113.43,5,3,16,62,77.01,3234,10.71,0,1
+PJ-429,Gedung Perkantoran,BUMN,Harga Satuan,0,180.91,542723,0,18090,3618,0.0,3618,101,3,Sumatera Selatan,Sub-urban,Hujan,114.26,4,22,29,58,161.52,3189,10.71,0,0
+PJ-430,Jalan Tol,Swasta Asing,Cost Plus,0,2178.97,4357945,6536917,435794,21789,54.47,0,1074,3,Bengkulu,Rural,Hujan,107.29,5,20,220,58,1945.51,3376,10.71,0,0
+PJ-431,Perumahan,BUMN,Cost Plus,0,98.3,393216,49152,24576,0,0.0,2457,52,2,Banten,Sub-urban,Hujan,107.37,6,21,20,21,101.53,3351,-3.28,1,0
+PJ-432,Jalan Tol,Swasta Asing,Lump Sum,0,995.36,1990712,2986068,199071,9953,24.88,0,505,5,Sulawesi Barat,Rural,Kemarau,100.01,6,12,102,62,888.71,3326,10.71,0,0
+PJ-433,Jalan Tol,Swasta Asing,Harga Satuan,0,2781.1,5562200,8343300,556220,27811,69.53,0,1396,1,Papua Selatan,Urban,Kemarau,108.97,7,12,281,29,2483.13,3374,10.71,0,0
+PJ-434,Jaringan IT,Swasta Nasional,Cost Plus,0,71.41,357039,0,0,0,107.11,3570,52,3,Kepulauan Riau,Sub-urban,Kemarau,103.66,9,14,20,76,82.0,3042,-14.84,1,0
+PJ-435,Jalan Tol,BUMN,Cost Plus,0,1457.8,2915605,4373407,291560,14578,36.45,0,722,2,Sulawesi Tengah,Rural,Hujan,117.16,4,6,146,77,1632.86,4404,-12.01,1,1
+PJ-436,Jaringan IT,Swasta Asing,Lump Sum,0,50.19,250957,0,0,0,75.29,2509,38,2,Bengkulu,Sub-urban,Kemarau,105.46,4,9,14,28,44.81,3055,10.71,0,0
+PJ-437,Perumahan,Pemda,Harga Satuan,0,90.7,362786,45348,22674,0,0.0,2267,39,1,Jambi,Sub-urban,Kemarau,119.37,9,24,20,18,80.98,3814,10.71,0,1
+PJ-438,Gedung Perkantoran,BUMN,Cost Plus,0,104.33,312996,0,10433,2086,0.0,2086,60,3,Papua Barat,Rural,Hujan,101.61,5,6,18,71,93.15,3344,10.71,0,1
+PJ-439,Gedung Perkantoran,Swasta Asing,Cost Plus,0,116.17,348516,0,11617,2323,0.0,2323,77,2,Papua,Urban,Hujan,105.37,6,12,21,27,103.73,2828,10.71,0,0
+PJ-440,Gedung Perkantoran,BUMN,Harga Satuan,0,88.19,264559,0,8818,1763,0.0,1763,40,2,Sulawesi Tengah,Rural,Hujan,106.5,9,8,16,73,78.74,3216,10.71,0,1
+PJ-441,Gedung Perkantoran,BUMN,Harga Satuan,0,149.11,447336,0,14911,2982,0.0,2982,79,1,DI Yogyakarta,Sub-urban,Kemarau,116.53,5,5,23,13,133.14,4546,10.71,0,1
+PJ-442,Jaringan IT,BUMN,Cost Plus,0,12.73,63626,0,0,0,19.09,636,1,2,Bali,Rural,Hujan,116.84,3,12,4,19,11.36,2711,10.71,0,0
+PJ-443,Jalan Tol,BUMN,Harga Satuan,0,1982.16,3964325,5946487,396432,19821,49.55,0,995,4,Kalimantan Barat,Sub-urban,Hujan,119.4,8,17,201,44,2155.64,3361,-8.75,1,0
+PJ-444,Perumahan,Swasta Nasional,Harga Satuan,0,159.6,638412,79801,39900,0,0.0,3990,59,2,Sulawesi Tengah,Urban,Hujan,109.62,2,6,34,61,142.5,4301,10.71,0,1
+PJ-445,Perumahan,Swasta Asing,Lump Sum,0,211.23,844926,105615,52807,0,0.0,5280,114,3,Papua Selatan,Sub-urban,Kemarau,113.81,3,21,43,39,188.6,3690,10.71,0,1
+PJ-446,Jalan Tol,BUMN,Harga Satuan,0,686.97,1373947,2060920,137394,6869,17.17,0,330,2,DI Yogyakarta,Rural,Hujan,115.41,4,15,71,28,613.37,3725,10.71,0,1
+PJ-447,Jembatan,Pemda,Lump Sum,1,1181.04,2362085,3543128,236208,11810,29.53,0,591,3,Jawa Barat,Urban,Kemarau,105.97,3,13,121,47,1054.5,4620,10.71,0,1
+PJ-448,Gedung Perkantoran,BUMN,Harga Satuan,0,135.78,407339,0,13577,2715,0.0,2715,74,2,Kalimantan Timur,Sub-urban,Hujan,104.21,8,14,23,12,121.23,3018,10.71,0,0
+PJ-449,Jembatan,BUMN,Lump Sum,0,2798.92,5597843,8396764,559784,27989,69.97,0,1385,3,Banten,Urban,Hujan,107.22,9,6,283,34,2499.04,4137,10.71,0,1
+PJ-450,Jaringan IT,Swasta Nasional,Harga Satuan,0,46.72,233581,0,0,0,70.07,2335,30,3,Sulawesi Barat,Rural,Hujan,116.3,9,12,15,66,50.53,2654,-8.17,1,0
+PJ-451,Jembatan,Swasta Nasional,Lump Sum,0,1499.52,2999044,4498566,299904,14995,37.49,0,749,1,Jambi,Sub-urban,Kemarau,110.06,6,6,151,55,1736.28,3385,-15.79,1,0
+PJ-452,Jaringan IT,Swasta Nasional,Cost Plus,0,81.37,406833,0,0,0,122.05,4068,29,3,Papua,Sub-urban,Hujan,109.68,2,23,23,79,84.29,3762,-3.59,1,1
+PJ-453,Gedung Perkantoran,Swasta Asing,Lump Sum,1,167.83,503503,0,16783,3356,0.0,3356,84,3,Jawa Tengah,Urban,Kemarau,109.7,7,22,26,58,149.85,3300,10.71,0,0
+PJ-454,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,57.05,171144,0,5704,1140,0.0,1140,46,2,Kalimantan Utara,Rural,Hujan,102.33,8,3,10,17,50.94,3686,10.71,0,1
+PJ-455,Perumahan,BUMN,Lump Sum,1,133.12,532464,66558,33279,0,0.0,3327,65,1,Sumatera Selatan,Urban,Kemarau,105.53,4,13,29,34,118.85,3129,10.71,0,0
+PJ-456,Perumahan,Swasta Nasional,Harga Satuan,0,64.18,256718,32089,16044,0,0.0,1604,27,1,Sulawesi Barat,Sub-urban,Hujan,116.18,5,17,16,76,57.3,2734,10.71,0,0
+PJ-457,Jaringan IT,Pemda,Harga Satuan,0,37.79,188960,0,0,0,56.69,1889,31,1,Sumatera Selatan,Sub-urban,Kemarau,101.61,8,10,13,49,33.74,2477,10.71,0,0
+PJ-458,Gedung Perkantoran,Swasta Asing,Lump Sum,0,296.34,889023,0,29634,5926,0.0,5926,131,1,Maluku Utara,Urban,Kemarau,104.95,4,11,45,18,264.59,3367,10.71,0,0
+PJ-459,Jaringan IT,BUMN,Cost Plus,0,75.39,376972,0,0,0,113.09,3769,30,3,Banten,Sub-urban,Kemarau,100.08,7,20,20,15,67.32,4366,10.71,0,1
+PJ-460,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,203.66,610993,0,20366,4073,0.0,4073,82,1,Jawa Timur,Urban,Kemarau,119.97,3,24,31,76,181.84,3359,10.71,0,0
+PJ-461,Jalan Tol,BUMN,Cost Plus,0,2951.96,5903912,8855868,590391,29519,73.8,0,1479,3,Sulawesi Utara,Rural,Hujan,110.66,9,8,298,47,2922.08,3377,1.01,1,0
+PJ-462,Jalan Tol,Swasta Asing,Harga Satuan,0,798.46,1596917,2395375,159691,7984,19.96,0,400,5,Sulawesi Selatan,Urban,Hujan,113.64,5,15,81,49,712.91,3360,10.71,0,0
+PJ-463,Gedung Perkantoran,Swasta Asing,Cost Plus,0,237.06,711186,0,23706,4741,0.0,4741,120,1,Maluku Utara,Sub-urban,Kemarau,111.17,9,17,38,35,211.66,3190,10.71,0,0
+PJ-464,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,226.66,679993,0,22666,4533,0.0,4533,93,2,Papua Barat Daya,Rural,Kemarau,100.05,4,22,34,60,202.38,3409,10.71,0,0
+PJ-465,Perumahan,Swasta Nasional,Lump Sum,0,141.24,564969,70621,35310,0,0.0,3531,84,2,Papua Barat Daya,Rural,Hujan,118.68,8,8,30,51,126.11,3210,10.71,0,0
+PJ-466,Perumahan,Pemda,Lump Sum,1,143.97,575864,71983,35991,0,0.0,3599,64,3,Nusa Tenggara Timur,Rural,Kemarau,118.79,7,10,32,26,128.54,3644,10.71,0,1
+PJ-467,Gedung Perkantoran,Pemda,Lump Sum,1,231.6,694802,0,23160,4632,0.0,4632,131,1,Aceh,Urban,Kemarau,106.05,2,5,37,46,236.53,4307,-2.13,1,1
+PJ-468,Jaringan IT,Swasta Nasional,Cost Plus,0,93.74,468688,0,0,0,140.61,4686,61,2,Sulawesi Selatan,Urban,Hujan,110.93,3,12,27,47,83.69,4013,10.71,0,1
+PJ-469,Jaringan IT,Pemda,Lump Sum,0,34.45,172274,0,0,0,51.68,1722,3,1,Maluku,Sub-urban,Kemarau,107.54,8,23,12,38,30.76,2447,10.71,0,0
+PJ-470,Jembatan,Swasta Asing,Cost Plus,0,786.33,1572669,2359004,157266,7863,19.66,0,396,4,Sumatera Selatan,Urban,Kemarau,102.09,8,19,80,64,937.36,3350,-19.21,1,0
+PJ-471,Perumahan,BUMN,Lump Sum,0,232.6,930394,116299,58149,0,0.0,5814,106,2,Aceh,Sub-urban,Kemarau,106.45,2,17,47,71,207.68,3374,10.71,0,0
+PJ-472,Perumahan,Pemda,Harga Satuan,0,210.03,840112,105014,52507,0,0.0,5250,114,2,Sulawesi Barat,Urban,Hujan,108.74,7,13,46,58,187.53,3113,10.71,0,0
+PJ-473,Jaringan IT,Swasta Nasional,Cost Plus,0,66.13,330658,0,0,0,99.2,3306,42,1,Sulawesi Tengah,Sub-urban,Kemarau,106.3,9,23,18,26,59.05,3131,10.71,0,0
+PJ-474,Jaringan IT,Swasta Asing,Cost Plus,0,84.83,424167,0,0,0,127.25,4241,54,1,Sumatera Barat,Rural,Hujan,116.67,9,16,23,32,101.37,3620,-19.49,1,1
+PJ-475,Jaringan IT,Pemda,Lump Sum,0,80.88,404403,0,0,0,121.32,4044,24,3,Sumatera Barat,Rural,Hujan,108.74,7,3,21,14,72.21,3282,10.71,0,0
+PJ-476,Jembatan,BUMN,Cost Plus,0,2954.66,5909313,8863970,590931,29546,73.87,0,1496,1,Sulawesi Tengah,Urban,Hujan,101.62,9,13,298,19,2638.09,3380,10.71,0,0
+PJ-477,Jaringan IT,Swasta Asing,Lump Sum,0,50.33,251662,0,0,0,75.5,2516,25,3,Kalimantan Utara,Sub-urban,Hujan,110.38,6,16,16,53,44.94,2681,10.71,0,0
+PJ-478,Perumahan,BUMN,Cost Plus,0,81.39,325560,40695,20347,0,0.0,2034,43,3,DKI Jakarta,Rural,Kemarau,100.22,7,16,17,68,72.67,3264,10.71,0,0
+PJ-479,Jembatan,Swasta Nasional,Cost Plus,0,1985.18,3970353,5955530,397035,19851,49.63,0,990,3,Sumatera Utara,Rural,Hujan,111.43,2,8,201,67,2060.55,4322,-3.8,1,1
+PJ-480,Jalan Tol,Swasta Asing,Cost Plus,0,1297.94,2595873,3893810,259587,12979,32.45,0,657,1,Sumatera Barat,Sub-urban,Kemarau,110.59,3,13,132,12,1158.87,3352,10.71,0,0
+PJ-481,Perumahan,Swasta Asing,Lump Sum,0,74.6,298396,37299,18649,0,0.0,1864,36,1,DKI Jakarta,Sub-urban,Hujan,118.85,8,15,17,58,66.61,3582,10.71,0,1
+PJ-482,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,286.47,859413,0,28647,5729,0.0,5729,128,3,DKI Jakarta,Sub-urban,Kemarau,100.69,8,20,44,36,255.78,4436,10.71,0,1
+PJ-483,Perumahan,Pemda,Lump Sum,0,134.05,536206,67025,33512,0,0.0,3351,57,2,Riau,Rural,Hujan,117.61,3,13,28,51,148.14,4436,-10.51,1,1
+PJ-484,Jaringan IT,BUMN,Harga Satuan,0,65.58,327877,0,0,0,98.36,3278,28,3,Kalimantan Timur,Urban,Hujan,110.11,4,6,20,53,58.55,2794,10.71,0,0
+PJ-485,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,167.59,502766,0,16758,3351,0.0,3351,64,1,Sumatera Utara,Rural,Hujan,114.63,8,8,29,56,190.61,3617,-13.74,1,1
+PJ-486,Pabrik,Swasta Asing,Lump Sum,0,442.97,1107426,0,66445,17718,0.0,0,227,3,Gorontalo,Sub-urban,Hujan,110.9,2,8,58,17,522.86,3254,-18.03,1,0
+PJ-487,Perumahan,Pemda,Harga Satuan,0,59.02,236064,29508,14754,0,0.0,1475,41,1,Papua Pegunungan,Urban,Kemarau,111.75,9,9,15,62,64.81,2682,-9.82,1,0
+PJ-488,Jalan Tol,Swasta Nasional,Lump Sum,1,1469.09,2938170,4407256,293817,14690,36.73,0,752,1,Kalimantan Utara,Rural,Hujan,101.25,3,19,149,71,1758.62,4499,-19.71,1,1
+PJ-489,Pabrik,BUMN,Cost Plus,0,513.57,1283915,0,77034,20542,0.0,0,269,2,Papua Barat,Urban,Hujan,103.25,5,12,65,53,458.54,3366,10.71,0,0
+PJ-490,Jalan Tol,BUMN,Cost Plus,0,1608.12,3216233,4824349,321623,16081,40.2,0,792,2,Papua Tengah,Sub-urban,Hujan,115.49,3,16,161,75,1626.87,3405,-1.17,1,0
+PJ-491,Perumahan,Pemda,Cost Plus,0,55.3,221218,27652,13826,0,0.0,1382,25,1,Sulawesi Tengah,Rural,Kemarau,111.34,2,22,12,33,49.38,3142,10.71,0,0
+PJ-492,Gedung Perkantoran,Pemda,Harga Satuan,0,151.69,455080,0,15169,3033,0.0,3033,69,1,Sumatera Barat,Sub-urban,Hujan,112.31,7,4,26,31,156.76,3504,-3.34,1,1
+PJ-493,Jaringan IT,Swasta Asing,Cost Plus,0,63.32,316607,0,0,0,94.98,3166,37,3,Sumatera Selatan,Urban,Kemarau,107.58,5,22,18,16,56.54,2998,10.71,0,0
+PJ-494,Jaringan IT,Pemda,Harga Satuan,0,66.45,332229,0,0,0,99.67,3322,37,1,Kalimantan Barat,Sub-urban,Hujan,111.92,3,17,18,44,59.33,3146,10.71,0,0
+PJ-495,Gedung Perkantoran,BUMN,Lump Sum,0,195.02,585069,0,19502,3900,0.0,3900,93,2,Kalimantan Barat,Rural,Hujan,107.25,5,20,31,49,174.13,3217,10.71,0,0
+PJ-496,Jaringan IT,Pemda,Harga Satuan,0,89.39,446927,0,0,0,134.08,4469,62,2,Sumatera Barat,Urban,Hujan,116.8,5,5,25,64,97.08,3699,-8.61,1,1
+PJ-497,Gedung Perkantoran,BUMN,Harga Satuan,0,271.85,815536,0,27184,5436,0.0,5436,144,3,Bali,Urban,Hujan,103.7,9,8,42,49,242.72,3309,10.71,0,0
+PJ-498,Jembatan,Swasta Nasional,Harga Satuan,0,964.08,1928160,2892241,192816,9640,24.1,0,462,5,Papua Barat Daya,Sub-urban,Hujan,117.08,3,20,99,11,860.79,3319,10.71,0,0
+PJ-499,Gedung Perkantoran,BUMN,Lump Sum,0,178.72,536146,0,17871,3574,0.0,3574,72,3,Jambi,Urban,Kemarau,118.52,9,16,29,12,159.57,3151,10.71,0,0
+PJ-500,Jembatan,BUMN,Harga Satuan,0,2331.67,4663340,6995011,466334,23316,58.29,0,1163,5,Sulawesi Barat,Sub-urban,Hujan,103.43,4,9,235,17,2081.85,3382,10.71,0,0
+PJ-501,Jaringan IT,BUMN,Cost Plus,0,82.14,410723,0,0,0,123.22,4107,50,1,Sulawesi Utara,Rural,Hujan,109.45,3,9,22,11,83.57,3961,-1.73,1,1
+PJ-502,Jembatan,Swasta Asing,Lump Sum,0,1457.48,2914953,4372430,291495,14574,36.44,0,724,1,Maluku,Sub-urban,Kemarau,104.34,8,14,146,70,1301.32,4037,10.71,0,1
+PJ-503,Jaringan IT,Pemda,Cost Plus,0,25.28,126398,0,0,0,37.92,1263,-3,2,Jawa Tengah,Rural,Hujan,102.99,9,15,9,24,22.57,2393,10.71,0,0
+PJ-504,Jaringan IT,Pemda,Cost Plus,0,61.36,306787,0,0,0,92.04,3067,42,3,DI Yogyakarta,Rural,Hujan,109.94,6,18,18,35,66.55,2905,-8.47,1,0
+PJ-505,Jalan Tol,Swasta Asing,Lump Sum,0,1377.2,2754400,4131601,275440,13772,34.43,0,685,3,Sulawesi Barat,Sub-urban,Kemarau,118.79,9,19,140,64,1229.64,4240,10.71,0,1
+PJ-506,Pabrik,BUMN,Lump Sum,0,189.39,473476,0,28408,7575,0.0,0,79,1,Bengkulu,Rural,Hujan,117.37,4,19,27,26,169.1,2989,10.71,0,0
+PJ-507,Jalan Tol,Pemda,Harga Satuan,0,863.5,1727001,2590502,172700,8635,21.59,0,443,3,Sulawesi Tenggara,Urban,Hujan,103.64,7,12,88,73,937.14,3764,-8.53,1,1
+PJ-508,Pabrik,BUMN,Lump Sum,0,447.29,1118225,0,67093,17891,0.0,0,240,2,Maluku,Urban,Hujan,119.48,4,5,57,61,493.77,4050,-10.39,1,1
+PJ-509,Perumahan,BUMN,Harga Satuan,0,156.04,624163,78020,39010,0,0.0,3901,74,3,Papua Tengah,Sub-urban,Kemarau,107.92,7,20,34,70,171.56,3129,-9.95,1,0
+PJ-510,Gedung Perkantoran,Pemda,Lump Sum,0,248.38,745137,0,24837,4967,0.0,4967,126,3,Kalimantan Utara,Rural,Kemarau,113.72,7,20,41,61,221.77,3097,10.71,0,0
+PJ-511,Jalan Tol,Swasta Nasional,Harga Satuan,0,894.44,1788888,2683332,178888,8944,22.36,0,460,3,Jawa Tengah,Sub-urban,Kemarau,113.21,4,18,92,61,885.83,3314,0.96,1,0
+PJ-512,Perumahan,BUMN,Lump Sum,1,106.65,426616,53327,26663,0,0.0,2666,46,1,DKI Jakarta,Sub-urban,Hujan,114.4,6,21,23,18,95.23,3161,10.71,0,0
+PJ-513,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,210.45,631362,0,21045,4209,0.0,4209,103,2,Sulawesi Tengah,Sub-urban,Kemarau,119.43,3,21,34,77,187.91,3165,10.71,0,0
+PJ-514,Pabrik,Swasta Asing,Lump Sum,1,515.54,1288842,0,77330,20621,0.0,0,255,2,Sulawesi Barat,Rural,Kemarau,105.59,5,16,67,71,460.3,3642,10.71,0,1
+PJ-515,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,253.93,761785,0,25392,5078,0.0,5078,127,3,Sulawesi Tengah,Urban,Hujan,102.97,6,22,41,36,270.43,3882,-6.5,1,1
+PJ-516,Jaringan IT,BUMN,Cost Plus,0,23.39,116925,0,0,0,35.08,1169,18,2,Kepulauan Bangka Belitung,Rural,Kemarau,103.25,6,5,8,75,26.41,2795,-12.95,1,1
+PJ-517,Perumahan,BUMN,Lump Sum,0,88.07,352273,44034,22017,0,0.0,2201,43,2,Kalimantan Utara,Sub-urban,Hujan,117.73,4,19,18,17,78.63,3335,10.71,0,0
+PJ-518,Pabrik,Swasta Nasional,Cost Plus,0,596.24,1490608,0,89436,23849,0.0,0,282,3,Maluku,Urban,Kemarau,117.17,3,13,76,62,630.01,3343,-5.66,1,0
+PJ-519,Jalan Tol,Swasta Asing,Cost Plus,0,2141.01,4282015,6423022,428201,21410,53.53,0,1080,4,Kepulauan Riau,Rural,Kemarau,119.49,3,10,215,76,1911.61,3394,10.71,0,0
+PJ-520,Jaringan IT,Swasta Nasional,Lump Sum,1,65.0,325019,0,0,0,97.51,3250,34,3,Jawa Tengah,Sub-urban,Hujan,111.84,4,24,17,58,66.65,3258,-2.53,1,0
+PJ-521,Gedung Perkantoran,Pemda,Harga Satuan,0,183.24,549725,0,18324,3664,0.0,3664,108,2,Bali,Rural,Kemarau,109.43,5,18,29,17,188.58,3231,-2.91,1,0
+PJ-522,Jaringan IT,Swasta Asing,Cost Plus,0,61.02,305116,0,0,0,91.54,3051,30,3,Sulawesi Barat,Sub-urban,Kemarau,101.17,2,6,16,33,71.03,3664,-16.4,1,1
+PJ-523,Jalan Tol,Swasta Nasional,Lump Sum,1,2531.54,5063084,7594626,506308,25315,63.29,0,1275,1,Papua Barat Daya,Urban,Kemarau,103.01,2,7,257,31,2260.31,3358,10.71,0,0
+PJ-524,Jaringan IT,Swasta Asing,Lump Sum,0,27.59,137942,0,0,0,41.38,1379,4,3,Jambi,Urban,Kemarau,103.56,7,10,8,51,24.63,2939,10.71,0,0
+PJ-525,Jaringan IT,Pemda,Harga Satuan,0,29.38,146883,0,0,0,44.07,1468,1,3,Jawa Tengah,Sub-urban,Kemarau,109.11,4,9,8,15,26.23,3129,10.71,0,0
+PJ-526,Jalan Tol,BUMN,Lump Sum,0,2482.14,4964278,7446417,496427,24821,62.05,0,1255,2,Bali,Sub-urban,Kemarau,117.9,3,3,252,50,2216.2,4611,10.71,0,1
+PJ-527,Jalan Tol,Swasta Asing,Lump Sum,0,1622.9,3245800,4868701,324580,16229,40.57,0,803,5,Papua,Urban,Kemarau,112.39,8,13,163,18,1449.02,3756,10.71,0,1
+PJ-528,Perumahan,Pemda,Cost Plus,0,211.74,846977,105872,52936,0,0.0,5293,110,2,Lampung,Rural,Kemarau,117.4,9,22,43,28,189.06,3357,10.71,0,0
+PJ-529,Jaringan IT,Swasta Nasional,Cost Plus,0,47.07,235338,0,0,0,70.6,2353,9,2,Bali,Urban,Kemarau,109.05,3,18,14,13,42.02,3574,10.71,0,1
+PJ-530,Gedung Perkantoran,Swasta Asing,Cost Plus,0,69.79,209376,0,6979,1395,0.0,1395,44,1,Kalimantan Selatan,Urban,Hujan,107.68,5,20,11,28,78.06,3629,-11.85,1,1
+PJ-531,Jaringan IT,Pemda,Harga Satuan,0,89.42,447075,0,0,0,134.12,4470,38,3,Kalimantan Selatan,Urban,Kemarau,111.29,8,24,25,35,79.83,3048,10.71,0,0
+PJ-532,Jalan Tol,BUMN,Harga Satuan,0,1455.16,2910312,4365468,291031,14551,36.38,0,746,4,Papua Selatan,Urban,Kemarau,110.21,6,24,147,33,1299.25,3374,10.71,0,0
+PJ-533,Perumahan,BUMN,Lump Sum,0,116.67,466685,58335,29167,0,0.0,2916,61,2,Nusa Tenggara Barat,Rural,Hujan,106.03,7,21,24,54,104.17,3314,10.71,0,0
+PJ-534,Gedung Perkantoran,BUMN,Lump Sum,0,163.41,490242,0,16341,3268,0.0,3268,71,3,Nusa Tenggara Barat,Urban,Hujan,111.06,6,10,28,61,182.32,3421,-11.57,1,1
+PJ-535,Jembatan,Pemda,Lump Sum,0,2560.58,5121150,7681725,512115,25605,64.01,0,1291,4,Sumatera Barat,Sub-urban,Kemarau,110.69,5,21,258,67,2603.71,3972,-1.68,1,1
+PJ-536,Jaringan IT,Swasta Nasional,Lump Sum,1,57.15,285745,0,0,0,85.72,2857,24,1,Kalimantan Timur,Sub-urban,Hujan,107.14,7,18,16,71,51.03,3044,10.71,0,0
+PJ-537,Jaringan IT,Swasta Nasional,Lump Sum,0,31.65,158238,0,0,0,47.47,1582,2,3,Papua Tengah,Rural,Hujan,114.17,8,3,10,71,33.68,3181,-6.44,1,1
+PJ-538,Gedung Perkantoran,BUMN,Cost Plus,0,296.66,889981,0,29666,5933,0.0,5933,129,2,Sulawesi Barat,Rural,Kemarau,101.66,6,3,45,38,264.88,3371,10.71,0,0
+PJ-539,Perumahan,Pemda,Cost Plus,0,235.82,943271,117908,58954,0,0.0,5895,125,2,Kalimantan Timur,Urban,Kemarau,119.38,2,13,48,51,210.55,3349,10.71,0,0
+PJ-540,Jalan Tol,Swasta Nasional,Cost Plus,0,584.11,1168211,1752316,116821,5841,14.6,0,275,5,Sumatera Utara,Urban,Hujan,102.84,5,4,62,28,521.52,3755,10.71,0,1
+PJ-541,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,84.58,253736,0,8457,1691,0.0,1691,59,3,Jawa Timur,Rural,Hujan,119.73,2,21,16,15,75.52,2703,10.71,0,0
+PJ-542,Gedung Perkantoran,Swasta Asing,Lump Sum,0,154.53,463591,0,15453,3090,0.0,3090,80,2,Jambi,Urban,Kemarau,112.36,3,20,26,12,137.97,3039,10.71,0,0
+PJ-543,Gedung Perkantoran,Pemda,Lump Sum,0,109.55,328661,0,10955,2191,0.0,2191,45,1,Bengkulu,Urban,Kemarau,100.05,8,4,20,55,97.82,2801,10.71,0,0
+PJ-544,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,76.3,228888,0,7629,1525,0.0,1525,30,2,Sumatera Barat,Rural,Kemarau,101.16,6,22,12,63,68.12,3251,10.71,0,0
+PJ-545,Jaringan IT,BUMN,Lump Sum,0,51.89,259472,0,0,0,77.84,2594,31,1,DI Yogyakarta,Rural,Kemarau,105.59,5,12,14,17,46.33,3159,10.71,0,0
+PJ-546,Jaringan IT,BUMN,Cost Plus,0,55.31,276555,0,0,0,82.97,2765,8,2,Papua Barat Daya,Urban,Hujan,110.8,5,6,15,78,58.08,3521,-5.0,1,1
+PJ-547,Perumahan,Swasta Asing,Cost Plus,0,156.63,626526,78315,39157,0,0.0,3915,70,2,Kepulauan Riau,Urban,Kemarau,116.37,7,16,32,51,139.85,3337,10.71,0,0
+PJ-548,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,92.73,278197,0,9273,1854,0.0,1854,37,2,Kepulauan Riau,Rural,Kemarau,117.06,6,14,16,48,82.8,2963,10.71,0,0
+PJ-549,Perumahan,BUMN,Cost Plus,0,159.32,637275,79659,39829,0,0.0,3982,89,1,Jawa Barat,Rural,Hujan,100.14,5,8,34,53,142.25,4370,10.71,0,1
+PJ-550,Gedung Perkantoran,BUMN,Lump Sum,1,211.17,633524,0,21117,4223,0.0,4223,112,2,Sulawesi Selatan,Rural,Kemarau,112.21,4,13,33,49,188.55,3272,10.71,0,0
+PJ-551,Gedung Perkantoran,Swasta Asing,Cost Plus,0,107.8,323409,0,10780,2156,0.0,2156,66,1,Papua,Rural,Hujan,119.13,7,14,19,44,96.25,3808,10.71,0,1
+PJ-552,Perumahan,Swasta Nasional,Harga Satuan,0,234.7,938798,117349,58674,0,0.0,5867,114,2,DKI Jakarta,Sub-urban,Hujan,110.73,6,4,47,60,209.55,3404,10.71,0,0
+PJ-553,Gedung Perkantoran,Pemda,Lump Sum,1,271.34,814009,0,27133,5426,0.0,5426,129,3,Sulawesi Barat,Urban,Kemarau,117.24,3,21,42,52,242.26,3303,10.71,0,0
+PJ-554,Jaringan IT,Swasta Nasional,Cost Plus,0,22.21,111028,0,0,0,33.31,1110,6,3,Nusa Tenggara Barat,Rural,Kemarau,103.12,6,14,8,71,19.83,3249,10.71,0,1
+PJ-555,Jembatan,BUMN,Lump Sum,1,1635.78,3271562,4907343,327156,16357,40.89,0,800,5,Papua Pegunungan,Sub-urban,Kemarau,108.43,7,10,164,51,1460.52,3400,10.71,0,0
+PJ-556,Jaringan IT,BUMN,Cost Plus,0,80.59,402959,0,0,0,120.89,4029,52,3,Kalimantan Utara,Rural,Kemarau,105.04,6,5,24,13,71.96,2861,10.71,0,0
+PJ-557,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,224.62,673863,0,22462,4492,0.0,4492,117,2,Kalimantan Timur,Urban,Kemarau,109.69,7,6,36,24,251.97,3190,-12.18,1,0
+PJ-558,Gedung Perkantoran,Pemda,Harga Satuan,0,110.38,331127,0,11037,2207,0.0,2207,44,3,Papua,Urban,Hujan,102.99,8,9,18,65,116.49,4197,-5.54,1,1
+PJ-559,Jembatan,Swasta Nasional,Lump Sum,0,2458.35,4916698,7375048,491669,24583,61.46,0,1241,1,Papua,Sub-urban,Hujan,109.68,3,16,249,45,2194.95,3365,10.71,0,0
+PJ-560,Perumahan,Swasta Nasional,Harga Satuan,0,191.9,767615,95951,47975,0,0.0,4797,101,2,Papua Pegunungan,Rural,Hujan,104.66,4,4,42,21,230.04,4161,-19.87,1,1
+PJ-561,Jaringan IT,Swasta Asing,Cost Plus,0,40.08,200390,0,0,0,60.12,2003,4,2,Sumatera Selatan,Sub-urban,Kemarau,116.8,9,4,11,72,35.78,3105,10.71,0,0
+PJ-562,Jaringan IT,Pemda,Lump Sum,1,40.63,203166,0,0,0,60.95,2031,35,3,DKI Jakarta,Rural,Kemarau,108.69,7,23,13,18,36.28,2663,10.71,0,0
+PJ-563,Gedung Perkantoran,BUMN,Harga Satuan,0,113.68,341051,0,11368,2273,0.0,2273,75,1,Papua Barat,Sub-urban,Kemarau,102.48,7,12,20,48,101.5,2906,10.71,0,0
+PJ-564,Jalan Tol,Swasta Asing,Cost Plus,0,2329.54,4659084,6988627,465908,23295,58.24,0,1144,3,Banten,Sub-urban,Kemarau,113.59,6,21,236,15,2079.95,3365,10.71,0,0
+PJ-565,Jalan Tol,Pemda,Harga Satuan,0,1570.2,3140394,4710591,314039,15701,39.25,0,792,1,Riau,Urban,Kemarau,116.14,9,4,158,58,1401.96,3387,10.71,0,0
+PJ-566,Jembatan,Swasta Asing,Cost Plus,0,2313.62,4627236,6940855,462723,23136,57.84,0,1146,2,Sulawesi Selatan,Sub-urban,Hujan,100.93,5,8,234,42,2065.73,3991,10.71,0,1
+PJ-567,Jaringan IT,Swasta Nasional,Lump Sum,1,95.88,479412,0,0,0,143.82,4794,31,1,Riau,Rural,Kemarau,118.2,7,19,25,16,85.61,3268,10.71,0,0
+PJ-568,Jaringan IT,BUMN,Harga Satuan,0,72.17,360839,0,0,0,108.25,3608,29,2,Papua Selatan,Urban,Hujan,115.07,4,14,21,79,64.44,2928,10.71,0,0
+PJ-569,Perumahan,Pemda,Cost Plus,0,211.67,846692,105836,52918,0,0.0,5291,87,2,Jawa Tengah,Rural,Kemarau,101.35,4,14,43,76,188.99,3356,10.71,0,0
+PJ-570,Perumahan,Pemda,Harga Satuan,0,187.09,748373,93546,46773,0,0.0,4677,95,1,Kepulauan Bangka Belitung,Rural,Kemarau,116.25,7,21,39,20,167.05,3877,10.71,0,1
+PJ-571,Perumahan,Swasta Nasional,Lump Sum,1,42.64,170564,21320,10660,0,0.0,1066,32,1,Kepulauan Riau,Sub-urban,Kemarau,118.89,7,18,9,74,38.07,3230,10.71,0,0
+PJ-572,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,103.85,311545,0,10384,2076,0.0,2076,41,1,Sulawesi Utara,Urban,Kemarau,101.23,3,8,19,23,92.72,2794,10.71,0,0
+PJ-573,Gedung Perkantoran,Swasta Asing,Lump Sum,1,299.17,897512,0,29917,5983,0.0,5983,167,1,Kalimantan Timur,Rural,Hujan,105.32,9,8,48,10,267.12,3187,10.71,0,0
+PJ-574,Gedung Perkantoran,Pemda,Harga Satuan,0,172.88,518631,0,17287,3457,0.0,3457,76,1,Papua Tengah,Rural,Hujan,113.81,5,19,27,17,154.35,3274,10.71,0,0
+PJ-575,Jaringan IT,BUMN,Harga Satuan,0,38.0,190015,0,0,0,57.0,1900,15,3,Papua Selatan,Rural,Kemarau,106.38,3,11,12,23,33.93,2699,10.71,0,0
+PJ-576,Jalan Tol,BUMN,Cost Plus,0,1796.25,3592500,5388751,359250,17962,44.91,0,892,2,Maluku Utara,Sub-urban,Hujan,103.41,9,17,183,30,1603.79,3346,10.71,0,0
+PJ-577,Jaringan IT,Swasta Asing,Harga Satuan,0,41.72,208617,0,0,0,62.59,2086,17,3,DKI Jakarta,Urban,Hujan,104.96,2,10,12,37,37.25,2963,10.71,0,0
+PJ-578,Jaringan IT,Pemda,Lump Sum,0,96.61,483055,0,0,0,144.92,4830,40,3,Papua Pegunungan,Urban,Kemarau,112.65,7,3,26,38,86.26,3166,10.71,0,0
+PJ-579,Jaringan IT,Swasta Asing,Harga Satuan,0,55.34,276694,0,0,0,83.01,2766,26,2,Gorontalo,Urban,Kemarau,106.58,6,19,15,24,49.41,3144,10.71,0,0
+PJ-580,Jaringan IT,Swasta Nasional,Harga Satuan,0,93.32,466576,0,0,0,139.97,4665,62,3,Jawa Barat,Rural,Hujan,110.22,5,6,26,41,106.99,3058,-14.65,1,0
+PJ-581,Pabrik,BUMN,Cost Plus,0,270.18,675459,0,40527,10807,0.0,0,128,3,Bengkulu,Urban,Kemarau,113.2,9,9,34,44,241.24,3386,10.71,0,0
+PJ-582,Jalan Tol,Swasta Nasional,Harga Satuan,0,2090.53,4181056,6271584,418105,20905,52.26,0,1032,5,Sumatera Selatan,Sub-urban,Kemarau,113.89,6,5,212,28,2359.98,3361,-12.89,1,0
+PJ-583,Perumahan,BUMN,Cost Plus,0,200.26,801040,100130,50065,0,0.0,5006,88,2,Sumatera Barat,Urban,Kemarau,104.25,3,4,42,64,178.8,3250,10.71,0,0
+PJ-584,Jalan Tol,Swasta Nasional,Harga Satuan,0,1908.77,3817534,5726301,381753,19087,47.72,0,942,4,Bali,Sub-urban,Hujan,101.88,4,7,193,10,1704.26,4607,10.71,0,1
+PJ-585,Gedung Perkantoran,BUMN,Cost Plus,0,57.62,172859,0,5761,1152,0.0,1152,26,1,Maluku,Urban,Hujan,117.05,3,22,9,19,51.45,3273,10.71,0,0
+PJ-586,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,128.43,385293,0,12843,2568,0.0,2568,71,1,Kalimantan Barat,Sub-urban,Hujan,111.82,2,20,21,67,129.68,3127,-0.97,1,0
+PJ-587,Jalan Tol,Pemda,Harga Satuan,0,1065.64,2131279,3196919,213127,10656,26.64,0,526,4,Nusa Tenggara Timur,Sub-urban,Hujan,106.62,4,5,108,58,951.46,4018,10.71,0,1
+PJ-588,Jaringan IT,Pemda,Lump Sum,1,77.07,385359,0,0,0,115.61,3853,44,1,DKI Jakarta,Sub-urban,Kemarau,101.63,2,12,21,58,68.81,3127,10.71,0,0
+PJ-589,Jalan Tol,Swasta Asing,Cost Plus,0,1430.78,2861559,4292339,286155,14307,35.77,0,713,2,DI Yogyakarta,Urban,Kemarau,105.65,2,19,144,65,1277.48,4298,10.71,0,1
+PJ-590,Jalan Tol,Swasta Nasional,Harga Satuan,0,1112.65,2225306,3337959,222530,11126,27.82,0,555,5,Kalimantan Timur,Rural,Hujan,107.51,9,4,114,40,1115.74,4375,-0.28,1,1
+PJ-591,Pabrik,Swasta Asing,Harga Satuan,0,503.17,1257935,0,75476,20126,0.0,0,267,1,Kalimantan Timur,Rural,Hujan,110.92,8,20,64,31,576.03,3976,-14.48,1,1
+PJ-592,Pabrik,Pemda,Harga Satuan,0,202.1,505259,0,30315,8084,0.0,0,100,1,Lampung,Sub-urban,Kemarau,107.04,6,5,27,34,180.45,3189,10.71,0,0
+PJ-593,Perumahan,Swasta Asing,Cost Plus,0,188.46,753840,94230,47115,0,0.0,4711,108,2,Jawa Barat,Sub-urban,Kemarau,108.03,9,15,38,16,168.27,3381,10.71,0,0
+PJ-594,Jalan Tol,Pemda,Lump Sum,1,2421.64,4843285,7264928,484328,24216,60.54,0,1210,1,Kalimantan Timur,Rural,Hujan,110.29,4,23,245,78,2162.18,4196,10.71,0,1
+PJ-595,Jaringan IT,BUMN,Lump Sum,0,95.13,475658,0,0,0,142.7,4756,50,1,Papua Selatan,Urban,Kemarau,109.64,4,6,26,55,84.94,4191,10.71,0,1
+PJ-596,Jaringan IT,Swasta Asing,Cost Plus,0,66.68,333396,0,0,0,100.02,3333,47,3,Papua,Urban,Kemarau,108.35,6,5,20,44,59.54,3169,10.71,0,1
+PJ-597,Perumahan,Swasta Nasional,Harga Satuan,0,79.03,316116,39514,19757,0,0.0,1975,27,3,Papua Selatan,Urban,Kemarau,114.48,4,20,16,52,70.56,3367,10.71,0,0
+PJ-598,Pabrik,Swasta Asing,Lump Sum,0,307.16,767911,0,46074,12286,0.0,0,160,1,Gorontalo,Sub-urban,Kemarau,113.62,9,24,39,79,274.25,3356,10.71,0,0
+PJ-599,Jaringan IT,Swasta Nasional,Cost Plus,0,35.35,176725,0,0,0,53.02,1767,8,2,Sulawesi Barat,Sub-urban,Hujan,116.32,2,3,9,30,39.64,3347,-12.15,1,0
+PJ-600,Gedung Perkantoran,BUMN,Harga Satuan,0,242.91,728735,0,24291,4858,0.0,4858,121,3,Kepulauan Bangka Belitung,Urban,Hujan,118.37,3,5,38,73,216.89,3664,10.71,0,1
+PJ-601,Jembatan,BUMN,Harga Satuan,0,1060.03,2120058,3180087,212005,10600,26.5,0,547,5,Sulawesi Tenggara,Sub-urban,Hujan,104.92,4,4,109,25,946.45,3315,10.71,0,0
+PJ-602,Jaringan IT,BUMN,Cost Plus,0,47.58,237880,0,0,0,71.36,2378,4,3,Papua Barat,Urban,Kemarau,100.0,3,3,14,32,42.48,3863,10.71,0,1
+PJ-603,Jaringan IT,BUMN,Harga Satuan,0,88.64,443204,0,0,0,132.96,4432,61,3,Maluku,Rural,Hujan,114.75,6,13,26,56,79.14,3903,10.71,0,1
+PJ-604,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,114.69,344073,0,11469,2293,0.0,2293,40,3,Papua Pegunungan,Sub-urban,Kemarau,109.68,6,17,19,50,102.4,3086,10.71,0,0
+PJ-605,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,220.2,660588,0,22019,4403,0.0,4403,107,2,Sulawesi Selatan,Rural,Hujan,100.19,8,11,36,65,196.6,3127,10.71,0,0
+PJ-606,Perumahan,Swasta Asing,Lump Sum,0,101.78,407128,50891,25445,0,0.0,2544,61,2,Bali,Rural,Kemarau,111.8,3,23,21,18,90.88,3304,10.71,0,0
+PJ-607,Jaringan IT,BUMN,Cost Plus,0,91.27,456333,0,0,0,136.9,4563,38,3,Sulawesi Tenggara,Sub-urban,Kemarau,111.03,2,23,25,40,81.49,3111,10.71,0,0
+PJ-608,Perumahan,Pemda,Cost Plus,0,191.41,765634,95704,47852,0,0.0,4785,78,3,Kepulauan Riau,Urban,Hujan,116.85,5,19,42,60,170.9,3107,10.71,0,0
+PJ-609,Gedung Perkantoran,BUMN,Harga Satuan,0,230.92,692750,0,23091,4618,0.0,4618,99,3,Papua,Urban,Hujan,114.55,3,22,37,67,269.13,3644,-16.55,1,1
+PJ-610,Jalan Tol,Swasta Asing,Cost Plus,0,1301.19,2602384,3903576,260238,13011,32.53,0,667,1,DI Yogyakarta,Sub-urban,Kemarau,101.35,5,4,133,71,1161.78,3335,10.71,0,0
+PJ-611,Gedung Perkantoran,BUMN,Cost Plus,0,95.03,285099,0,9503,1900,0.0,1900,47,2,Sulawesi Barat,Rural,Hujan,105.11,9,12,17,43,84.85,2858,10.71,0,0
+PJ-612,Gedung Perkantoran,Pemda,Lump Sum,0,247.67,743010,0,24767,4953,0.0,4953,108,2,Sumatera Selatan,Urban,Hujan,108.46,4,22,38,42,221.13,3332,10.71,0,0
+PJ-613,Jembatan,Swasta Asing,Harga Satuan,0,1278.98,2557952,3836928,255795,12789,31.97,0,624,5,Kalimantan Timur,Sub-urban,Hujan,117.13,2,8,130,70,1417.17,3353,-10.81,1,0
+PJ-614,Gedung Perkantoran,Swasta Asing,Lump Sum,1,77.48,232438,0,7747,1549,0.0,1549,43,3,Aceh,Urban,Hujan,104.24,7,10,14,52,69.18,2830,10.71,0,0
+PJ-615,Perumahan,Pemda,Lump Sum,0,94.51,378042,47255,23627,0,0.0,2362,58,1,Kalimantan Barat,Urban,Kemarau,101.63,3,10,21,17,84.38,3068,10.71,0,0
+PJ-616,Jaringan IT,Pemda,Harga Satuan,0,36.59,182952,0,0,0,54.89,1829,21,3,Aceh,Urban,Kemarau,106.05,2,11,13,62,32.67,2675,10.71,0,1
+PJ-617,Jalan Tol,Swasta Asing,Harga Satuan,0,996.79,1993575,2990363,199357,9967,24.92,0,517,5,Gorontalo,Sub-urban,Hujan,113.61,7,3,100,45,889.99,3398,10.71,0,0
+PJ-618,Jembatan,Swasta Nasional,Lump Sum,0,1628.73,3257457,4886186,325745,16287,40.72,0,797,3,Sumatera Barat,Sub-urban,Hujan,114.25,9,24,164,51,1454.22,3385,10.71,0,0
+PJ-619,Gedung Perkantoran,Pemda,Cost Plus,0,275.53,826588,0,27552,5510,0.0,5510,130,1,Kepulauan Bangka Belitung,Sub-urban,Hujan,114.15,7,10,42,29,246.01,3354,10.71,0,0
+PJ-620,Gedung Perkantoran,Swasta Asing,Cost Plus,0,280.49,841468,0,28048,5609,0.0,5609,159,2,Riau,Rural,Kemarau,110.12,4,24,43,74,250.44,3335,10.71,0,0
+PJ-621,Gedung Perkantoran,BUMN,Harga Satuan,0,100.12,300363,0,10012,2002,0.0,2002,62,3,Jawa Timur,Sub-urban,Kemarau,103.12,8,12,19,14,89.39,2694,10.71,0,0
+PJ-622,Jaringan IT,BUMN,Harga Satuan,0,29.09,145455,0,0,0,43.64,1454,0,1,Papua Tengah,Rural,Kemarau,112.04,5,4,10,61,34.95,3046,-20.15,1,1
+PJ-623,Jaringan IT,Pemda,Cost Plus,0,19.85,99227,0,0,0,29.77,992,13,2,Nusa Tenggara Barat,Urban,Kemarau,109.76,6,12,6,78,21.63,2818,-8.98,1,0
+PJ-624,Perumahan,Swasta Asing,Lump Sum,0,214.29,857155,107144,53572,0,0.0,5357,105,3,Bengkulu,Rural,Kemarau,101.04,2,6,43,14,191.33,4073,10.71,0,1
+PJ-625,Gedung Perkantoran,BUMN,Harga Satuan,0,246.3,738889,0,24629,4925,0.0,4925,134,1,Riau,Sub-urban,Hujan,107.75,2,20,39,40,219.91,3229,10.71,0,0
+PJ-626,Jalan Tol,BUMN,Lump Sum,1,2041.06,4082122,6123183,408212,20410,51.03,0,1006,2,Riau,Sub-urban,Kemarau,104.99,9,19,207,11,1822.38,3361,10.71,0,0
+PJ-627,Perumahan,BUMN,Lump Sum,0,126.51,506030,63253,31626,0,0.0,3162,47,2,Sulawesi Tenggara,Sub-urban,Kemarau,105.09,7,7,27,78,112.95,3194,10.71,0,0
+PJ-628,Jaringan IT,Pemda,Lump Sum,1,31.97,159840,0,0,0,47.95,1598,24,3,Jawa Barat,Urban,Kemarau,106.82,8,10,11,27,28.54,3262,10.71,0,1
+PJ-629,Perumahan,Swasta Nasional,Lump Sum,0,199.98,799920,99990,49995,0,0.0,4999,102,1,Sulawesi Tenggara,Rural,Hujan,106.98,9,5,43,30,178.55,3170,10.71,0,0
+PJ-630,Jalan Tol,BUMN,Harga Satuan,0,1974.61,3949212,5923818,394921,19746,49.37,0,970,4,Kalimantan Barat,Rural,Kemarau,105.23,7,13,198,30,1763.04,4633,10.71,0,1
+PJ-631,Perumahan,Swasta Asing,Harga Satuan,0,81.42,325684,40710,20355,0,0.0,2035,38,1,Papua,Sub-urban,Kemarau,104.08,3,3,18,13,72.7,3084,10.71,0,0
+PJ-632,Jalan Tol,Pemda,Lump Sum,0,2171.73,4343451,6515177,434345,21717,54.29,0,1079,3,Lampung,Rural,Kemarau,118.0,8,3,221,54,2368.63,3350,-9.07,1,0
+PJ-633,Jalan Tol,Swasta Nasional,Cost Plus,0,2062.85,4125706,6188559,412570,20628,51.57,0,1021,4,Sumatera Barat,Sub-urban,Hujan,107.18,2,18,209,12,1841.83,3922,10.71,0,1
+PJ-634,Gedung Perkantoran,Swasta Asing,Lump Sum,0,180.99,542982,0,18099,3619,0.0,3619,80,3,Kalimantan Tengah,Urban,Hujan,108.41,8,16,28,16,161.6,4316,10.71,0,1
+PJ-635,Jaringan IT,Pemda,Cost Plus,0,78.73,393630,0,0,0,118.09,3936,52,1,Bengkulu,Sub-urban,Hujan,109.38,3,10,22,78,70.29,3049,10.71,0,0
+PJ-636,Perumahan,Swasta Nasional,Cost Plus,0,206.75,827011,103376,51688,0,0.0,5168,98,3,Kalimantan Utara,Rural,Kemarau,107.09,3,3,44,79,213.44,3203,-3.23,1,0
+PJ-637,Perumahan,Pemda,Lump Sum,0,208.47,833869,104233,52116,0,0.0,5211,102,3,Banten,Rural,Hujan,100.69,6,21,45,36,186.13,3158,10.71,0,0
+PJ-638,Jaringan IT,BUMN,Lump Sum,1,15.49,77428,0,0,0,23.23,774,4,1,Sumatera Utara,Sub-urban,Kemarau,102.14,7,4,6,64,13.83,2199,10.71,0,0
+PJ-639,Gedung Perkantoran,Pemda,Cost Plus,0,111.72,335157,0,11171,2234,0.0,2234,43,1,Sulawesi Barat,Rural,Hujan,109.53,5,22,20,58,99.75,2856,10.71,0,0
+PJ-640,Jembatan,Pemda,Harga Satuan,0,874.66,1749322,2623983,174932,8746,21.87,0,423,5,Bali,Sub-urban,Kemarau,108.86,2,10,90,50,882.57,3313,-0.9,1,0
+PJ-641,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,101.46,304379,0,10145,2029,0.0,2029,42,2,Sulawesi Tenggara,Sub-urban,Kemarau,100.06,9,14,16,67,117.93,4391,-16.23,1,1
+PJ-642,Pabrik,Swasta Nasional,Harga Satuan,0,292.38,730945,0,43856,11695,0.0,0,127,3,Papua,Sub-urban,Hujan,106.94,3,15,40,18,261.05,3114,10.71,0,0
+PJ-643,Gedung Perkantoran,Pemda,Harga Satuan,0,278.87,836609,0,27886,5577,0.0,5577,130,1,Kepulauan Bangka Belitung,Urban,Hujan,102.96,4,6,43,41,298.1,3316,-6.9,1,0
+PJ-644,Jaringan IT,Swasta Nasional,Cost Plus,0,13.72,68612,0,0,0,20.58,686,11,2,Kepulauan Riau,Urban,Hujan,103.7,3,4,7,27,16.34,1670,-19.1,1,0
+PJ-645,Jalan Tol,Pemda,Harga Satuan,0,841.32,1682638,2523957,168263,8413,21.03,0,421,4,Riau,Urban,Hujan,110.52,5,19,88,75,751.18,3259,10.71,0,0
+PJ-646,Pabrik,Swasta Asing,Lump Sum,1,364.45,911132,0,54667,14578,0.0,0,165,2,Papua Selatan,Urban,Kemarau,116.99,5,16,47,23,325.4,3304,10.71,0,0
+PJ-647,Perumahan,BUMN,Lump Sum,0,143.25,572985,71623,35811,0,0.0,3581,69,2,Jawa Barat,Rural,Kemarau,109.28,8,16,30,36,127.9,3255,10.71,0,0
+PJ-648,Jaringan IT,BUMN,Cost Plus,0,75.75,378725,0,0,0,113.62,3787,46,2,Kalimantan Tengah,Urban,Kemarau,104.78,9,9,19,37,67.63,3397,10.71,0,0
+PJ-649,Jembatan,Pemda,Harga Satuan,0,1258.05,2516099,3774149,251609,12580,31.45,0,610,5,Kalimantan Barat,Urban,Hujan,119.11,6,24,129,46,1123.26,3324,10.71,0,0
+PJ-650,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,151.23,453685,0,15122,3024,0.0,3024,87,2,Papua Pegunungan,Rural,Kemarau,106.8,6,19,25,34,181.33,3093,-19.9,1,0
+PJ-651,Jembatan,Swasta Asing,Lump Sum,0,1734.0,3468003,5202005,346800,17340,43.35,0,871,2,Sumatera Barat,Rural,Hujan,105.17,4,18,176,39,1548.22,3358,10.71,0,0
+PJ-652,Jaringan IT,Swasta Asing,Cost Plus,0,69.38,346905,0,0,0,104.07,3469,24,2,Kalimantan Selatan,Rural,Kemarau,114.76,5,3,18,79,75.61,4364,-8.97,1,1
+PJ-653,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,176.43,529286,0,17642,3528,0.0,3528,76,1,Lampung,Sub-urban,Kemarau,112.02,5,7,27,70,157.53,3341,10.71,0,0
+PJ-654,Gedung Perkantoran,BUMN,Harga Satuan,0,229.5,688500,0,22950,4590,0.0,4590,107,2,Papua Selatan,Sub-urban,Hujan,108.66,7,17,35,30,204.91,3353,10.71,0,0
+PJ-655,Perumahan,Swasta Asing,Cost Plus,0,82.64,330555,41319,20659,0,0.0,2065,25,2,Jambi,Sub-urban,Hujan,109.29,3,14,17,23,73.78,3314,10.71,0,0
+PJ-656,Jaringan IT,Swasta Nasional,Cost Plus,0,70.72,353608,0,0,0,106.08,3536,35,2,Lampung,Urban,Hujan,112.73,2,12,20,52,83.26,3431,-17.73,1,1
+PJ-657,Jaringan IT,Pemda,Lump Sum,0,28.14,140711,0,0,0,42.21,1407,8,2,Papua Barat Daya,Sub-urban,Hujan,111.26,5,8,10,65,29.1,2398,-3.41,1,0
+PJ-658,Jaringan IT,Pemda,Lump Sum,0,34.6,173009,0,0,0,51.9,1730,-2,1,Sulawesi Tengah,Urban,Hujan,106.36,9,13,11,47,30.89,3203,10.71,0,1
+PJ-659,Jaringan IT,Swasta Asing,Cost Plus,0,23.62,118105,0,0,0,35.43,1181,14,3,Papua Barat Daya,Urban,Kemarau,112.13,2,12,8,53,21.09,2516,10.71,0,0
+PJ-660,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,75.34,226027,0,7534,1506,0.0,1506,23,1,Lampung,Urban,Hujan,117.08,7,24,14,53,81.57,2751,-8.27,1,0
+PJ-661,Perumahan,Swasta Asing,Lump Sum,0,123.75,495007,61875,30937,0,0.0,3093,70,2,Jambi,Urban,Hujan,115.09,3,6,25,52,134.89,3375,-9.0,1,0
+PJ-662,Jembatan,BUMN,Cost Plus,0,707.91,1415822,2123733,141582,7079,17.7,0,336,4,Sulawesi Utara,Rural,Kemarau,110.05,9,9,71,14,632.06,3399,10.71,0,0
+PJ-663,Jaringan IT,Swasta Nasional,Cost Plus,0,25.9,129505,0,0,0,38.85,1295,23,1,Kalimantan Timur,Rural,Hujan,115.71,7,5,7,13,27.38,4283,-5.72,1,1
+PJ-664,Gedung Perkantoran,Pemda,Cost Plus,0,187.33,561986,0,18732,3746,0.0,3746,109,3,Gorontalo,Rural,Hujan,113.63,7,3,30,16,167.26,4232,10.71,0,1
+PJ-665,Gedung Perkantoran,Swasta Asing,Lump Sum,1,236.11,708324,0,23610,4722,0.0,4722,128,2,Nusa Tenggara Barat,Rural,Hujan,103.4,5,13,39,70,244.79,3990,-3.68,1,1
+PJ-666,Jalan Tol,BUMN,Lump Sum,1,2865.21,5730412,8595618,573041,28652,71.63,0,1447,1,Sulawesi Barat,Urban,Kemarau,104.75,9,11,288,37,2558.22,3391,10.71,0,0
+PJ-667,Jaringan IT,BUMN,Harga Satuan,0,71.45,357260,0,0,0,107.18,3572,29,3,Banten,Sub-urban,Kemarau,106.96,2,15,19,62,74.57,3205,-4.36,1,0
+PJ-668,Jaringan IT,BUMN,Cost Plus,0,90.08,450421,0,0,0,135.13,4504,57,3,Maluku,Sub-urban,Hujan,114.6,3,15,23,20,80.43,3338,10.71,0,0
+PJ-669,Jalan Tol,Swasta Nasional,Lump Sum,0,1443.7,2887390,4331085,288739,14436,36.09,0,725,5,Kepulauan Bangka Belitung,Urban,Hujan,109.05,5,11,147,57,1553.7,4581,-7.62,1,1
+PJ-670,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,54.94,164822,0,5494,1098,0.0,1098,22,3,Sulawesi Selatan,Rural,Hujan,102.71,3,17,12,39,60.82,2341,-10.7,1,0
+PJ-671,Jalan Tol,Swasta Asing,Cost Plus,0,2540.83,5081655,7622482,508165,25408,63.52,0,1265,4,Kalimantan Utara,Urban,Kemarau,110.66,9,9,258,52,2268.6,3357,10.71,0,0
+PJ-672,Jaringan IT,Swasta Asing,Harga Satuan,0,90.37,451873,0,0,0,135.56,4518,61,1,Jawa Barat,Urban,Kemarau,117.98,4,21,23,34,80.69,3348,10.71,0,0
+PJ-673,Gedung Perkantoran,Swasta Asing,Cost Plus,0,277.6,832801,0,27760,5552,0.0,5552,157,2,Sumatera Utara,Urban,Kemarau,103.91,9,8,45,67,247.86,3154,10.71,0,0
+PJ-674,Gedung Perkantoran,BUMN,Lump Sum,1,149.22,447661,0,14922,2984,0.0,2984,58,3,Jawa Tengah,Sub-urban,Hujan,103.47,3,21,25,34,133.23,3052,10.71,0,0
+PJ-675,Perumahan,Pemda,Harga Satuan,0,217.87,871498,108937,54468,0,0.0,5446,111,1,Sulawesi Tengah,Rural,Hujan,102.39,5,17,45,72,254.82,4107,-16.96,1,1
+PJ-676,Gedung Perkantoran,Pemda,Cost Plus,0,127.04,381115,0,12703,2540,0.0,2540,51,3,Kepulauan Bangka Belitung,Sub-urban,Hujan,118.22,3,15,22,52,113.43,2952,10.71,0,0
+PJ-677,Perumahan,Swasta Asing,Harga Satuan,0,112.65,450595,56324,28162,0,0.0,2816,45,3,Bali,Rural,Hujan,106.84,4,3,24,45,100.58,3603,10.71,0,1
+PJ-678,Pabrik,Swasta Nasional,Cost Plus,0,327.57,818915,0,49134,13102,0.0,0,159,2,Jambi,Rural,Kemarau,115.9,2,14,41,33,292.47,3404,10.71,0,0
+PJ-679,Jaringan IT,Swasta Nasional,Lump Sum,0,99.56,497789,0,0,0,149.34,4977,46,1,Kalimantan Timur,Sub-urban,Hujan,116.54,3,19,27,72,88.89,4188,10.71,0,1
+PJ-680,Jembatan,Pemda,Cost Plus,0,2237.68,4475364,6713047,447536,22376,55.94,0,1110,4,Kepulauan Riau,Sub-urban,Kemarau,116.18,4,9,226,54,2625.97,3375,-17.35,1,0
+PJ-681,Jalan Tol,Pemda,Harga Satuan,0,2465.61,4931219,7396829,493121,24656,61.64,0,1248,5,Papua Pegunungan,Sub-urban,Hujan,119.45,2,21,250,53,2201.44,4053,10.71,0,1
+PJ-682,Perumahan,Pemda,Harga Satuan,0,192.66,770634,96329,48164,0,0.0,4816,95,2,Papua Barat Daya,Sub-urban,Hujan,116.7,6,7,40,12,172.02,3283,10.71,0,0
+PJ-683,Jalan Tol,Swasta Asing,Lump Sum,1,549.64,1099289,1648934,109928,5496,13.74,0,258,1,Kepulauan Bangka Belitung,Rural,Kemarau,105.23,5,13,56,33,490.75,3346,10.71,0,0
+PJ-684,Jaringan IT,BUMN,Harga Satuan,0,21.45,107254,0,0,0,32.18,1072,20,1,Sumatera Utara,Urban,Hujan,100.38,2,16,8,20,23.88,2285,-11.33,1,0
+PJ-685,Jaringan IT,Pemda,Harga Satuan,0,68.38,341907,0,0,0,102.57,3419,20,2,Gorontalo,Rural,Kemarau,108.94,2,14,18,34,61.05,4291,10.71,0,1
+PJ-686,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,242.83,728492,0,24283,4856,0.0,4856,131,2,Papua,Sub-urban,Hujan,106.8,8,20,38,27,278.66,3267,-14.75,1,0
+PJ-687,Jalan Tol,Swasta Asing,Cost Plus,0,1088.45,2176894,3265342,217689,10884,27.21,0,530,2,Maluku,Rural,Hujan,112.6,6,7,110,60,971.83,4213,10.71,0,1
+PJ-688,Perumahan,BUMN,Harga Satuan,0,96.39,385565,48195,24097,0,0.0,2409,43,3,Papua Pegunungan,Sub-urban,Hujan,117.26,6,20,21,53,86.06,3848,10.71,0,1
+PJ-689,Gedung Perkantoran,BUMN,Lump Sum,0,58.35,175040,0,5834,1166,0.0,1166,44,1,Sulawesi Tengah,Urban,Kemarau,102.21,9,18,10,59,52.1,3394,10.71,0,1
+PJ-690,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,276.34,829018,0,27633,5526,0.0,5526,131,3,Sumatera Barat,Sub-urban,Kemarau,101.14,8,4,44,10,246.73,3211,10.71,0,0
+PJ-691,Jaringan IT,BUMN,Harga Satuan,0,60.59,302944,0,0,0,90.88,3029,22,2,Maluku,Urban,Hujan,102.4,5,5,19,33,54.1,3753,10.71,0,1
+PJ-692,Gedung Perkantoran,Pemda,Lump Sum,1,224.88,674639,0,22487,4497,0.0,4497,119,2,Bengkulu,Sub-urban,Kemarau,112.01,8,18,36,20,200.79,3194,10.71,0,0
+PJ-693,Jalan Tol,Swasta Asing,Lump Sum,0,1529.13,3058254,4587381,305825,15291,38.23,0,746,2,Kepulauan Riau,Urban,Kemarau,105.61,5,8,154,23,1365.29,3900,10.71,0,1
+PJ-694,Jaringan IT,Pemda,Cost Plus,0,15.29,76450,0,0,0,22.94,764,-10,3,Sulawesi Utara,Sub-urban,Kemarau,102.65,4,20,4,71,13.65,4210,10.71,0,1
+PJ-695,Jalan Tol,Swasta Nasional,Lump Sum,1,1306.22,2612439,3918658,261243,13062,32.66,0,657,5,Kepulauan Bangka Belitung,Sub-urban,Kemarau,101.52,2,4,131,25,1428.44,3399,-9.36,1,0
+PJ-696,Jalan Tol,BUMN,Cost Plus,0,1620.34,3240685,4861028,324068,16203,40.51,0,824,3,Jambi,Urban,Kemarau,117.71,4,22,164,58,1446.73,3368,10.71,0,0
+PJ-697,Gedung Perkantoran,Pemda,Lump Sum,0,148.72,446157,0,14871,2974,0.0,2974,79,3,Sulawesi Utara,Sub-urban,Kemarau,110.26,6,3,24,71,132.78,3168,10.71,0,0
+PJ-698,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,184.63,553878,0,18462,3692,0.0,3692,89,3,Bengkulu,Sub-urban,Kemarau,106.09,5,13,28,57,164.84,3371,10.71,0,0
+PJ-699,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,296.91,890715,0,29690,5938,0.0,5938,153,3,DKI Jakarta,Sub-urban,Hujan,115.71,8,14,47,47,265.09,4482,10.71,0,1
+PJ-700,Perumahan,Pemda,Lump Sum,1,246.09,984340,123042,61521,0,0.0,6152,129,3,Sumatera Utara,Sub-urban,Hujan,117.3,8,24,50,23,219.72,3355,10.71,0,0
+PJ-701,Jaringan IT,BUMN,Harga Satuan,0,49.95,249764,0,0,0,74.93,2497,18,2,Sulawesi Tenggara,Urban,Kemarau,102.4,6,15,16,56,44.6,2660,10.71,0,0
+PJ-702,Jalan Tol,Swasta Nasional,Lump Sum,0,2397.5,4794999,7192499,479499,23974,59.94,0,1179,1,Papua Selatan,Urban,Hujan,110.3,3,7,240,69,2429.25,3405,-1.32,1,0
+PJ-703,Jembatan,BUMN,Cost Plus,0,800.74,1601478,2402217,160147,8007,20.02,0,405,1,Nusa Tenggara Timur,Rural,Kemarau,111.14,5,14,84,12,714.95,3249,10.71,0,0
+PJ-704,Gedung Perkantoran,BUMN,Lump Sum,1,153.75,461241,0,15374,3074,0.0,3074,67,1,Sumatera Selatan,Rural,Kemarau,115.83,8,15,25,34,137.27,3659,10.71,0,1
+PJ-705,Jalan Tol,BUMN,Harga Satuan,0,588.7,1177409,1766114,117740,5887,14.72,0,296,5,Kalimantan Tengah,Rural,Hujan,117.13,9,18,59,44,525.63,3401,10.71,0,0
+PJ-706,Perumahan,BUMN,Harga Satuan,0,226.05,904209,113026,56513,0,0.0,5651,131,3,Kalimantan Utara,Urban,Kemarau,111.28,5,7,46,36,201.83,3350,10.71,0,0
+PJ-707,Jaringan IT,BUMN,Harga Satuan,0,90.68,453420,0,0,0,136.03,4534,44,2,Aceh,Rural,Kemarau,119.92,7,22,25,71,80.97,3091,10.71,0,0
+PJ-708,Jaringan IT,Pemda,Cost Plus,0,81.46,407289,0,0,0,122.19,4072,44,1,Kalimantan Selatan,Rural,Kemarau,106.38,2,9,21,49,72.73,3305,10.71,0,0
+PJ-709,Jembatan,Swasta Nasional,Harga Satuan,0,1615.95,3231901,4847851,323190,16159,40.4,0,826,3,Sulawesi Utara,Urban,Hujan,109.86,5,15,162,63,1442.81,4127,10.71,0,1
+PJ-710,Jaringan IT,Pemda,Cost Plus,0,54.15,270759,0,0,0,81.23,2707,30,2,Sumatera Selatan,Urban,Hujan,113.11,8,19,17,29,48.35,2714,10.71,0,0
+PJ-711,Gedung Perkantoran,Pemda,Cost Plus,0,174.8,524406,0,17480,3496,0.0,3496,91,2,Sulawesi Tenggara,Urban,Kemarau,106.02,3,4,28,36,156.07,3590,10.71,0,1
+PJ-712,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,235.84,707506,0,23583,4716,0.0,4716,97,1,Sulawesi Tenggara,Sub-urban,Hujan,114.6,6,6,39,34,210.57,4176,10.71,0,1
+PJ-713,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,269.35,808058,0,26935,5387,0.0,5387,133,3,Sumatera Utara,Urban,Kemarau,113.75,2,12,43,70,240.49,3203,10.71,0,0
+PJ-714,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,279.97,839922,0,27997,5599,0.0,5599,129,1,Sulawesi Barat,Sub-urban,Kemarau,119.59,9,3,45,79,284.26,3995,-1.53,1,1
+PJ-715,Jaringan IT,Swasta Nasional,Lump Sum,0,67.74,338676,0,0,0,101.6,3386,30,1,Sulawesi Barat,Sub-urban,Hujan,101.16,8,3,17,69,74.17,4471,-9.5,1,1
+PJ-716,Jaringan IT,Swasta Nasional,Cost Plus,0,98.09,490461,0,0,0,147.14,4904,54,2,Papua Tengah,Rural,Hujan,110.18,3,7,28,36,87.58,3731,10.71,0,1
+PJ-717,Perumahan,BUMN,Lump Sum,1,217.34,869351,108668,54334,0,0.0,5433,98,2,Sulawesi Tengah,Sub-urban,Kemarau,109.98,6,17,46,56,194.05,3221,10.71,0,0
+PJ-718,Jalan Tol,BUMN,Harga Satuan,0,2641.44,5282880,7924320,528288,26414,66.04,0,1331,1,Jambi,Urban,Hujan,106.61,6,5,267,43,2358.43,3372,10.71,0,0
+PJ-719,Jalan Tol,Pemda,Cost Plus,0,2604.7,5209404,7814107,520940,26047,65.12,0,1311,5,Sumatera Utara,Sub-urban,Hujan,105.96,9,22,264,66,2325.63,4224,10.71,0,1
+PJ-720,Gedung Perkantoran,Swasta Asing,Lump Sum,0,169.9,509708,0,16990,3398,0.0,3398,78,3,Papua Tengah,Urban,Kemarau,114.3,9,16,29,75,182.79,3557,-7.59,1,1
+PJ-721,Jaringan IT,Swasta Asing,Lump Sum,1,79.25,396231,0,0,0,118.87,3962,38,3,Sumatera Utara,Rural,Kemarau,111.7,7,18,22,71,70.76,3595,10.71,0,1
+PJ-722,Jembatan,Swasta Asing,Harga Satuan,0,1588.41,3176818,4765228,317681,15884,39.71,0,777,2,DI Yogyakarta,Rural,Kemarau,105.74,7,19,161,77,1418.22,3363,10.71,0,0
+PJ-723,Jaringan IT,Pemda,Lump Sum,0,69.56,347776,0,0,0,104.33,3477,53,2,Sumatera Utara,Urban,Kemarau,109.69,4,4,19,27,62.1,3950,10.71,0,1
+PJ-724,Jembatan,BUMN,Harga Satuan,0,2284.42,4568848,6853272,456884,22844,57.11,0,1138,2,Sulawesi Tenggara,Sub-urban,Kemarau,110.97,7,17,229,46,2640.3,3400,-15.58,1,0
+PJ-725,Jaringan IT,Swasta Asing,Lump Sum,0,75.2,376012,0,0,0,112.8,3760,18,3,Papua Barat,Rural,Hujan,115.88,2,24,21,35,67.15,3052,10.71,0,0
+PJ-726,Pabrik,Pemda,Harga Satuan,0,435.44,1088596,0,65315,17417,0.0,0,233,1,Bengkulu,Rural,Hujan,113.63,4,15,56,29,388.78,3313,10.71,0,0
+PJ-727,Gedung Perkantoran,BUMN,Lump Sum,1,242.25,726742,0,24224,4844,0.0,4844,110,2,Maluku,Urban,Hujan,115.38,9,20,38,36,216.29,3892,10.71,0,1
+PJ-728,Gedung Perkantoran,Swasta Asing,Lump Sum,0,179.81,539426,0,17980,3596,0.0,3596,74,2,DKI Jakarta,Sub-urban,Hujan,119.15,7,12,29,16,160.54,3780,10.71,0,1
+PJ-729,Gedung Perkantoran,Swasta Asing,Cost Plus,0,200.94,602806,0,20093,4018,0.0,4018,87,2,Sulawesi Barat,Sub-urban,Kemarau,101.25,6,19,33,39,179.41,3113,10.71,0,0
+PJ-730,Perumahan,Pemda,Cost Plus,0,60.96,243848,30481,15240,0,0.0,1524,32,1,Nusa Tenggara Barat,Rural,Kemarau,110.8,8,5,15,36,54.43,2771,10.71,0,0
+PJ-731,Gedung Perkantoran,Swasta Asing,Lump Sum,0,56.66,169991,0,5666,1133,0.0,1133,31,2,Lampung,Urban,Hujan,117.55,6,14,12,42,50.59,2414,10.71,0,0
+PJ-732,Perumahan,Swasta Asing,Cost Plus,0,160.78,643104,80388,40194,0,0.0,4019,78,2,Sulawesi Barat,Urban,Hujan,105.14,9,17,33,29,143.55,3321,10.71,0,0
+PJ-733,Jembatan,Swasta Nasional,Cost Plus,0,2766.78,5533556,8300334,553355,27667,69.17,0,1373,1,Papua Barat Daya,Urban,Kemarau,114.9,4,5,279,72,2470.34,3380,10.71,0,0
+PJ-734,Jaringan IT,BUMN,Harga Satuan,0,91.24,456191,0,0,0,136.86,4561,46,2,Sumatera Selatan,Rural,Hujan,108.49,9,16,23,30,81.46,3380,10.71,0,0
+PJ-735,Gedung Perkantoran,Pemda,Harga Satuan,0,172.14,516410,0,17213,3442,0.0,3442,74,1,Sumatera Utara,Urban,Kemarau,109.13,7,10,26,61,153.69,3385,10.71,0,0
+PJ-736,Gedung Perkantoran,BUMN,Cost Plus,0,105.05,315144,0,10504,2100,0.0,2100,39,3,Papua,Rural,Kemarau,115.55,5,24,16,62,123.69,3357,-17.75,1,0
+PJ-737,Jalan Tol,BUMN,Lump Sum,0,2762.85,5525706,8288559,552570,27628,69.07,0,1364,4,Papua Pegunungan,Sub-urban,Kemarau,118.78,6,11,278,22,2466.83,4162,10.71,0,1
+PJ-738,Jaringan IT,Swasta Nasional,Cost Plus,0,55.16,275776,0,0,0,82.73,2757,17,3,Bali,Sub-urban,Kemarau,100.09,8,8,16,14,49.25,2937,10.71,0,0
+PJ-739,Gedung Perkantoran,Pemda,Lump Sum,0,208.25,624746,0,20824,4164,0.0,4164,87,2,Sulawesi Utara,Sub-urban,Kemarau,100.06,4,6,32,22,185.94,3327,10.71,0,0
+PJ-740,Jalan Tol,BUMN,Lump Sum,1,1245.46,2490921,3736382,249092,12454,31.14,0,625,5,Bali,Urban,Kemarau,100.53,5,20,127,59,1112.02,3343,10.71,0,0
+PJ-741,Jalan Tol,Swasta Asing,Cost Plus,0,1071.88,2143761,3215642,214376,10718,26.8,0,550,3,Papua,Sub-urban,Kemarau,106.21,5,16,111,40,957.04,3292,10.71,0,0
+PJ-742,Pabrik,Pemda,Cost Plus,0,291.91,729783,0,43786,11676,0.0,0,138,3,Papua Barat Daya,Sub-urban,Hujan,116.84,2,17,39,19,260.64,3189,10.71,0,0
+PJ-743,Perumahan,Swasta Nasional,Cost Plus,0,140.66,562658,70332,35166,0,0.0,3516,79,3,Sumatera Selatan,Urban,Hujan,106.18,4,20,32,42,125.59,2997,10.71,0,0
+PJ-744,Jaringan IT,Pemda,Lump Sum,1,95.88,479409,0,0,0,143.82,4794,45,2,Bali,Sub-urban,Hujan,113.16,9,7,25,24,85.61,3268,10.71,0,0
+PJ-745,Jalan Tol,Swasta Nasional,Lump Sum,0,1700.47,3400933,5101400,340093,17004,42.51,0,861,3,Riau,Rural,Kemarau,113.43,7,16,174,75,1518.27,3868,10.71,0,1
+PJ-746,Gedung Perkantoran,BUMN,Harga Satuan,0,271.63,814899,0,27163,5432,0.0,5432,150,2,Papua Selatan,Rural,Kemarau,114.78,6,12,42,69,276.2,4191,-1.68,1,1
+PJ-747,Jalan Tol,Pemda,Cost Plus,0,1072.56,2145116,3217675,214511,10725,26.81,0,529,5,Nusa Tenggara Timur,Sub-urban,Kemarau,106.36,7,16,111,54,957.64,3294,10.71,0,0
+PJ-748,Jembatan,BUMN,Lump Sum,1,1489.18,2978354,4467531,297835,14891,37.23,0,749,2,Papua,Rural,Hujan,116.33,9,22,151,47,1329.62,3819,10.71,0,1
+PJ-749,Perumahan,BUMN,Cost Plus,0,141.31,565254,70656,35328,0,0.0,3532,80,1,Papua Tengah,Sub-urban,Hujan,118.06,9,10,29,47,126.17,3322,10.71,0,0
+PJ-750,Gedung Perkantoran,Swasta Asing,Cost Plus,0,196.75,590239,0,19674,3934,0.0,3934,99,2,Bengkulu,Sub-urban,Hujan,113.44,2,4,30,30,193.59,3353,1.6,1,0
+PJ-751,Jaringan IT,Pemda,Cost Plus,0,40.73,203655,0,0,0,61.1,2036,36,3,DKI Jakarta,Sub-urban,Kemarau,103.32,2,23,14,11,36.37,2479,10.71,0,0
+PJ-752,Jaringan IT,Pemda,Cost Plus,0,84.6,423005,0,0,0,126.9,4230,48,1,Sulawesi Selatan,Rural,Hujan,118.53,8,11,22,62,75.54,4079,10.71,0,1
+PJ-753,Perumahan,Swasta Asing,Cost Plus,0,196.46,785843,98230,49115,0,0.0,4911,81,2,Jambi,Urban,Hujan,101.08,6,22,40,30,175.41,3348,10.71,0,0
+PJ-754,Jalan Tol,BUMN,Lump Sum,0,2066.44,4132879,6199319,413287,20664,51.66,0,1042,1,Banten,Sub-urban,Kemarau,118.46,6,11,207,34,1845.04,3403,10.71,0,0
+PJ-755,Jalan Tol,Pemda,Harga Satuan,0,2974.05,5948106,8922160,594810,29740,74.35,0,1470,4,Maluku,Sub-urban,Kemarau,112.36,9,5,300,47,3071.2,4154,-3.27,1,1
+PJ-756,Pabrik,Pemda,Lump Sum,0,258.37,645934,0,38756,10334,0.0,0,112,2,Maluku Utara,Sub-urban,Hujan,101.77,6,23,35,12,230.69,3145,10.71,0,0
+PJ-757,Jalan Tol,Swasta Asing,Cost Plus,0,2359.7,4719401,7079101,471940,23597,58.99,0,1190,4,Nusa Tenggara Timur,Sub-urban,Kemarau,103.16,9,24,236,75,2741.91,3888,-16.2,1,1
+PJ-758,Gedung Perkantoran,Pemda,Lump Sum,1,239.81,719436,0,23981,4796,0.0,4796,121,2,Kalimantan Utara,Sub-urban,Hujan,105.12,6,15,38,60,214.12,3227,10.71,0,0
+PJ-759,Jembatan,Pemda,Harga Satuan,0,2024.68,4049359,6074039,404935,20246,50.62,0,1013,5,Sumatera Selatan,Sub-urban,Kemarau,116.98,9,17,206,12,1807.75,4587,10.71,0,1
+PJ-760,Gedung Perkantoran,Pemda,Harga Satuan,0,177.27,531807,0,17726,3545,0.0,3545,92,2,DI Yogyakarta,Sub-urban,Hujan,104.85,2,24,28,28,158.28,3237,10.71,0,0
+PJ-761,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,234.32,702948,0,23431,4686,0.0,4686,121,1,Kalimantan Timur,Rural,Kemarau,118.29,4,21,37,70,209.21,3238,10.71,0,0
+PJ-762,Perumahan,Swasta Nasional,Lump Sum,0,120.71,482852,60356,30178,0,0.0,3017,52,3,Lampung,Sub-urban,Kemarau,106.59,3,4,27,13,107.78,3048,10.71,0,0
+PJ-763,Gedung Perkantoran,Swasta Asing,Cost Plus,0,92.51,277516,0,9250,1850,0.0,1850,26,1,Kalimantan Selatan,Sub-urban,Kemarau,116.59,3,3,15,31,82.59,3153,10.71,0,0
+PJ-764,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,110.28,330848,0,11028,2205,0.0,2205,41,1,Sulawesi Utara,Rural,Kemarau,108.96,3,6,18,78,98.47,4161,10.71,0,1
+PJ-765,Perumahan,Pemda,Cost Plus,0,143.76,575040,71880,35940,0,0.0,3594,68,1,DKI Jakarta,Urban,Kemarau,111.59,5,11,29,19,128.36,3379,10.71,0,0
+PJ-766,Gedung Perkantoran,Pemda,Cost Plus,0,194.18,582529,0,19417,3883,0.0,3883,113,2,Papua Tengah,Rural,Hujan,104.29,8,3,31,19,233.67,3203,-20.34,1,0
+PJ-767,Pabrik,BUMN,Cost Plus,0,460.21,1150531,0,69031,18408,0.0,0,232,3,Kalimantan Selatan,Rural,Hujan,102.69,8,13,59,45,410.9,3724,10.71,0,1
+PJ-768,Gedung Perkantoran,Pemda,Harga Satuan,0,215.94,647805,0,21593,4318,0.0,4318,98,2,Kalimantan Selatan,Urban,Kemarau,119.09,7,19,35,13,192.8,3154,10.71,0,0
+PJ-769,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,101.71,305139,0,10171,2034,0.0,2034,30,2,Kepulauan Riau,Sub-urban,Hujan,118.55,3,15,16,15,90.82,4341,10.71,0,1
+PJ-770,Jembatan,Swasta Asing,Lump Sum,1,1528.91,3057821,4586732,305782,15289,38.22,0,745,1,Sulawesi Selatan,Urban,Hujan,115.46,4,9,156,66,1365.1,3341,10.71,0,0
+PJ-771,Jembatan,BUMN,Harga Satuan,0,2414.69,4829381,7244071,482938,24146,60.37,0,1206,3,Nusa Tenggara Timur,Rural,Kemarau,112.59,7,15,245,79,2155.97,3359,10.71,0,0
+PJ-772,Jembatan,Swasta Nasional,Lump Sum,0,1922.99,3845974,5768961,384597,19229,48.07,0,971,5,Sulawesi Selatan,Rural,Kemarau,111.38,3,16,196,32,1716.95,4460,10.71,0,1
+PJ-773,Jaringan IT,BUMN,Harga Satuan,0,75.36,376805,0,0,0,113.04,3768,48,3,Kalimantan Utara,Sub-urban,Kemarau,102.77,2,22,21,49,67.29,3058,10.71,0,0
+PJ-774,Jalan Tol,Swasta Nasional,Cost Plus,0,1296.52,2593045,3889568,259304,12965,32.41,0,664,4,Papua Selatan,Rural,Kemarau,112.65,4,13,132,45,1157.61,3348,10.71,0,0
+PJ-775,Gedung Perkantoran,Swasta Asing,Cost Plus,0,107.39,322183,0,10739,2147,0.0,2147,58,1,Papua Selatan,Urban,Hujan,116.5,2,11,18,47,95.89,3050,10.71,0,0
+PJ-776,Perumahan,Swasta Nasional,Harga Satuan,0,94.99,379952,47494,23747,0,0.0,2374,49,2,Papua Pegunungan,Sub-urban,Kemarau,107.28,3,16,20,71,84.81,3238,10.71,0,0
+PJ-777,Gedung Perkantoran,Pemda,Cost Plus,0,165.56,496690,0,16556,3311,0.0,3311,93,3,Sumatera Barat,Urban,Kemarau,101.06,9,8,26,10,147.82,3256,10.71,0,0
+PJ-778,Pabrik,Swasta Nasional,Cost Plus,0,315.12,787804,0,47268,12604,0.0,0,155,1,Riau,Sub-urban,Kemarau,116.48,3,18,41,41,334.53,3275,-6.16,1,0
+PJ-779,Jaringan IT,Pemda,Harga Satuan,0,50.87,254348,0,0,0,76.3,2543,37,1,Sulawesi Tenggara,Urban,Kemarau,101.02,9,6,13,30,54.75,4238,-7.63,1,1
+PJ-780,Perumahan,Swasta Asing,Lump Sum,0,42.95,171806,21475,10737,0,0.0,1073,40,2,Kepulauan Bangka Belitung,Urban,Kemarau,115.33,9,18,12,32,38.35,2440,10.71,0,0
+PJ-781,Perumahan,Swasta Asing,Harga Satuan,0,225.14,900544,112568,56284,0,0.0,5628,100,3,Nusa Tenggara Timur,Rural,Kemarau,101.9,6,5,47,49,233.86,3265,-3.87,1,0
+PJ-782,Jalan Tol,Pemda,Lump Sum,0,2744.44,5488871,8233306,548887,27444,68.61,0,1376,2,Kalimantan Selatan,Rural,Hujan,113.49,3,10,276,24,2703.76,4043,1.48,1,1
+PJ-783,Jembatan,BUMN,Lump Sum,0,1819.03,3638057,5457086,363805,18190,45.48,0,890,4,Sumatera Selatan,Sub-urban,Kemarau,106.05,4,21,185,59,1624.13,3352,10.71,0,0
+PJ-784,Gedung Perkantoran,Pemda,Lump Sum,1,227.78,683333,0,22777,4555,0.0,4555,111,1,Kalimantan Tengah,Urban,Hujan,118.71,4,11,37,78,203.37,3990,10.71,0,1
+PJ-785,Jaringan IT,Pemda,Cost Plus,0,31.15,155729,0,0,0,46.72,1557,7,3,Gorontalo,Urban,Kemarau,103.93,6,18,10,64,32.65,2654,-4.84,1,0
+PJ-786,Jalan Tol,BUMN,Harga Satuan,0,2322.14,4644289,6966434,464428,23221,58.05,0,1154,1,Kepulauan Riau,Rural,Kemarau,111.98,2,9,235,71,2073.34,3368,10.71,0,0
+PJ-787,Jalan Tol,Swasta Nasional,Lump Sum,1,578.32,1156637,1734956,115663,5783,14.46,0,269,5,Gorontalo,Sub-urban,Kemarau,115.85,6,15,61,69,516.36,3944,10.71,0,1
+PJ-788,Jembatan,Pemda,Cost Plus,0,2345.01,4690021,7035032,469002,23450,58.63,0,1171,1,Nusa Tenggara Barat,Urban,Kemarau,119.65,3,6,235,77,2093.76,3401,10.71,0,0
+PJ-789,Jaringan IT,BUMN,Lump Sum,0,56.48,282389,0,0,0,84.72,2823,23,3,Lampung,Rural,Kemarau,109.98,7,19,17,25,50.43,3401,10.71,0,1
+PJ-790,Jalan Tol,BUMN,Harga Satuan,0,2043.2,4086409,6129613,408640,20432,51.08,0,1024,1,Papua Barat,Sub-urban,Kemarau,102.47,6,9,207,57,1824.29,3364,10.71,0,0
+PJ-791,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,250.3,750906,0,25030,5006,0.0,5006,144,2,Papua Barat,Urban,Hujan,102.54,5,24,39,22,223.48,3281,10.71,0,0
+PJ-792,Perumahan,Pemda,Harga Satuan,0,204.32,817268,102158,51079,0,0.0,5107,87,2,Sumatera Selatan,Urban,Hujan,118.89,6,14,42,53,231.61,4540,-13.36,1,1
+PJ-793,Perumahan,BUMN,Lump Sum,1,163.12,652493,81561,40780,0,0.0,4078,76,2,Papua Barat,Urban,Kemarau,102.46,6,12,33,53,145.65,3370,10.71,0,0
+PJ-794,Jaringan IT,Swasta Asing,Lump Sum,0,16.22,81084,0,0,0,24.33,810,-3,2,DKI Jakarta,Rural,Hujan,107.58,2,8,7,44,14.48,1974,10.71,0,0
+PJ-795,Jembatan,Swasta Nasional,Cost Plus,0,2856.84,5713671,8570507,571367,28568,71.42,0,1439,4,Nusa Tenggara Timur,Urban,Kemarau,115.77,2,10,288,48,2550.75,3381,10.71,0,0
+PJ-796,Gedung Perkantoran,BUMN,Harga Satuan,0,58.87,176607,0,5886,1177,0.0,1177,11,3,Riau,Sub-urban,Kemarau,111.33,2,6,10,41,52.56,3010,10.71,0,0
+PJ-797,Gedung Perkantoran,BUMN,Lump Sum,1,273.93,821799,0,27393,5478,0.0,5478,149,1,Papua Barat Daya,Urban,Hujan,113.15,6,10,42,55,328.34,3335,-19.86,1,0
+PJ-798,Jaringan IT,BUMN,Harga Satuan,0,64.21,321028,0,0,0,96.31,3210,51,2,Sumatera Utara,Urban,Hujan,110.81,6,4,19,12,68.8,2880,-7.16,1,0
+PJ-799,Perumahan,BUMN,Cost Plus,0,139.12,556487,69560,34780,0,0.0,3478,68,2,Sumatera Selatan,Urban,Kemarau,100.8,9,17,28,65,163.58,3387,-17.58,1,0
+PJ-800,Gedung Perkantoran,Pemda,Cost Plus,0,246.74,740228,0,24674,4934,0.0,4934,113,2,Sulawesi Selatan,Rural,Kemarau,114.41,6,12,40,62,220.31,3154,10.71,0,0
+PJ-801,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,126.83,380498,0,12683,2536,0.0,2536,82,2,Bengkulu,Urban,Kemarau,111.83,6,12,22,38,113.24,2948,10.71,0,0
+PJ-802,Pabrik,Swasta Nasional,Lump Sum,0,281.76,704398,0,42263,11270,0.0,0,151,1,Papua Pegunungan,Sub-urban,Hujan,102.32,5,5,37,41,251.57,4494,10.71,0,1
+PJ-803,Jembatan,BUMN,Cost Plus,0,2914.93,5829864,8744796,582986,29149,72.87,0,1462,5,Kalimantan Timur,Rural,Kemarau,114.82,4,20,292,29,2957.82,4508,-1.47,1,1
+PJ-804,Jaringan IT,Pemda,Cost Plus,0,86.77,433869,0,0,0,130.16,4338,25,1,Gorontalo,Sub-urban,Hujan,101.35,3,17,23,77,97.1,3992,-11.9,1,1
+PJ-805,Perumahan,Swasta Asing,Cost Plus,0,240.42,961698,120212,60106,0,0.0,6010,106,2,Nusa Tenggara Barat,Urban,Hujan,115.12,9,16,51,39,214.66,3718,10.71,0,1
+PJ-806,Jalan Tol,Swasta Asing,Cost Plus,0,2496.51,4993015,7489522,499301,24965,62.41,0,1258,2,Jawa Barat,Rural,Kemarau,107.55,6,20,252,14,2229.02,4004,10.71,0,1
+PJ-807,Perumahan,BUMN,Harga Satuan,0,159.25,636997,79624,39812,0,0.0,3981,91,2,DKI Jakarta,Urban,Kemarau,104.62,6,14,32,57,142.19,3393,10.71,0,0
+PJ-808,Jaringan IT,Swasta Nasional,Cost Plus,0,84.93,424642,0,0,0,127.39,4246,53,2,Gorontalo,Sub-urban,Kemarau,117.52,3,4,23,70,75.83,3147,10.71,0,0
+PJ-809,Jaringan IT,BUMN,Harga Satuan,0,60.68,303403,0,0,0,91.02,3034,31,3,Bali,Urban,Hujan,113.25,6,18,18,22,54.18,2873,10.71,0,0
+PJ-810,Jembatan,Swasta Asing,Lump Sum,1,1058.04,2116079,3174119,211607,10580,26.45,0,548,3,Banten,Rural,Kemarau,113.5,8,16,107,50,1209.8,3370,-14.34,1,0
+PJ-811,Perumahan,Swasta Nasional,Cost Plus,0,171.66,686633,85829,42914,0,0.0,4291,73,3,Papua Tengah,Urban,Kemarau,114.11,9,10,36,60,153.27,3251,10.71,0,0
+PJ-812,Jalan Tol,Swasta Asing,Lump Sum,1,1994.63,3989263,5983894,398926,19946,49.87,0,1008,3,Maluku,Urban,Kemarau,102.18,9,20,203,14,1780.92,4398,10.71,0,1
+PJ-813,Perumahan,BUMN,Lump Sum,0,138.08,552330,69041,34520,0,0.0,3452,76,3,Jawa Tengah,Rural,Kemarau,100.89,7,21,31,55,123.29,3037,10.71,0,0
+PJ-814,Gedung Perkantoran,BUMN,Cost Plus,0,178.7,536090,0,17869,3573,0.0,3573,100,2,Nusa Tenggara Timur,Sub-urban,Hujan,111.08,2,16,29,78,159.55,3904,10.71,0,1
+PJ-815,Jaringan IT,BUMN,Harga Satuan,0,51.61,258039,0,0,0,77.41,2580,23,3,Sumatera Selatan,Urban,Kemarau,104.47,4,8,14,51,46.08,3141,10.71,0,0
+PJ-816,Pabrik,Swasta Asing,Cost Plus,0,453.97,1134922,0,68095,18158,0.0,0,241,2,Papua Pegunungan,Sub-urban,Kemarau,119.77,9,12,57,44,405.33,3393,10.71,0,0
+PJ-817,Perumahan,Swasta Nasional,Harga Satuan,0,127.98,511930,63991,31995,0,0.0,3199,59,3,Sulawesi Tengah,Rural,Kemarau,101.66,9,6,29,32,142.07,3008,-11.01,1,0
+PJ-818,Jalan Tol,Pemda,Cost Plus,0,2889.82,5779649,8669474,577964,28898,72.25,0,1440,5,Papua Barat Daya,Urban,Kemarau,100.98,3,24,290,57,3368.34,4382,-16.56,1,1
+PJ-819,Perumahan,BUMN,Cost Plus,0,205.69,822746,102843,51421,0,0.0,5142,118,2,Papua,Rural,Kemarau,115.42,7,23,43,66,183.65,3679,10.71,0,1
+PJ-820,Jalan Tol,Pemda,Lump Sum,0,1552.64,3105275,4657912,310527,15526,38.82,0,785,1,Kepulauan Riau,Sub-urban,Hujan,116.99,5,8,159,21,1386.28,3328,10.71,0,0
+PJ-821,Jaringan IT,BUMN,Lump Sum,1,22.4,112011,0,0,0,33.6,1120,25,1,Jawa Timur,Urban,Kemarau,109.21,9,19,9,18,20.0,2121,10.71,0,0
+PJ-822,Jaringan IT,Swasta Nasional,Cost Plus,0,11.99,59945,0,0,0,17.98,599,11,3,Jawa Timur,Urban,Hujan,100.9,3,4,3,31,14.15,4620,-17.99,1,1
+PJ-823,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,94.75,284250,0,9475,1895,0.0,1895,31,3,Jawa Barat,Rural,Kemarau,104.75,7,19,18,26,84.6,2691,10.71,0,0
+PJ-824,Pabrik,Swasta Asing,Lump Sum,0,291.56,728898,0,43733,11662,0.0,0,161,1,Kalimantan Timur,Rural,Hujan,114.89,7,6,37,39,260.32,4251,10.71,0,1
+PJ-825,Jalan Tol,BUMN,Cost Plus,0,1608.8,3217596,4826394,321759,16087,40.22,0,812,2,Papua,Sub-urban,Hujan,118.94,3,9,163,70,1903.89,3364,-18.34,1,0
+PJ-826,Gedung Perkantoran,Pemda,Cost Plus,0,229.83,689493,0,22983,4596,0.0,4596,130,3,Kepulauan Riau,Rural,Hujan,100.43,2,6,38,44,227.54,3092,1.0,1,0
+PJ-827,Jembatan,BUMN,Harga Satuan,0,1836.48,3672953,5509429,367295,18364,45.91,0,932,5,Papua Selatan,Rural,Kemarau,116.52,3,20,186,26,1639.71,3365,10.71,0,0
+PJ-828,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,146.65,439938,0,14664,2932,0.0,2932,66,3,Kalimantan Utara,Rural,Hujan,117.9,3,7,25,27,130.93,2999,10.71,0,0
+PJ-829,Jaringan IT,BUMN,Lump Sum,0,69.35,346731,0,0,0,104.02,3467,36,2,Papua Tengah,Urban,Kemarau,102.58,9,13,19,58,61.92,3110,10.71,0,0
+PJ-830,Jalan Tol,Swasta Nasional,Lump Sum,1,804.92,1609834,2414751,160983,8049,20.12,0,387,1,Papua Pegunungan,Rural,Kemarau,105.3,6,7,83,48,718.68,3306,10.71,0,0
+PJ-831,Perumahan,Swasta Nasional,Harga Satuan,0,247.45,989797,123724,61862,0,0.0,6186,116,2,Sulawesi Utara,Sub-urban,Kemarau,109.97,9,7,51,26,260.31,3911,-5.2,1,1
+PJ-832,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,102.34,307027,0,10234,2046,0.0,2046,33,1,Sulawesi Utara,Sub-urban,Kemarau,103.26,4,10,18,76,91.38,2907,10.71,0,0
+PJ-833,Perumahan,Swasta Nasional,Harga Satuan,0,179.54,718156,89769,44884,0,0.0,4488,87,3,Papua Barat,Urban,Hujan,105.2,3,13,36,35,160.3,3400,10.71,0,0
+PJ-834,Pabrik,Swasta Nasional,Lump Sum,1,283.48,708695,0,42521,11339,0.0,0,136,1,Kepulauan Riau,Sub-urban,Kemarau,111.37,7,22,36,29,253.11,3355,10.71,0,0
+PJ-835,Gedung Perkantoran,Swasta Asing,Lump Sum,0,79.11,237327,0,7910,1582,0.0,1582,53,2,Jawa Tengah,Sub-urban,Hujan,111.32,8,3,12,45,70.63,3371,10.71,0,0
+PJ-836,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,265.22,795647,0,26521,5304,0.0,5304,141,3,Sulawesi Tenggara,Urban,Kemarau,118.02,8,13,42,21,236.8,3229,10.71,0,0
+PJ-837,Gedung Perkantoran,BUMN,Cost Plus,0,290.25,870758,0,29025,5805,0.0,5805,132,1,Sulawesi Selatan,Urban,Hujan,116.89,3,11,46,17,259.15,3226,10.71,0,0
+PJ-838,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,116.02,348073,0,11602,2320,0.0,2320,64,3,Jawa Timur,Rural,Hujan,115.85,4,19,20,66,103.59,3372,10.71,0,1
+PJ-839,Jalan Tol,Pemda,Lump Sum,0,1951.18,3902351,5853526,390235,19511,48.78,0,980,5,Nusa Tenggara Barat,Sub-urban,Hujan,117.87,6,15,198,70,1742.12,4044,10.71,0,1
+PJ-840,Jembatan,Pemda,Harga Satuan,0,2845.39,5690771,8536157,569077,28453,71.13,0,1407,1,Jawa Barat,Urban,Hujan,108.35,9,9,288,48,2794.76,4168,1.78,1,1
+PJ-841,Jaringan IT,BUMN,Harga Satuan,0,79.37,396858,0,0,0,119.06,3968,31,1,Papua Barat,Urban,Hujan,105.11,9,8,21,51,70.87,3597,10.71,0,1
+PJ-842,Gedung Perkantoran,Pemda,Lump Sum,0,125.36,376086,0,12536,2507,0.0,2507,78,1,Papua Pegunungan,Rural,Hujan,112.18,4,8,20,72,111.93,3788,10.71,0,1
+PJ-843,Jaringan IT,Swasta Asing,Lump Sum,1,18.12,90577,0,0,0,27.17,905,22,2,Maluku Utara,Urban,Hujan,115.23,5,16,7,74,16.17,2205,10.71,0,0
+PJ-844,Gedung Perkantoran,Pemda,Lump Sum,1,163.1,489293,0,16309,3261,0.0,3261,92,3,Riau,Urban,Hujan,102.61,4,10,25,16,145.62,3336,10.71,0,0
+PJ-845,Jaringan IT,BUMN,Cost Plus,0,48.82,244117,0,0,0,73.24,2441,12,3,Sulawesi Utara,Sub-urban,Kemarau,118.66,6,14,14,52,43.59,3776,10.71,0,1
+PJ-846,Perumahan,Swasta Asing,Lump Sum,1,221.88,887533,110941,55470,0,0.0,5547,125,3,Sumatera Utara,Rural,Kemarau,109.98,4,23,45,17,198.11,3361,10.71,0,0
+PJ-847,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,119.5,358487,0,11949,2389,0.0,2389,52,3,Gorontalo,Urban,Kemarau,114.45,7,15,21,69,106.69,3622,10.71,0,1
+PJ-848,Perumahan,BUMN,Harga Satuan,0,240.92,963685,120460,60230,0,0.0,6023,106,2,Jawa Tengah,Rural,Kemarau,114.0,6,15,50,37,215.11,3968,10.71,0,1
+PJ-849,Perumahan,BUMN,Lump Sum,0,127.27,509061,63632,31816,0,0.0,3181,61,1,Maluku Utara,Sub-urban,Kemarau,116.33,5,14,27,38,113.63,3213,10.71,0,0
+PJ-850,Perumahan,Swasta Nasional,Harga Satuan,0,63.27,253076,31634,15817,0,0.0,1581,49,3,Sulawesi Tengah,Sub-urban,Kemarau,107.01,3,22,13,22,56.49,3318,10.71,0,0
+PJ-851,Perumahan,BUMN,Cost Plus,0,171.34,685344,85668,42834,0,0.0,4283,104,3,DKI Jakarta,Sub-urban,Kemarau,110.32,3,13,38,10,152.98,3074,10.71,0,0
+PJ-852,Jaringan IT,Swasta Asing,Harga Satuan,0,23.99,119971,0,0,0,35.99,1199,21,3,DI Yogyakarta,Rural,Kemarau,105.7,9,21,6,76,21.42,3408,10.71,0,0
+PJ-853,Perumahan,Swasta Nasional,Cost Plus,0,67.99,271953,33994,16997,0,0.0,1699,31,3,DKI Jakarta,Sub-urban,Hujan,106.34,6,18,14,55,71.65,3311,-5.39,1,0
+PJ-854,Jaringan IT,Swasta Nasional,Lump Sum,0,36.92,184584,0,0,0,55.38,1845,13,3,Nusa Tenggara Timur,Sub-urban,Kemarau,117.49,2,21,12,74,38.79,2621,-5.07,1,0
+PJ-855,Gedung Perkantoran,Pemda,Lump Sum,1,163.26,489767,0,16325,3265,0.0,3265,65,3,Kalimantan Tengah,Rural,Hujan,114.16,9,11,25,48,145.76,3339,10.71,0,0
+PJ-856,Jalan Tol,BUMN,Lump Sum,0,611.95,1223907,1835861,122390,6119,15.3,0,324,4,Jawa Timur,Urban,Kemarau,117.52,6,22,62,45,546.39,3936,10.71,0,1
+PJ-857,Perumahan,Swasta Asing,Lump Sum,1,136.36,545443,68180,34090,0,0.0,3409,87,1,Sulawesi Barat,Rural,Kemarau,117.31,6,9,30,54,121.75,3099,10.71,0,0
+PJ-858,Gedung Perkantoran,Pemda,Lump Sum,1,162.25,486757,0,16225,3245,0.0,3245,81,1,Sulawesi Selatan,Rural,Kemarau,112.8,5,15,27,21,144.87,3072,10.71,0,0
+PJ-859,Jaringan IT,Pemda,Lump Sum,0,51.08,255406,0,0,0,76.62,2554,44,3,Papua,Rural,Kemarau,104.64,8,22,13,54,56.44,3348,-10.5,1,0
+PJ-860,Jaringan IT,Swasta Nasional,Cost Plus,0,71.13,355648,0,0,0,106.69,3556,49,3,Kalimantan Barat,Rural,Hujan,103.17,8,15,20,66,63.51,3982,10.71,0,1
+PJ-861,Jalan Tol,BUMN,Harga Satuan,0,1267.24,2534486,3801729,253448,12672,31.68,0,640,5,Gorontalo,Rural,Kemarau,112.45,4,17,128,62,1131.47,4494,10.71,0,1
+PJ-862,Gedung Perkantoran,Pemda,Lump Sum,1,293.71,881118,0,29370,5874,0.0,5874,164,2,Jawa Timur,Sub-urban,Kemarau,107.31,7,9,46,60,262.24,3265,10.71,0,0
+PJ-863,Jaringan IT,Swasta Asing,Cost Plus,0,57.65,288254,0,0,0,86.48,2882,42,1,Sulawesi Tengah,Urban,Kemarau,107.46,2,5,17,19,63.37,2890,-9.92,1,0
+PJ-864,Perumahan,BUMN,Harga Satuan,0,82.02,328092,41011,20505,0,0.0,2050,36,1,DI Yogyakarta,Rural,Hujan,102.99,2,7,18,33,73.23,3106,10.71,0,0
+PJ-865,Jembatan,Pemda,Cost Plus,0,1929.73,3859457,5789186,385945,19297,48.24,0,968,1,Sulawesi Tengah,Sub-urban,Kemarau,100.18,5,23,196,15,1722.97,3356,10.71,0,0
+PJ-866,Jaringan IT,Swasta Nasional,Lump Sum,1,17.51,87569,0,0,0,26.27,875,11,2,Kalimantan Selatan,Rural,Kemarau,106.84,9,6,8,44,15.64,1865,10.71,0,0
+PJ-867,Jaringan IT,Swasta Nasional,Lump Sum,0,79.45,397268,0,0,0,119.18,3972,34,1,Sumatera Selatan,Urban,Hujan,112.79,9,15,23,49,70.94,2944,10.71,0,0
+PJ-868,Gedung Perkantoran,Pemda,Cost Plus,0,174.77,524324,0,17477,3495,0.0,3495,92,3,Jawa Timur,Rural,Hujan,114.72,4,18,30,39,183.59,2979,-5.04,1,0
+PJ-869,Jaringan IT,Pemda,Cost Plus,0,46.98,234895,0,0,0,70.47,2348,39,1,Kalimantan Timur,Rural,Kemarau,113.1,9,7,14,71,41.95,3226,10.71,0,1
+PJ-870,Gedung Perkantoran,Swasta Asing,Cost Plus,0,246.18,738538,0,24617,4923,0.0,4923,103,2,Sumatera Utara,Urban,Hujan,103.96,7,4,37,56,284.42,3870,-15.53,1,1
+PJ-871,Jembatan,Swasta Asing,Cost Plus,0,1843.16,3686329,5529494,368632,18431,46.08,0,923,1,Nusa Tenggara Timur,Rural,Hujan,107.78,4,9,185,31,1645.68,3396,10.71,0,0
+PJ-872,Jembatan,Swasta Asing,Harga Satuan,0,2197.35,4394693,6592040,439469,21973,54.93,0,1101,2,Banten,Urban,Kemarau,119.14,3,18,222,77,1961.92,3374,10.71,0,0
+PJ-873,Perumahan,Swasta Asing,Harga Satuan,0,182.63,730531,91316,45658,0,0.0,4565,101,3,DKI Jakarta,Urban,Hujan,119.7,8,9,38,19,214.89,3276,-17.66,1,0
+PJ-874,Gedung Perkantoran,Pemda,Lump Sum,0,81.99,245967,0,8198,1639,0.0,1639,25,1,Jawa Barat,Urban,Hujan,103.86,3,3,14,52,73.2,2994,10.71,0,0
+PJ-875,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,151.17,453504,0,15116,3023,0.0,3023,80,3,Papua Selatan,Sub-urban,Hujan,105.76,7,8,26,27,134.97,2973,10.71,0,0
+PJ-876,Gedung Perkantoran,Swasta Asing,Cost Plus,0,220.93,662781,0,22092,4418,0.0,4418,101,1,Papua,Sub-urban,Kemarau,111.32,6,10,36,65,240.52,3138,-8.87,1,0
+PJ-877,Jalan Tol,Swasta Asing,Cost Plus,0,1315.17,2630335,3945503,263033,13151,32.88,0,673,2,Riau,Sub-urban,Kemarau,112.09,7,17,132,16,1174.26,4096,10.71,0,1
+PJ-878,Jaringan IT,Pemda,Harga Satuan,0,24.69,123459,0,0,0,37.04,1234,27,2,Kalimantan Utara,Rural,Kemarau,107.02,4,17,10,77,22.05,2104,10.71,0,0
+PJ-879,Perumahan,Pemda,Harga Satuan,0,245.13,980534,122566,61283,0,0.0,6128,136,2,Kalimantan Utara,Urban,Kemarau,107.81,4,23,51,54,218.87,3277,10.71,0,0
+PJ-880,Jaringan IT,Pemda,Cost Plus,0,54.34,271704,0,0,0,81.51,2717,36,3,Jawa Barat,Rural,Hujan,107.14,4,6,16,60,48.52,3452,10.71,0,1
+PJ-881,Jembatan,Pemda,Lump Sum,0,1584.09,3168176,4752264,316817,15840,39.6,0,772,5,Jambi,Urban,Hujan,102.73,3,4,159,15,1414.36,3396,10.71,0,0
+PJ-882,Gedung Perkantoran,BUMN,Harga Satuan,0,154.88,464627,0,15487,3097,0.0,3097,76,3,Gorontalo,Urban,Hujan,116.66,6,20,24,16,138.28,3299,10.71,0,0
+PJ-883,Jalan Tol,Swasta Asing,Lump Sum,0,2737.16,5474328,8211492,547432,27371,68.43,0,1385,2,Bengkulu,Sub-urban,Hujan,100.55,7,15,277,26,2443.9,3368,10.71,0,0
+PJ-884,Gedung Perkantoran,Swasta Asing,Cost Plus,0,86.63,259881,0,8662,1732,0.0,1732,62,1,Sumatera Selatan,Sub-urban,Kemarau,116.78,3,9,14,69,77.35,3164,10.71,0,0
+PJ-885,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,57.99,173958,0,5798,1159,0.0,1159,33,3,Sulawesi Selatan,Rural,Kemarau,101.69,5,24,12,35,51.77,2471,10.71,0,0
+PJ-886,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,80.48,241439,0,8047,1609,0.0,1609,42,1,Sumatera Barat,Urban,Hujan,101.76,7,16,14,37,71.86,3714,10.71,0,1
+PJ-887,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,224.0,672000,0,22400,4480,0.0,4480,103,2,DKI Jakarta,Sub-urban,Kemarau,116.83,8,10,35,25,257.75,3272,-15.07,1,0
+PJ-888,Pabrik,Swasta Asing,Lump Sum,0,578.33,1445819,0,86749,23133,0.0,0,303,2,Riau,Rural,Kemarau,105.72,4,21,73,72,609.86,3375,-5.45,1,0
+PJ-889,Gedung Perkantoran,BUMN,Cost Plus,0,115.0,345014,0,11500,2300,0.0,2300,66,1,Nusa Tenggara Barat,Sub-urban,Hujan,105.09,4,3,20,30,102.68,2940,10.71,0,0
+PJ-890,Jembatan,Pemda,Lump Sum,1,2348.61,4697229,7045843,469722,23486,58.72,0,1172,2,DI Yogyakarta,Urban,Hujan,106.87,4,18,238,44,2795.23,3364,-19.02,1,0
+PJ-891,Gedung Perkantoran,BUMN,Harga Satuan,0,115.13,345397,0,11513,2302,0.0,2302,56,2,Papua Barat Daya,Rural,Hujan,119.08,5,24,18,67,102.8,4061,10.71,0,1
+PJ-892,Jalan Tol,Swasta Nasional,Lump Sum,0,2141.2,4282390,6423586,428239,21411,53.53,0,1071,3,Sulawesi Tenggara,Rural,Kemarau,114.59,9,11,216,72,1911.78,3379,10.71,0,0
+PJ-893,Perumahan,Swasta Asing,Harga Satuan,0,180.59,722373,90296,45148,0,0.0,4514,83,2,Papua Barat,Rural,Hujan,114.8,5,23,39,58,161.24,3157,10.71,0,0
+PJ-894,Jaringan IT,BUMN,Lump Sum,1,29.33,146652,0,0,0,44.0,1466,28,3,Papua Barat,Sub-urban,Kemarau,108.55,9,16,8,43,26.19,3124,10.71,0,0
+PJ-895,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,159.89,479667,0,15988,3197,0.0,3197,83,1,Sulawesi Tengah,Urban,Hujan,107.41,3,15,26,67,142.76,3583,10.71,0,1
+PJ-896,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,108.72,326173,0,10872,2174,0.0,2174,34,1,Gorontalo,Rural,Kemarau,106.27,2,10,19,67,113.16,3287,-4.08,1,1
+PJ-897,Jalan Tol,BUMN,Lump Sum,1,2136.16,4272316,6408474,427231,21361,53.4,0,1048,3,Maluku,Urban,Kemarau,111.91,8,23,217,20,1907.28,3355,10.71,0,0
+PJ-898,Perumahan,BUMN,Harga Satuan,0,224.46,897826,112228,56114,0,0.0,5611,100,2,Nusa Tenggara Timur,Sub-urban,Hujan,119.63,3,9,47,54,200.41,3256,10.71,0,0
+PJ-899,Jaringan IT,Swasta Asing,Harga Satuan,0,78.38,391892,0,0,0,117.57,3918,54,3,Sulawesi Tenggara,Urban,Hujan,102.49,7,10,23,68,69.98,2904,10.71,0,0
+PJ-900,Perumahan,Swasta Nasional,Cost Plus,0,124.81,499231,62403,31201,0,0.0,3120,48,3,Kepulauan Riau,Sub-urban,Hujan,107.45,5,13,27,34,111.44,3151,10.71,0,0
+PJ-901,Gedung Perkantoran,Pemda,Cost Plus,0,99.91,299741,0,9991,1998,0.0,1998,67,1,Papua Tengah,Sub-urban,Kemarau,103.36,7,11,17,58,89.21,3005,10.71,0,0
+PJ-902,Perumahan,BUMN,Harga Satuan,0,217.11,868458,108557,54278,0,0.0,5427,94,3,Bali,Rural,Hujan,113.39,5,24,47,41,250.95,3622,-15.58,1,1
+PJ-903,Gedung Perkantoran,Swasta Asing,Cost Plus,0,247.12,741356,0,24711,4942,0.0,4942,140,3,Papua Tengah,Urban,Hujan,100.78,5,18,38,40,220.64,4612,10.71,0,1
+PJ-904,Gedung Perkantoran,Pemda,Lump Sum,0,50.09,150260,0,5008,1001,0.0,1001,9,3,Sulawesi Selatan,Urban,Kemarau,111.7,5,24,8,25,44.72,3201,10.71,0,0
+PJ-905,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,149.76,449276,0,14975,2995,0.0,2995,90,1,Jawa Barat,Rural,Kemarau,107.82,2,15,26,48,133.71,2945,10.71,0,0
+PJ-906,Jalan Tol,Pemda,Lump Sum,1,664.49,1328981,1993471,132898,6644,16.61,0,316,3,Papua Selatan,Rural,Hujan,106.76,6,22,69,14,593.3,3283,10.71,0,0
+PJ-907,Perumahan,BUMN,Cost Plus,0,133.36,533426,66678,33339,0,0.0,3333,54,1,Jawa Barat,Rural,Hujan,115.66,4,24,30,58,119.07,3030,10.71,0,0
+PJ-908,Jaringan IT,Pemda,Cost Plus,0,79.86,399290,0,0,0,119.79,3992,40,2,Kalimantan Utara,Sub-urban,Hujan,117.75,3,21,21,11,71.3,4133,10.71,0,1
+PJ-909,Jembatan,BUMN,Harga Satuan,0,1346.28,2692567,4038850,269256,13462,33.66,0,690,1,Papua Selatan,Sub-urban,Kemarau,100.63,9,8,136,68,1443.48,3374,-7.22,1,0
+PJ-910,Gedung Perkantoran,Pemda,Cost Plus,0,69.5,208505,0,6950,1390,0.0,1390,18,3,Papua Tengah,Urban,Kemarau,109.24,3,21,12,17,62.06,2961,10.71,0,0
+PJ-911,Jalan Tol,Swasta Nasional,Cost Plus,0,774.73,1549460,2324191,154946,7747,19.37,0,383,1,Gorontalo,Rural,Kemarau,114.86,4,13,81,46,691.72,3260,10.71,0,0
+PJ-912,Gedung Perkantoran,Swasta Asing,Lump Sum,0,79.79,239363,0,7978,1595,0.0,1595,22,3,Maluku,Rural,Hujan,113.17,9,24,13,78,71.24,3138,10.71,0,0
+PJ-913,Perumahan,Swasta Asing,Harga Satuan,0,141.67,566674,70834,35417,0,0.0,3541,60,1,Kalimantan Barat,Sub-urban,Kemarau,118.76,8,9,29,23,126.49,3330,10.71,0,0
+PJ-914,Jembatan,Swasta Nasional,Cost Plus,0,2346.9,4693808,7040712,469380,23469,58.67,0,1189,4,Sulawesi Tengah,Urban,Kemarau,103.54,8,9,238,18,2340.28,3361,0.28,1,0
+PJ-915,Jaringan IT,Swasta Nasional,Cost Plus,0,88.71,443543,0,0,0,133.06,4435,33,2,Lampung,Rural,Kemarau,115.23,4,18,25,66,102.46,3410,-15.5,1,1
+PJ-916,Jalan Tol,Swasta Asing,Cost Plus,0,1133.25,2266502,3399753,226650,11332,28.33,0,553,4,Bengkulu,Rural,Kemarau,105.16,7,12,114,63,1011.83,4481,10.71,0,1
+PJ-917,Perumahan,BUMN,Lump Sum,1,184.97,739864,92483,46241,0,0.0,4624,89,1,DKI Jakarta,Urban,Kemarau,101.67,5,12,40,20,165.15,3152,10.71,0,0
+PJ-918,Gedung Perkantoran,BUMN,Cost Plus,0,261.39,784175,0,26139,5227,0.0,5227,133,1,Papua Barat,Sub-urban,Hujan,118.73,3,13,41,28,233.39,4557,10.71,0,1
+PJ-919,Perumahan,Pemda,Cost Plus,0,245.64,982548,122818,61409,0,0.0,6140,133,1,Papua Selatan,Sub-urban,Kemarau,116.23,9,10,50,48,219.32,3349,10.71,0,0
+PJ-920,Jaringan IT,Swasta Asing,Lump Sum,1,89.66,448316,0,0,0,134.5,4483,27,1,Lampung,Rural,Kemarau,106.95,2,9,24,43,80.06,3184,10.71,0,0
+PJ-921,Jalan Tol,Swasta Nasional,Cost Plus,0,2264.43,4528854,6793282,452885,22644,56.61,0,1124,1,Jawa Timur,Sub-urban,Kemarau,106.0,5,12,229,26,2021.81,3371,10.71,0,0
+PJ-922,Jembatan,Pemda,Lump Sum,0,2826.39,5652775,8479162,565277,28263,70.66,0,1410,2,Nusa Tenggara Barat,Sub-urban,Kemarau,109.38,3,6,286,32,2523.56,3369,10.71,0,0
+PJ-923,Jembatan,Pemda,Lump Sum,1,1078.46,2156922,3235383,215692,10784,26.96,0,529,3,Sulawesi Tengah,Rural,Hujan,116.88,4,12,108,64,962.91,3404,10.71,0,0
+PJ-924,Gedung Perkantoran,Pemda,Cost Plus,0,115.7,347093,0,11569,2313,0.0,2313,72,1,Kepulauan Riau,Urban,Hujan,110.26,8,22,18,34,103.3,4140,10.71,0,1
+PJ-925,Jembatan,BUMN,Harga Satuan,0,2760.31,5520621,8280932,552062,27603,69.01,0,1395,5,Sulawesi Tengah,Sub-urban,Hujan,110.16,7,13,279,25,2983.81,3372,-8.1,1,0
+PJ-926,Jembatan,BUMN,Lump Sum,0,1861.18,3722363,5583545,372236,18611,46.53,0,948,1,Kepulauan Bangka Belitung,Sub-urban,Hujan,110.69,4,9,187,30,1661.77,3393,10.71,0,0
+PJ-927,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,283.05,849161,0,28305,5661,0.0,5661,137,1,Sumatera Selatan,Sub-urban,Kemarau,103.4,8,3,46,56,252.73,3146,10.71,0,0
+PJ-928,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,193.96,581892,0,19396,3879,0.0,3879,83,1,Gorontalo,Rural,Hujan,108.01,9,17,33,14,173.18,3005,10.71,0,0
+PJ-929,Gedung Perkantoran,Pemda,Cost Plus,0,150.44,451306,0,15043,3008,0.0,3008,86,3,Sumatera Utara,Sub-urban,Hujan,115.25,9,11,25,51,134.32,3077,10.71,0,0
+PJ-930,Perumahan,Swasta Nasional,Harga Satuan,0,148.41,593645,74205,37102,0,0.0,3710,55,3,Sulawesi Tengah,Rural,Kemarau,108.16,3,5,30,55,132.51,4526,10.71,0,1
+PJ-931,Pabrik,Swasta Nasional,Cost Plus,0,406.79,1016970,0,61018,16271,0.0,0,195,3,Bengkulu,Rural,Hujan,114.15,5,12,51,77,363.2,4514,10.71,0,1
+PJ-932,Jaringan IT,Swasta Nasional,Cost Plus,0,81.88,409421,0,0,0,122.83,4094,27,3,Papua Selatan,Rural,Hujan,109.43,7,8,21,18,86.67,3705,-5.84,1,1
+PJ-933,Perumahan,BUMN,Lump Sum,0,108.26,433054,54131,27065,0,0.0,2706,60,1,Sumatera Selatan,Rural,Hujan,106.63,6,18,23,68,96.66,3627,10.71,0,1
+PJ-934,Jaringan IT,Pemda,Lump Sum,0,37.75,188726,0,0,0,56.62,1887,37,1,Sulawesi Tenggara,Sub-urban,Kemarau,108.53,2,9,11,51,33.7,3221,10.71,0,1
+PJ-935,Perumahan,BUMN,Lump Sum,1,238.43,953705,119213,59606,0,0.0,5960,112,2,Kalimantan Selatan,Rural,Kemarau,111.15,4,12,48,32,212.88,4532,10.71,0,1
+PJ-936,Gedung Perkantoran,Pemda,Cost Plus,0,87.66,262988,0,8766,1753,0.0,1753,48,3,Aceh,Rural,Kemarau,110.88,9,24,17,65,95.76,3041,-9.24,1,1
+PJ-937,Jalan Tol,Swasta Asing,Cost Plus,0,1058.07,2116146,3174219,211614,10580,26.45,0,509,4,Sulawesi Utara,Urban,Kemarau,117.5,3,20,109,29,1150.76,3309,-8.76,1,0
+PJ-938,Perumahan,Swasta Nasional,Cost Plus,0,228.03,912110,114013,57006,0,0.0,5700,104,3,Sumatera Utara,Urban,Hujan,110.51,7,7,47,35,203.6,4569,10.71,0,1
+PJ-939,Jembatan,Swasta Asing,Lump Sum,0,1431.7,2863390,4295085,286339,14316,35.79,0,724,4,Bengkulu,Urban,Hujan,100.62,9,14,146,19,1623.47,3342,-13.4,1,0
+PJ-940,Gedung Perkantoran,BUMN,Harga Satuan,0,242.1,726294,0,24209,4841,0.0,4841,101,1,Sulawesi Tengah,Urban,Kemarau,111.25,3,6,40,10,216.16,3095,10.71,0,0
+PJ-941,Gedung Perkantoran,Pemda,Harga Satuan,0,148.44,445323,0,14844,2968,0.0,2968,54,3,Kalimantan Selatan,Urban,Hujan,103.76,5,8,25,42,132.54,3678,10.71,0,1
+PJ-942,Jembatan,Swasta Nasional,Harga Satuan,0,1320.46,2640920,3961380,264092,13204,33.01,0,658,4,Riau,Urban,Hujan,119.89,9,9,135,65,1178.98,3334,10.71,0,0
+PJ-943,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,241.63,724901,0,24163,4832,0.0,4832,120,2,Jawa Timur,Urban,Kemarau,108.64,9,20,39,26,215.74,3168,10.71,0,0
+PJ-944,Gedung Perkantoran,BUMN,Lump Sum,0,178.09,534282,0,17809,3561,0.0,3561,89,2,Kalimantan Timur,Rural,Kemarau,114.4,6,14,29,40,159.01,3140,10.71,0,0
+PJ-945,Jalan Tol,BUMN,Cost Plus,0,2439.31,4878618,7317927,487861,24393,60.98,0,1238,4,Jawa Timur,Urban,Hujan,110.26,6,12,244,32,2544.83,4531,-4.33,1,1
+PJ-946,Perumahan,Pemda,Lump Sum,0,129.48,517931,64741,32370,0,0.0,3237,68,2,Maluku,Urban,Hujan,111.43,8,7,29,10,115.61,3968,10.71,0,1
+PJ-947,Perumahan,Pemda,Lump Sum,0,199.32,797275,99659,49829,0,0.0,4982,103,2,Kalimantan Barat,Urban,Kemarau,113.22,9,4,43,20,177.96,4268,10.71,0,1
+PJ-948,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,135.38,406147,0,13538,2707,0.0,2707,75,3,DI Yogyakarta,Rural,Kemarau,104.88,7,22,23,79,120.88,3009,10.71,0,0
+PJ-949,Jembatan,Swasta Nasional,Lump Sum,0,2159.97,4319946,6479919,431994,21599,54.0,0,1072,2,Lampung,Rural,Kemarau,111.75,9,21,217,13,1928.55,3393,10.71,0,0
+PJ-950,Perumahan,BUMN,Cost Plus,0,206.73,826925,103365,51682,0,0.0,5168,85,2,Nusa Tenggara Barat,Rural,Kemarau,118.74,9,17,44,45,184.58,3203,10.71,0,0
+PJ-951,Jalan Tol,BUMN,Harga Satuan,0,1236.03,2472052,3708078,247205,12360,30.9,0,637,1,Maluku,Urban,Kemarau,114.86,4,15,124,71,1280.69,3398,-3.61,1,0
+PJ-952,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,253.05,759147,0,25304,5060,0.0,5060,143,2,Aceh,Rural,Hujan,108.73,4,14,41,31,258.01,3643,-1.96,1,1
+PJ-953,Jembatan,Pemda,Harga Satuan,0,1512.03,3024069,4536104,302406,15120,37.8,0,774,2,Sulawesi Barat,Rural,Hujan,109.23,9,21,152,35,1350.03,4117,10.71,0,1
+PJ-954,Jaringan IT,Pemda,Harga Satuan,0,98.47,492351,0,0,0,147.71,4923,56,1,DI Yogyakarta,Sub-urban,Hujan,100.54,2,15,26,47,87.92,3227,10.71,0,0
+PJ-955,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,234.32,702946,0,23431,4686,0.0,4686,116,2,Sumatera Selatan,Sub-urban,Hujan,104.92,7,17,37,67,233.47,4187,0.36,1,1
+PJ-956,Jembatan,Pemda,Cost Plus,0,658.42,1316832,1975248,131683,6584,16.46,0,335,5,Papua Barat,Sub-urban,Kemarau,116.78,5,21,69,25,587.87,3698,10.71,0,1
+PJ-957,Jaringan IT,Pemda,Cost Plus,0,11.52,57582,0,0,0,17.27,575,-3,3,Jawa Tengah,Urban,Hujan,120.0,4,22,5,11,10.28,1963,10.71,0,0
+PJ-958,Jalan Tol,Swasta Asing,Lump Sum,1,747.54,1495073,2242610,149507,7475,18.69,0,367,2,Kepulauan Bangka Belitung,Sub-urban,Kemarau,108.18,2,5,76,22,830.07,3353,-11.04,1,0
+PJ-959,Perumahan,Swasta Asing,Lump Sum,1,40.39,161578,20197,10098,0,0.0,1009,14,3,Jawa Barat,Sub-urban,Kemarau,104.79,6,3,12,49,36.07,2295,10.71,0,0
+PJ-960,Jaringan IT,Swasta Nasional,Cost Plus,0,57.62,288090,0,0,0,86.43,2880,11,2,Kalimantan Selatan,Rural,Kemarau,102.27,9,15,18,52,51.44,2728,10.71,0,0
+PJ-961,Perumahan,Pemda,Lump Sum,1,48.61,194446,24305,12152,0,0.0,1215,6,3,Papua Tengah,Urban,Kemarau,107.34,6,14,10,17,43.4,4538,10.71,0,1
+PJ-962,Jalan Tol,Swasta Asing,Lump Sum,1,2851.76,5703510,8555266,570351,28517,71.29,0,1443,2,Sumatera Selatan,Urban,Kemarau,110.99,9,10,286,57,2816.55,3399,1.23,1,0
+PJ-963,Gedung Perkantoran,Pemda,Lump Sum,1,147.28,441847,0,14728,2945,0.0,2945,83,1,Sulawesi Utara,Urban,Hujan,110.95,2,18,24,27,131.5,3138,10.71,0,0
+PJ-964,Jalan Tol,Pemda,Harga Satuan,0,2218.32,4436637,6654956,443663,22183,55.46,0,1109,2,Riau,Urban,Kemarau,119.03,2,8,224,60,2253.12,3953,-1.57,1,1
+PJ-965,Jaringan IT,BUMN,Lump Sum,0,81.26,406287,0,0,0,121.89,4062,52,1,Sulawesi Tengah,Urban,Kemarau,116.81,5,22,24,67,91.36,3850,-12.43,1,1
+PJ-966,Jaringan IT,Swasta Asing,Lump Sum,0,90.37,451828,0,0,0,135.55,4518,57,1,Papua,Urban,Hujan,109.9,9,22,26,53,97.19,4093,-7.55,1,1
+PJ-967,Jalan Tol,Swasta Nasional,Cost Plus,0,2330.02,4660031,6990046,466003,23300,58.25,0,1151,4,Kalimantan Timur,Rural,Kemarau,108.72,9,20,237,21,2772.68,4397,-19.0,1,1
+PJ-968,Perumahan,Pemda,Cost Plus,0,194.85,779388,97423,48711,0,0.0,4871,88,1,Jawa Timur,Sub-urban,Kemarau,104.03,2,18,42,53,173.97,3163,10.71,0,0
+PJ-969,Jalan Tol,BUMN,Harga Satuan,0,1542.29,3084585,4626878,308458,15422,38.56,0,753,1,Sumatera Utara,Rural,Kemarau,105.71,2,12,158,45,1555.82,4369,-0.88,1,1
+PJ-970,Perumahan,BUMN,Lump Sum,0,141.92,567660,70957,35478,0,0.0,3547,53,1,Sulawesi Tengah,Urban,Kemarau,110.67,5,5,29,41,163.11,3827,-14.94,1,1
+PJ-971,Gedung Perkantoran,BUMN,Lump Sum,0,93.95,281860,0,9395,1879,0.0,1879,59,2,Lampung,Sub-urban,Kemarau,112.61,2,13,18,55,83.89,2669,10.71,0,0
+PJ-972,Gedung Perkantoran,Pemda,Cost Plus,0,122.71,368122,0,12270,2454,0.0,2454,41,3,Kalimantan Tengah,Sub-urban,Hujan,110.8,5,7,19,51,109.56,3302,10.71,0,0
+PJ-973,Perumahan,Swasta Asing,Lump Sum,0,50.62,202478,25309,12654,0,0.0,1265,43,3,Riau,Urban,Kemarau,105.21,8,9,14,78,53.81,2465,-6.31,1,0
+PJ-974,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,271.3,813889,0,27129,5425,0.0,5425,131,1,DKI Jakarta,Urban,Kemarau,116.95,5,5,43,69,242.23,3708,10.71,0,1
+PJ-975,Perumahan,Swasta Nasional,Cost Plus,0,41.48,165927,20740,10370,0,0.0,1037,11,3,Bengkulu,Urban,Kemarau,100.84,9,10,10,63,37.04,2828,10.71,0,0
+PJ-976,Perumahan,Swasta Asing,Cost Plus,0,212.35,849400,106175,53087,0,0.0,5308,88,3,Sulawesi Tenggara,Rural,Hujan,109.03,5,4,44,48,226.19,4351,-6.52,1,1
+PJ-977,Jalan Tol,Swasta Nasional,Lump Sum,0,901.16,1802325,2703488,180232,9011,22.53,0,450,4,Banten,Urban,Kemarau,107.66,9,13,93,34,804.61,4088,10.71,0,1
+PJ-978,Perumahan,BUMN,Lump Sum,0,109.21,436830,54603,27301,0,0.0,2730,45,1,DI Yogyakarta,Urban,Kemarau,107.31,3,15,24,79,118.76,3493,-8.74,1,1
+PJ-979,Jalan Tol,Swasta Asing,Cost Plus,0,1722.04,3444087,5166131,344408,17220,43.05,0,860,4,Nusa Tenggara Barat,Urban,Kemarau,110.55,3,23,174,63,1821.83,3808,-5.79,1,1
+PJ-980,Gedung Perkantoran,Swasta Nasional,Lump Sum,0,287.47,862404,0,28746,5749,0.0,5749,134,3,Kalimantan Selatan,Urban,Kemarau,105.79,6,24,44,37,256.67,3340,10.71,0,0
+PJ-981,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,127.16,381482,0,12716,2543,0.0,2543,73,1,Jawa Tengah,Urban,Hujan,114.23,9,11,22,17,113.54,2955,10.71,0,0
+PJ-982,Gedung Perkantoran,Swasta Nasional,Lump Sum,1,253.02,759071,0,25302,5060,0.0,5060,121,2,Kalimantan Timur,Rural,Kemarau,111.88,6,17,40,37,225.91,3234,10.71,0,0
+PJ-983,Jaringan IT,BUMN,Cost Plus,0,56.52,282617,0,0,0,84.79,2826,44,2,Aceh,Urban,Hujan,119.7,7,24,16,63,50.47,3950,10.71,0,1
+PJ-984,Jembatan,Swasta Asing,Harga Satuan,0,520.26,1040528,1560793,104052,5202,13.01,0,249,3,Sumatera Utara,Urban,Kemarau,112.28,3,3,55,29,623.95,3224,-19.93,1,0
+PJ-985,Gedung Perkantoran,BUMN,Cost Plus,0,119.78,359336,0,11977,2395,0.0,2395,59,2,Kalimantan Barat,Rural,Kemarau,105.67,5,22,18,29,106.95,3402,10.71,0,0
+PJ-986,Jaringan IT,Swasta Nasional,Harga Satuan,0,42.6,212983,0,0,0,63.9,2129,6,2,Jambi,Rural,Hujan,100.35,2,17,12,18,38.03,3025,10.71,0,0
+PJ-987,Jaringan IT,Pemda,Cost Plus,0,90.39,451960,0,0,0,135.59,4519,44,3,Jawa Timur,Rural,Hujan,116.62,2,13,25,74,97.13,3445,-7.45,1,1
+PJ-988,Jalan Tol,Swasta Nasional,Cost Plus,0,784.37,1568743,2353114,156874,7843,19.61,0,409,3,Banten,Urban,Kemarau,108.8,4,5,82,20,700.33,3260,10.71,0,0
+PJ-989,Gedung Perkantoran,BUMN,Cost Plus,0,131.18,393538,0,13117,2623,0.0,2623,77,2,Papua Pegunungan,Urban,Hujan,107.88,2,6,23,79,117.12,3511,10.71,0,1
+PJ-990,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,53.05,159160,0,5305,1061,0.0,1061,11,1,Jambi,Sub-urban,Kemarau,113.35,4,12,8,15,47.37,3391,10.71,0,0
+PJ-991,Perumahan,Swasta Nasional,Lump Sum,0,192.59,770363,96295,48147,0,0.0,4814,79,2,Sulawesi Tengah,Rural,Kemarau,107.55,7,15,41,47,171.96,4204,10.71,0,1
+PJ-992,Gedung Perkantoran,BUMN,Lump Sum,0,180.35,541043,0,18034,3606,0.0,3606,102,2,Papua,Rural,Hujan,104.48,2,23,30,39,180.19,3074,0.09,1,0
+PJ-993,Jaringan IT,Swasta Nasional,Cost Plus,0,84.42,422119,0,0,0,126.64,4221,48,3,Sulawesi Barat,Sub-urban,Kemarau,107.98,5,7,23,21,75.38,3128,10.71,0,0
+PJ-994,Jembatan,Pemda,Cost Plus,0,1993.66,3987317,5980975,398731,19936,49.84,0,1013,2,Jambi,Sub-urban,Hujan,108.69,8,16,200,42,1780.05,3398,10.71,0,0
+PJ-995,Perumahan,Pemda,Harga Satuan,0,225.05,900206,112525,56262,0,0.0,5626,127,1,Sumatera Barat,Sub-urban,Kemarau,102.6,3,23,46,16,200.94,3335,10.71,0,0
+PJ-996,Gedung Perkantoran,BUMN,Cost Plus,0,215.69,647057,0,21568,4313,0.0,4313,119,3,Kalimantan Tengah,Urban,Kemarau,101.21,9,12,35,72,192.58,4261,10.71,0,1
+PJ-997,Jalan Tol,Swasta Nasional,Harga Satuan,0,871.06,1742126,2613189,174212,8710,21.78,0,431,1,Sulawesi Barat,Sub-urban,Kemarau,100.61,8,12,90,66,777.74,3838,10.71,0,1
+PJ-998,Jalan Tol,BUMN,Lump Sum,0,2192.47,4384934,6577402,438493,21924,54.81,0,1106,4,Jawa Barat,Rural,Hujan,104.72,3,19,223,58,2444.54,3351,-11.5,1,0
+PJ-999,Perumahan,Swasta Asing,Lump Sum,1,172.12,688468,86058,43029,0,0.0,4302,92,2,Papua Tengah,Urban,Kemarau,119.47,8,5,38,36,189.34,3088,-10.01,1,0
+PJ-1000,Jaringan IT,Swasta Nasional,Lump Sum,1,68.18,340881,0,0,0,102.26,3408,16,1,Maluku Utara,Sub-urban,Hujan,101.74,7,10,21,51,60.87,3378,10.71,0,1
+PJ-1001,Perumahan,Pemda,Harga Satuan,0,162.14,648541,81067,40533,0,0.0,4053,94,1,Maluku Utara,Rural,Kemarau,116.34,3,5,33,14,193.99,4670,-19.64,1,1
+PJ-1002,Jalan Tol,Pemda,Lump Sum,0,2710.32,5420646,8130969,542064,27103,67.76,0,1354,5,Jawa Barat,Sub-urban,Hujan,111.16,3,24,274,27,2419.93,4437,10.71,0,1
+PJ-1003,Gedung Perkantoran,Pemda,Cost Plus,0,99.3,297914,0,9930,1986,0.0,1986,39,1,Jawa Tengah,Sub-urban,Kemarau,114.89,7,5,16,37,88.67,3173,10.71,0,0
+PJ-1004,Jalan Tol,BUMN,Harga Satuan,0,572.59,1145188,1717783,114518,5725,14.31,0,270,4,Papua Barat,Urban,Kemarau,116.07,5,3,58,11,635.04,3863,-10.91,1,1
+PJ-1005,Jaringan IT,BUMN,Cost Plus,0,84.82,424109,0,0,0,127.23,4241,46,1,DI Yogyakarta,Sub-urban,Kemarau,109.19,5,21,22,55,75.73,3285,10.71,0,0
+PJ-1006,Jaringan IT,Pemda,Cost Plus,0,89.15,445732,0,0,0,133.72,4457,33,3,Jambi,Sub-urban,Hujan,110.52,6,5,26,66,79.6,3372,10.71,0,1
+PJ-1007,Perumahan,Swasta Asing,Lump Sum,0,104.42,417694,52211,26105,0,0.0,2610,36,1,Sulawesi Tenggara,Rural,Hujan,102.13,4,16,21,20,93.24,4142,10.71,0,1
+PJ-1008,Gedung Perkantoran,BUMN,Harga Satuan,0,90.45,271336,0,9044,1808,0.0,1808,56,3,Riau,Urban,Kemarau,113.23,8,15,17,54,80.75,3169,10.71,0,1
+PJ-1009,Jaringan IT,BUMN,Harga Satuan,0,17.86,89278,0,0,0,26.78,892,-4,1,Sulawesi Selatan,Sub-urban,Kemarau,115.62,7,16,5,31,15.94,3043,10.71,0,0
+PJ-1010,Gedung Perkantoran,Pemda,Cost Plus,0,223.77,671308,0,22376,4475,0.0,4475,98,1,Sulawesi Selatan,Rural,Hujan,101.43,7,15,34,35,199.79,4086,10.71,0,1
+PJ-1011,Perumahan,BUMN,Harga Satuan,0,239.18,956716,119589,59794,0,0.0,5979,108,1,Nusa Tenggara Barat,Rural,Hujan,111.79,6,20,51,15,213.55,3950,10.71,0,1
+PJ-1012,Perumahan,Swasta Asing,Lump Sum,1,63.18,252738,31592,15796,0,0.0,1579,32,3,Jawa Tengah,Rural,Hujan,108.69,8,11,16,10,56.41,3017,10.71,0,1
+PJ-1013,Gedung Perkantoran,Pemda,Harga Satuan,0,178.12,534351,0,17811,3562,0.0,3562,105,2,Banten,Rural,Kemarau,113.14,4,6,30,73,209.49,3821,-17.61,1,1
+PJ-1014,Gedung Perkantoran,Swasta Nasional,Cost Plus,0,289.45,868345,0,28944,5788,0.0,5788,151,1,Sumatera Selatan,Urban,Kemarau,104.3,2,15,45,17,334.94,3289,-15.72,1,0
+PJ-1015,Jembatan,Swasta Asing,Cost Plus,0,757.5,1514997,2272495,151499,7574,18.94,0,366,2,Kalimantan Timur,Rural,Hujan,113.7,7,18,79,72,676.34,3913,10.71,0,1
+PJ-1016,Jaringan IT,Pemda,Lump Sum,1,99.18,495906,0,0,0,148.77,4959,45,3,Kalimantan Barat,Urban,Kemarau,112.74,5,4,25,51,88.55,3381,10.71,0,0
+PJ-1017,Jalan Tol,Swasta Nasional,Cost Plus,0,887.05,1774102,2661153,177410,8870,22.18,0,436,1,DKI Jakarta,Sub-urban,Hujan,106.95,2,24,90,35,792.01,4007,10.71,0,1
+PJ-1018,Gedung Perkantoran,BUMN,Cost Plus,0,203.86,611584,0,20386,4077,0.0,4077,83,2,Banten,Urban,Kemarau,113.62,6,21,32,35,182.02,3257,10.71,0,0
+PJ-1019,Perumahan,Swasta Asing,Cost Plus,0,200.57,802281,100285,50142,0,0.0,5014,107,3,Kepulauan Bangka Belitung,Urban,Kemarau,115.72,8,10,44,35,179.08,3108,10.71,0,0
+PJ-1020,Jaringan IT,Swasta Nasional,Lump Sum,1,40.27,201333,0,0,0,60.4,2013,6,3,Sulawesi Tengah,Urban,Hujan,110.9,7,23,11,76,46.07,3902,-14.4,1,1
+PJ-1021,Gedung Perkantoran,Pemda,Cost Plus,0,265.22,795647,0,26521,5304,0.0,5304,143,1,Sulawesi Utara,Sub-urban,Hujan,114.73,2,17,42,32,236.8,3712,10.71,0,1
+PJ-1022,Jaringan IT,Swasta Nasional,Cost Plus,0,14.61,73051,0,0,0,21.92,730,15,3,Riau,Sub-urban,Hujan,119.94,9,14,7,79,13.04,2312,10.71,0,1
+PJ-1023,Pabrik,Swasta Nasional,Lump Sum,0,594.63,1486567,0,89194,23785,0.0,0,290,2,Nusa Tenggara Barat,Rural,Hujan,100.31,7,14,77,26,530.92,3290,10.71,0,0
+PJ-1024,Jalan Tol,Swasta Asing,Lump Sum,1,1740.55,3481096,5221644,348109,17405,43.51,0,861,2,DI Yogyakarta,Sub-urban,Hujan,113.35,8,12,178,79,1554.06,3333,10.71,0,0
+PJ-1025,Perumahan,Swasta Asing,Cost Plus,0,66.7,266815,33351,16675,0,0.0,1667,37,1,Kalimantan Barat,Urban,Hujan,102.68,3,24,17,71,59.56,3557,10.71,0,1
+PJ-1026,Gedung Perkantoran,Pemda,Cost Plus,0,145.39,436157,0,14538,2907,0.0,2907,54,1,Bengkulu,Sub-urban,Kemarau,116.64,3,5,23,57,129.81,3232,10.71,0,0
+PJ-1027,Gedung Perkantoran,BUMN,Lump Sum,1,230.68,692028,0,23067,4613,0.0,4613,111,1,Sulawesi Barat,Urban,Kemarau,105.15,2,21,35,77,268.56,3370,-16.42,1,0
+PJ-1028,Jalan Tol,Pemda,Cost Plus,0,1737.27,3474532,5211798,347453,17372,43.43,0,857,3,Sumatera Barat,Urban,Kemarau,109.2,5,24,174,58,1551.13,3403,10.71,0,0
+PJ-1029,Jalan Tol,Pemda,Cost Plus,0,2509.64,5019270,7528905,501927,25096,62.74,0,1262,2,Jawa Barat,Sub-urban,Kemarau,100.48,2,23,254,32,2240.75,3368,10.71,0,0
+PJ-1030,Pabrik,Swasta Asing,Lump Sum,0,442.97,1107433,0,66446,17718,0.0,0,239,2,Sulawesi Tengah,Rural,Hujan,118.79,4,16,57,61,395.51,3940,10.71,0,1
+PJ-1031,Perumahan,Pemda,Lump Sum,0,116.37,465462,58182,29091,0,0.0,2909,38,1,DKI Jakarta,Urban,Hujan,101.31,7,16,24,14,137.07,4176,-17.79,1,1
+PJ-1032,Perumahan,Swasta Asing,Lump Sum,0,103.53,414133,51766,25883,0,0.0,2588,50,1,Sulawesi Utara,Sub-urban,Kemarau,118.74,8,12,22,37,92.44,3768,10.71,0,1
+PJ-1033,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,106.65,319953,0,10665,2133,0.0,2133,46,3,Sumatera Selatan,Sub-urban,Hujan,104.75,5,10,17,22,108.84,3208,-2.05,1,0
+PJ-1034,Perumahan,Swasta Nasional,Lump Sum,0,203.72,814864,101858,50929,0,0.0,5092,106,1,Papua,Rural,Hujan,119.68,7,13,43,18,181.89,3230,10.71,0,0
+PJ-1035,Perumahan,Swasta Asing,Harga Satuan,0,43.87,175470,21933,10966,0,0.0,1096,5,2,DI Yogyakarta,Sub-urban,Hujan,102.83,9,15,12,23,39.17,2492,10.71,0,0
+PJ-1036,Jembatan,Swasta Asing,Cost Plus,0,2612.11,5224214,7836321,522421,26121,65.3,0,1292,1,Papua Tengah,Rural,Kemarau,109.49,9,5,263,69,2756.76,4246,-5.54,1,1
+PJ-1037,Gedung Perkantoran,Pemda,Cost Plus,0,78.62,235856,0,7861,1572,0.0,1572,28,3,Sumatera Utara,Urban,Hujan,114.59,3,10,12,69,88.96,3350,-13.16,1,0
+PJ-1038,Jaringan IT,Swasta Asing,Lump Sum,1,88.75,443733,0,0,0,133.12,4437,60,1,Gorontalo,Rural,Kemarau,117.33,4,8,24,33,79.24,3151,10.71,0,0
+PJ-1039,Jalan Tol,BUMN,Lump Sum,1,2559.85,5119701,7679552,511970,25598,64.0,0,1286,1,Papua,Rural,Hujan,115.16,5,16,257,75,2285.58,3395,10.71,0,0
+PJ-1040,Jaringan IT,Pemda,Harga Satuan,0,51.32,256608,0,0,0,76.98,2566,43,3,Sumatera Selatan,Rural,Kemarau,105.05,4,14,13,44,45.82,4590,10.71,0,1
+PJ-1041,Gedung Perkantoran,Swasta Asing,Cost Plus,0,239.69,719065,0,23968,4793,0.0,4793,135,2,Sulawesi Barat,Urban,Kemarau,109.64,6,19,39,30,214.01,3142,10.71,0,0
+PJ-1042,Gedung Perkantoran,BUMN,Harga Satuan,0,202.56,607671,0,20255,4051,0.0,4051,114,2,Kalimantan Barat,Urban,Hujan,100.87,4,13,33,72,180.85,3579,10.71,0,1
+PJ-1043,Gedung Perkantoran,BUMN,Lump Sum,0,111.33,333999,0,11133,2226,0.0,2226,64,2,Papua Tengah,Sub-urban,Hujan,104.11,9,9,17,65,99.4,4432,10.71,0,1
+PJ-1044,Gedung Perkantoran,Pemda,Harga Satuan,0,63.92,191771,0,6392,1278,0.0,1278,45,3,Kalimantan Tengah,Sub-urban,Hujan,109.49,7,5,12,27,64.92,2724,-1.56,1,0
+PJ-1045,Perumahan,BUMN,Lump Sum,1,173.74,694964,86870,43435,0,0.0,4343,78,2,Bengkulu,Urban,Kemarau,100.72,9,13,37,25,155.13,3201,10.71,0,0
+PJ-1046,Pabrik,Swasta Nasional,Lump Sum,0,222.29,555728,0,33343,8891,0.0,0,128,2,Jawa Tengah,Rural,Kemarau,116.68,9,5,29,25,224.97,3266,-1.2,1,0
+PJ-1047,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,101.77,305308,0,10176,2035,0.0,2035,55,1,Sulawesi Selatan,Rural,Hujan,119.37,5,6,18,71,90.87,3290,10.71,0,1
+PJ-1048,Jaringan IT,Swasta Nasional,Cost Plus,0,59.78,298908,0,0,0,89.67,2989,26,3,Papua Pegunungan,Urban,Kemarau,108.67,4,18,17,65,60.97,3512,-1.99,1,1
+PJ-1049,Jaringan IT,Swasta Asing,Harga Satuan,0,39.61,198073,0,0,0,59.42,1980,27,2,Banten,Urban,Kemarau,102.05,7,18,12,15,35.37,2813,10.71,0,0
+PJ-1050,Perumahan,BUMN,Cost Plus,0,73.54,294146,36768,18384,0,0.0,1838,29,2,Lampung,Urban,Kemarau,111.78,5,8,16,36,75.29,3133,-2.39,1,0
+PJ-1051,Perumahan,Pemda,Lump Sum,0,114.19,456763,57095,28547,0,0.0,2854,76,3,Gorontalo,Rural,Hujan,111.92,3,8,25,38,101.96,3114,10.71,0,0
+PJ-1052,Jaringan IT,Swasta Asing,Harga Satuan,0,59.69,298427,0,0,0,89.53,2984,17,3,Sulawesi Barat,Urban,Kemarau,114.43,9,15,15,65,64.32,4026,-7.77,1,1
+PJ-1053,Perumahan,Swasta Nasional,Cost Plus,0,106.76,427046,53380,26690,0,0.0,2669,47,2,Sumatera Selatan,Rural,Hujan,102.28,5,13,23,65,113.85,3828,-6.64,1,1
+PJ-1054,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,85.67,257010,0,8567,1713,0.0,1713,59,1,Sulawesi Tengah,Rural,Kemarau,100.55,6,13,15,64,76.49,3342,10.71,0,1
+PJ-1055,Jembatan,Swasta Asing,Lump Sum,0,2134.35,4268703,6403055,426870,21343,53.36,0,1078,5,Sulawesi Selatan,Urban,Hujan,115.34,7,23,217,60,2292.61,3966,-7.41,1,1
+PJ-1056,Gedung Perkantoran,Pemda,Harga Satuan,0,198.07,594201,0,19806,3961,0.0,3961,94,2,Gorontalo,Rural,Hujan,114.03,9,10,33,51,176.85,3069,10.71,0,0
+PJ-1057,Perumahan,Swasta Nasional,Harga Satuan,0,212.55,850180,106272,53136,0,0.0,5313,116,2,DKI Jakarta,Rural,Kemarau,114.07,3,8,45,61,189.77,3809,10.71,0,1
+PJ-1058,Perumahan,Swasta Asing,Lump Sum,0,77.19,308742,38592,19296,0,0.0,1929,40,1,Sulawesi Utara,Sub-urban,Hujan,106.04,4,15,16,78,88.34,3289,-14.45,1,0
+PJ-1059,Gedung Perkantoran,Swasta Asing,Cost Plus,0,256.82,770465,0,25682,5136,0.0,5136,138,1,Nusa Tenggara Timur,Urban,Hujan,116.06,4,17,42,44,229.31,3527,10.71,0,1
+PJ-1060,Gedung Perkantoran,BUMN,Harga Satuan,0,136.15,408446,0,13614,2722,0.0,2722,68,3,Jambi,Sub-urban,Hujan,106.53,8,8,22,35,142.7,3568,-4.81,1,1
+PJ-1061,Jembatan,BUMN,Lump Sum,0,2775.49,5550988,8326482,555098,27754,69.39,0,1388,4,Jawa Tengah,Urban,Kemarau,103.77,2,10,280,79,3097.74,3805,-11.61,1,1
+PJ-1062,Jalan Tol,BUMN,Cost Plus,0,1178.94,2357888,3536832,235788,11789,29.47,0,578,5,Papua Selatan,Urban,Kemarau,112.85,8,9,119,40,1052.63,3377,10.71,0,0
+PJ-1063,Pabrik,Swasta Asing,Harga Satuan,0,374.95,937376,0,56242,14998,0.0,0,194,3,Bali,Rural,Kemarau,113.39,6,17,50,10,334.78,3195,10.71,0,0
+PJ-1064,Gedung Perkantoran,Pemda,Lump Sum,0,185.78,557346,0,18578,3715,0.0,3715,100,2,Nusa Tenggara Timur,Sub-urban,Hujan,115.45,5,9,28,75,182.94,3392,1.53,1,0
+PJ-1065,Jaringan IT,Swasta Asing,Cost Plus,0,55.9,279487,0,0,0,83.85,2794,41,3,Aceh,Rural,Kemarau,112.61,3,12,17,23,49.91,2802,10.71,0,0
+PJ-1066,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,56.69,170063,0,5668,1133,0.0,1133,24,1,Maluku Utara,Sub-urban,Kemarau,105.3,3,16,11,77,50.61,2635,10.71,0,0
+PJ-1067,Gedung Perkantoran,BUMN,Lump Sum,0,147.83,443480,0,14782,2956,0.0,2956,80,2,Kalimantan Timur,Sub-urban,Hujan,115.0,5,6,25,38,146.59,3023,0.84,1,0
+PJ-1068,Gedung Perkantoran,Pemda,Harga Satuan,0,179.56,538667,0,17955,3591,0.0,3591,72,2,Papua Tengah,Sub-urban,Kemarau,110.36,3,24,28,28,160.32,3279,10.71,0,0
+PJ-1069,Jalan Tol,Pemda,Lump Sum,0,1688.17,3376344,5064516,337634,16881,42.2,0,831,4,Riau,Rural,Hujan,107.46,8,14,169,33,1507.3,4556,10.71,0,1
+PJ-1070,Jaringan IT,Pemda,Cost Plus,0,85.25,426243,0,0,0,127.87,4262,35,2,Jawa Timur,Urban,Hujan,102.73,8,14,23,54,76.11,3158,10.71,0,0
+PJ-1071,Jalan Tol,Swasta Asing,Lump Sum,0,930.31,1860627,2790941,186062,9303,23.26,0,475,4,Sumatera Utara,Sub-urban,Kemarau,110.16,8,6,95,22,962.05,4367,-3.41,1,1
+PJ-1072,Pabrik,BUMN,Lump Sum,0,561.37,1403413,0,84204,22454,0.0,0,285,1,Maluku Utara,Rural,Kemarau,101.18,6,10,71,77,501.22,3369,10.71,0,0
+PJ-1073,Pabrik,Swasta Nasional,Cost Plus,0,370.86,927142,0,55628,14834,0.0,0,175,1,Jambi,Rural,Kemarau,108.87,3,15,50,55,331.12,3160,10.71,0,0
+PJ-1074,Jalan Tol,Pemda,Cost Plus,0,2905.42,5810840,8716260,581084,29054,72.64,0,1457,4,Sulawesi Tenggara,Rural,Kemarau,104.19,8,22,292,20,2889.99,3392,0.53,1,0
+PJ-1075,Gedung Perkantoran,Swasta Asing,Harga Satuan,0,143.47,430422,0,14347,2869,0.0,2869,54,3,Nusa Tenggara Timur,Sub-urban,Hujan,108.01,5,16,22,72,128.1,3334,10.71,0,0
+PJ-1076,Perumahan,Swasta Asing,Cost Plus,0,184.92,739668,92458,46229,0,0.0,4622,79,3,Papua Barat,Rural,Hujan,102.62,9,5,37,26,165.1,3407,10.71,0,0
+PJ-1077,Gedung Perkantoran,BUMN,Lump Sum,1,223.94,671808,0,22393,4478,0.0,4478,102,1,Kalimantan Tengah,Urban,Hujan,108.24,3,7,35,12,199.94,3271,10.71,0,0
+PJ-1078,Pabrik,Swasta Asing,Harga Satuan,0,210.82,527054,0,31623,8432,0.0,0,92,1,Papua Barat Daya,Rural,Kemarau,117.18,2,4,27,43,219.47,4507,-4.1,1,1
+PJ-1079,Jembatan,BUMN,Cost Plus,0,640.23,1280458,1920687,128045,6402,16.01,0,334,4,Papua Pegunungan,Sub-urban,Hujan,117.86,8,15,68,27,739.35,3209,-15.48,1,0
+PJ-1080,Gedung Perkantoran,BUMN,Cost Plus,0,145.08,435229,0,14507,2901,0.0,2901,70,3,Jawa Barat,Urban,Kemarau,108.07,5,17,23,12,129.53,3225,10.71,0,0
+PJ-1081,Jalan Tol,Pemda,Harga Satuan,0,1207.25,2414496,3621745,241449,12072,30.18,0,613,5,Sulawesi Utara,Sub-urban,Kemarau,106.99,3,20,122,66,1077.9,3373,10.71,0,0
+PJ-1082,Jembatan,Pemda,Harga Satuan,0,699.77,1399534,2099301,139953,6997,17.49,0,349,2,Sulawesi Selatan,Sub-urban,Hujan,110.46,7,18,73,69,624.79,4288,10.71,0,1
+PJ-1083,Perumahan,Pemda,Harga Satuan,0,148.89,595574,74446,37223,0,0.0,3722,61,2,Jawa Barat,Rural,Kemarau,100.15,4,11,33,45,152.46,3076,-2.39,1,0
+PJ-1084,Gedung Perkantoran,BUMN,Harga Satuan,0,127.42,382264,0,12742,2548,0.0,2548,53,2,Kalimantan Tengah,Rural,Hujan,103.56,9,16,23,12,113.77,2832,10.71,0,0
+PJ-1085,Perumahan,BUMN,Cost Plus,0,119.93,479739,59967,29983,0,0.0,2998,60,1,Sulawesi Tenggara,Sub-urban,Hujan,113.48,2,6,26,63,117.82,3145,1.76,1,0
+PJ-1086,Jalan Tol,Swasta Asing,Harga Satuan,0,1193.29,2386584,3579876,238658,11932,29.83,0,582,3,Kalimantan Timur,Urban,Hujan,117.06,7,23,121,16,1065.44,3362,10.71,0,0
+PJ-1087,Gedung Perkantoran,BUMN,Harga Satuan,0,97.47,292410,0,9747,1949,0.0,1949,64,3,Aceh,Urban,Kemarau,100.49,2,11,17,28,87.03,2931,10.71,0,0
+PJ-1088,Perumahan,Swasta Nasional,Cost Plus,0,106.63,426516,53314,26657,0,0.0,2665,40,3,Papua Pegunungan,Sub-urban,Hujan,107.03,9,11,23,10,95.2,3160,10.71,0,0
+PJ-1089,Perumahan,Swasta Nasional,Lump Sum,0,246.39,985573,123196,61598,0,0.0,6159,103,1,Jawa Tengah,Rural,Hujan,104.68,8,11,51,43,219.99,3294,10.71,0,0
+PJ-1090,Jaringan IT,Swasta Asing,Harga Satuan,0,19.1,95516,0,0,0,28.65,955,22,1,Sulawesi Tenggara,Sub-urban,Hujan,108.43,2,15,8,25,17.06,2035,10.71,0,0
+PJ-1091,Jaringan IT,BUMN,Cost Plus,0,51.31,256568,0,0,0,76.97,2565,16,2,Riau,Urban,Hujan,102.19,4,10,13,58,45.82,3364,10.71,0,0
+PJ-1092,Jaringan IT,Swasta Asing,Cost Plus,0,99.6,498002,0,0,0,149.4,4980,32,3,Nusa Tenggara Timur,Urban,Hujan,112.1,9,7,27,18,88.93,3143,10.71,0,0
+PJ-1093,Perumahan,BUMN,Lump Sum,0,44.4,177602,22200,11100,0,0.0,1110,12,3,Maluku,Sub-urban,Hujan,109.08,2,12,11,21,39.64,2752,10.71,0,0
+PJ-1094,Gedung Perkantoran,Pemda,Cost Plus,0,69.83,209489,0,6982,1396,0.0,1396,34,2,DKI Jakarta,Rural,Hujan,103.51,8,19,11,79,62.35,3669,10.71,0,1
+PJ-1095,Gedung Perkantoran,Swasta Nasional,Harga Satuan,0,195.58,586728,0,19557,3911,0.0,3911,106,2,Kalimantan Timur,Rural,Hujan,104.91,6,5,32,72,206.32,3125,-5.49,1,0
+PJ-1096,Gedung Perkantoran,Swasta Asing,Cost Plus,0,228.5,685500,0,22850,4570,0.0,4570,129,2,DKI Jakarta,Sub-urban,Kemarau,117.96,6,4,38,75,204.02,3074,10.71,0,0
+PJ-1097,Jaringan IT,Swasta Asing,Lump Sum,0,62.92,314617,0,0,0,94.39,3146,15,3,Kepulauan Bangka Belitung,Sub-urban,Kemarau,111.42,5,14,17,18,56.18,3154,10.71,0,0
+PJ-1098,Perumahan,Swasta Nasional,Cost Plus,0,153.73,614930,76866,38433,0,0.0,3843,63,3,Jawa Timur,Sub-urban,Hujan,119.1,6,6,31,34,165.72,4418,-7.79,1,1
+PJ-1099,Jembatan,Pemda,Harga Satuan,0,2823.03,5646067,8469101,564606,28230,70.58,0,1400,4,Kalimantan Barat,Rural,Kemarau,101.55,4,19,284,64,2898.6,4326,-2.68,1,1
